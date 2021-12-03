@@ -17,7 +17,7 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-name="TG4" tvg-logo="https://i.imgur.com/Etm3Kgq.png" group-title="Ireland",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF: tvg-logo="https://www.highlandradio.com/wp-content/uploads/2021/03/HR_White-Portrait_logo_2021.png", Highland Radio
+EXTINF:-1 tvg-logo="https://www.highlandradio.com/wp-content/uploads/2021/03/HR_White-Portrait_logo_2021.png" group-title="radio" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/191687?checkedby:iptvcat.com
