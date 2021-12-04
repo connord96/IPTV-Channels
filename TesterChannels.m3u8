@@ -28,7 +28,7 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
-https://list.iptvcat.com/my_list/s/063116894845ad49874d891739cbb816.m3u8
+http://iptv.ndasat.com:88/224535547339016/224535547339016/6
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
 https://list.iptvcat.com/my_list/s/26501c62f678a6685c3c1449b99931be.m3u8
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD
@@ -70,16 +70,14 @@ http://line.thesmartiptv.com:900/4773C858/4C98AA45/378782?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",CBS SPORTS NETWORK HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/181380?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 1 EN FHD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267468?checkedby:iptvcat.com
+http://iptv.ndasat.com:88/224535547339016/224535547339016/5192
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 2 EN FHD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267469?checkedby:iptvcat.com
+http://iptv.ndasat.com:88/224535547339016/224535547339016/5193
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 3 EN FHD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267470?checkedby:iptvcat.com
+http://iptv.ndasat.com:88/224535547339016/224535547339016/5194
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",FOX Sports 1
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16222.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",FOX Sports 2
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16223.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",The Golf Channel
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16176.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NA" tvg-logo="https://www.galwayclinic.com/uploads/images/FullLengthImages/Small/shutterstock_1642888921_1.jpg" group-title="Other",Coronavirus Figures
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
