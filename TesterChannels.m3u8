@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.highlandradio.com/wp-content/uploads/2021/03/HR_White-Portrait_logo_2021.png" group-title="Ireland" radio="true",Highland Radio
-https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Foyle
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
 #EXTINF:-1 tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland" radio="true",RTÉ 1 Radio
