@@ -8,7 +8,7 @@ http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
 #EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ Raidió na Gaeltachta
-https://stream2.rdstrm.com/prx-http/icecast1.rte.ie/rnag
+http://icecast2.rte.ie/rnag
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-width-down/150?cb=20210310082012" group-title="Ireland",RTE 1
 https://list.iptvcat.com/my_list/s/b432f841e7541a4c9ed9c93b1b1835e4.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-width-down/150?cb=20210310082012" group-title="Ireland",RTE 1 FHD
