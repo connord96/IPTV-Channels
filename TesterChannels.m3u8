@@ -7,9 +7,9 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-id="" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC One Northern Ireland
+#EXTINF:-1 tvg-id="bbc1" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC One Northern Ireland
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29122
-#EXTINF:-1 tvg-id="" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC Two Northern Ireland
+#EXTINF:-1 tvg-id="bbc2" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC Two Northern Ireland
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29124
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-wth-down/150?cb=20210310082012" group-title="Ireland",RTE 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/418
