@@ -7,11 +7,11 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 ,UK: BBC One Northern Ireland
+#EXTINF:-1 tvg-id="" tvg-country="IE" ,BBC One Northern Ireland
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29122
-#EXTINF:-1 ,UK: BBC Two Northern Ireland
+#EXTINF:-1 tvg-id="" tvg-country="IE" ,BBC Two Northern Ireland
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29124
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-width-down/150?cb=20210310082012" group-title="Ireland",RTE 1
+#EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-wth-down/150?cb=20210310082012" group-title="Ireland",RTE 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/418
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rteone.svg/revision/latest/scale-to-width-down/150?cb=20210310082012" group-title="Ireland",RTE 1 FHD
 http://iptv.csserv.co:8000/live/clientr725/631739/460.ts?checkedby:iptvcat.com
@@ -29,31 +29,31 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
+#EXTINF:-1 tvg-id="ssn" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
 http://iptv.ndasat.com:88/224535547339016/224535547339016/6
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
+#EXTINF:-1 tvg-id="ssme" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD
+#EXTINF:-1 tvg-id="ssme" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/257073?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
+#EXTINF:-1 tvg-id="sspl" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199457?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
+#EXTINF:-1 tvg-id="sspl" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/702?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL SD
+#EXTINF:-1 tvg-id="ssf" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL SD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158240?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL HD
+#EXTINF:-1 tvg-id="ssf" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL HD
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/10731.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 1.
+#EXTINF:-1 tvg-id="bt1" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 1.
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 1 FHD
+#EXTINF:-1 tvg-id="bt1" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 1 FHD
 http://93.152.174.144:4000/play/btsport1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 2
+#EXTINF:-1 tvg-id="bt2" tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 2
+#EXTINF:-1 tvg-id="bt2" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 2
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/720
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 3
+#EXTINF:-1 tvg-id="bt3" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 3
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/721?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 3 FHD 50FPS
+#EXTINF:-1 tvg-id="bt3" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 3 FHD 50FPS
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/268374?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sport",Premier Sports 1
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/722
@@ -63,11 +63,11 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158271?checkedby:iptvcat.com
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/53362.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",Super Premier League
 http://cro.hockeynews.club/live/1/chunks.m3u8?
-#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" group-title="Sport",MUTV
+#EXTINF:-1 tvg-id="mutv" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png" group-title="Sport",MUTV
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158285?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",NBCSN
+#EXTINF:-1 tvg-id="nbcsn" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",NBCSN
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16162.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",NBCSN FHD
+#EXTINF:-1 tvg-id="nbcsn" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",NBCSN FHD
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/51993.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 1 EN FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267468?checkedby:iptvcat.com
@@ -79,5 +79,5 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267470?checkedby:iptvcat.com
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16222.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",FOX Sports 2
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16223.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",The Golf Channel
+#EXTINF:0 tvg-id="tgc" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",The Golf Channel
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16176.ts?checkedby:iptvcat.com
