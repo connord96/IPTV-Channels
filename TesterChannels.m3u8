@@ -3,6 +3,8 @@
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Foyle
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
 #EXTINF:-1 tvg-id="RTÉ Radio 1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
@@ -30,9 +32,11 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-id="SkySp News HD" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
-http://iptv.ndasat.com:88/224535547339016/224535547339016/6
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMlDKhObrK6wG_NVR7LXcfNOh2AvAfPWzN4y6yDx73Dq/ts
+#EXTINF:-1 tvg-id="SkySp News HD" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
+http://iptv.csserv.co:8000/live/clientr725/631739/481.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySpMainEv" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700?checkedby:iptvcat.com
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA_X1YtkIK6r-vmuI0_f4uMqrvAtS1Ud6KF5puYyXFsK/ts
 #EXTINF:-1 tvg-id="SkySpMainEv" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/257073?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySp PL" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
@@ -43,7 +47,7 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/702?checkedby:iptv
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158240?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL HD
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/10731.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Sky Sp Golf" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL HD
+#EXTINF:-1 tvg-id="Sky Sp Golf" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS GOLF
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158250?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 1.
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
@@ -73,10 +77,16 @@ http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16162.ts?checkedby:iptvcat.com
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/51993.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 1 EN FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267468?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 1 EN FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEjmCLoC-YiuU7rzha5gYTgHgpsIS2gj9r8fcn90Os0X/ts
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 2 EN FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267469?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 2 EN FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKu2R21xDKdsIJM4d7C2ZRoG3F71a-z-hWBRdy1pUhoV/ts
 #EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 3 EN FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/267470?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",beIN SPORTS 3 EN FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGlIyGxvRGf1jqzLbUomrNfpwzUTYnU3pEt6_rSHfAee/ts
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",FOX Sports 1
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16222.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" group-title="Sport",FOX Sports 2
