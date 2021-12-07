@@ -4,7 +4,7 @@ https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Foyle
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
 #EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Ulster
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
 #EXTINF:-1 tvg-id="RTÉ Radio 1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
