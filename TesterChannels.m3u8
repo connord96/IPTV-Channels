@@ -32,23 +32,23 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-id="SkySp News HD" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMlDKhObrK6wG_NVR7LXcfNOh2AvAfPWzN4y6yDx73Dq/ts
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1675.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySp News HD" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS NEWS HD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/257072?checkedby:iptvcat.com
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158235?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySpMainEv" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA_X1YtkIK6r-vmuI0_f4uMqrvAtS1Ud6KF5puYyXFsK/ts
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/5077.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySpMainEv" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS MAIN EVENT FHD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/257073?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SkySp PL" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199457?checkedby:iptvcat.com
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/700?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="SkySp PL" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/702?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SkySp PL" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS PREMIER LEAGUE  HD
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/10719.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL SD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158240?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS FOOTBALL HD
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/10731.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Sky Sp Golf" tvg-country="GB" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Sport",SKY SPORTS GOLF
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158250?checkedby:iptvcat.com
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/10723.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT SPORT 1.
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sport",BT Sport 1 FHD
