@@ -9,32 +9,20 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-id="BBC One NI HD" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC One Northern Ireland
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29122
-#EXTINF:-1 tvg-id="BBC Two NI" tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/BBC_Northern_Ireland.png",BBC Two Northern Ireland
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29124
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://list.iptvcat.com/my_list/s/21cf01ace92eaa46441f5bc7937b5445.m3u8" group-title="Ireland",RTE 1
-http://iptv.csserv.co:8000/live/clientr725/631739/460.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://list.iptvcat.com/my_list/s/b432f841e7541a4c9ed9c93b1b1835e4.m3u8" group-title="Ireland",RTE 1 FHD
-http://iptvvi.com:80/Kratz/XhcpDpXsndad/94972?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://list.iptvcat.com/my_list/s/b432f841e7541a4c9ed9c93b1b1835e4.m3u8" group-title="Ireland",RTE 1 FHD
-http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94972?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/1200px-RT%C3%89_logo.svg.png" group-title="Ireland",RTE 1
+http://grets.co21.net:2082/ahmed-p_596069/t0kqjrso/10495
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://img.rasset.ie/000f5f1b-300.jpg" group-title="Ireland",RTE 2 HD
-http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94973?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://img.rasset.ie/000f5f1b-300.jpg" group-title="Ireland",RTE 2 FHD
-http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/11089?checkedby:iptvcat.com
+http://grets.co21.net:2082/ahmed-p_596069/t0kqjrso/10494
 #EXTINF:-1 tvg-country="IE" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Ireland",TG4
-http://iptvvi.com:80/Kratz/XhcpDpXsndad/95026?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Ireland",TG4
-http://iptvvi.com:80/Kratz/XhcpDpXsndad/95026?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Ireland",TG4
-http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95026?checkedby:iptvcat.com
+http://grets.co21.net:2082/ahmed-p_596069/t0kqjrso/10479
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 1" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 1
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 2" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 2
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
+#EXTINF:-1 tvg-country="IE" tvg-name="RTE NEWS NOW" tvg-logo="https://pbs.twimg.com/profile_images/535485159022133248/qe_RJvQH_400x400.jpeg" group-title="Ireland",RTE NEWS NOW
+http://grets.co21.net:2082/ahmed-p_596069/t0kqjrso/13643
 #EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Cockhill Celtic
