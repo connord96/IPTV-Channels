@@ -9,12 +9,6 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/1200px-RT%C3%89_logo.svg.png" group-title="Ireland",RTE 1
-http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94972?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://img.rasset.ie/000f5f1b-300.jpg" group-title="Ireland",RTE 2 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/279272?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IE" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="Ireland",TG4
-http://watchbiptv.co:80/KbXAMQ5B/5639176/1939?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 1" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 1
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 2" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 2
