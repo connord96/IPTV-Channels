@@ -19,3 +19,5 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Cockhill Celtic
 https://c.veocdn.com/a6051b94-3f8f-4fae-81ea-381a785bd84e/standard/machine/e138f461/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Finn Harps U-17s
+https://c.veocdn.com/36338e15-8598-4017-9a16-1cd0b607ba39/standard/machine/1be6460e/h264_480_1800k.mp4
