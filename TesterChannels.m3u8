@@ -2,19 +2,13 @@
 #EXTINF:-1 tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Foyle
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
 #EXTINF:-1 tvg-id="BBC R Foyle" tvg-logo="https://media.info/i/lf/300/1405204220/424.png" group-title="Ireland" radio="true",BBC Radio Ulster
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
+http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
 #EXTINF:-1 tvg-id="RTÉ Radio 1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 1" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 1
-http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
-#EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 2" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 2
-http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
-#EXTINF:-1 tvg-country="IE" tvg-name="Virgin Media 3" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 3
-http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://inishowenfl.ie/wp-content/uploads/2018/06/2016/05/logo135x135.png" group-title="Moville Celtic",Moville Celtic Vs Cockhill Celtic
