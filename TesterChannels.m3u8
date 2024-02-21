@@ -71,3 +71,37 @@ https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a2
 https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Goals 21/22 (Regular Updates)
 https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-country="UN" group-title="Sport",SuperSport Premier League alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.premier.league.ze.m3u8#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="UNITED OF KINGDOM",|UK| SKY SPORTS NEWS HD Backup NO_2 alliptvlinks.com
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411#checkedby:alliptvlinks.com
+#EXTINF:-1,IE Virgin Media Two alliptvlinks.com
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11683#checkedby:alliptvlinks.com
+#EXTINF:-1,IE Virgin Media One alliptvlinks.com
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/122200#checkedby:alliptvlinks.com
+#EXTINF:-1,IE RTÉ News alliptvlinks.com
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4774#checkedby:alliptvlinks.com
+#EXTINF:-1,PREMIER SPORTS 2 Backup NO_4 alliptvlinks.com
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27877#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="UNITED OF KINGDOM",|UK| SKY SPORTS GOLF HD Backup NO_1 alliptvlinks.com
+http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1417#checkedby:alliptvlinks.com
+#EXTINF:-1,TNT Sports 3 alliptvlinks.com
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/151#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="UN" group-title="Sport",SuperSport PSL alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.psl.ze.m3u8#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="UNITED OF KINGDOM",|UK| SKY SPORTS PREMIER LEAGUE FHD Backup NO_6 alliptvlinks.com
+http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="UN" group-title="Sport",SuperSport Golf alliptvlinks.com
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.golf.ze.m3u8#checkedby:alliptvlinks.com
+#EXTINF:-1,IE Setanta Sports 1 alliptvlinks.com
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/54320#checkedby:alliptvlinks.com
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD Backup NO_1 alliptvlinks.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2091#checkedby:alliptvlinks.com
+#EXTINF:-1,IE Virgin Media Three alliptvlinks.com
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/7995#checkedby:alliptvlinks.com
+#EXTINF:-1,Premier Sports 1 Backup NO_2 alliptvlinks.com
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="PLUTO",USA BEIN SPORTS XTRA alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
