@@ -11,14 +11,6 @@ http://icecast.rte.ie/ieradio1
 http://icecast2.rte.ie/2fm
 #EXTINF:0 tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 tvg-country="IE" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",RTÉ News
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/477
-#EXTINF:-1 group-title="Ireland",Virgin Media One
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/122200
-#EXTINF:-1 group-title="Ireland",Virgin Media Two 
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11683
-#EXTINF:-1 group-title="Ireland",Virgin Media Three
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/7995
 #EXTINF:0 tvg-country="IE" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV
@@ -61,11 +53,11 @@ https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter" group-title="Sports",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
-#EXTINF:-1 group-title="Sports",SKY SPORTS NEWS (May Not Work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports",SKY SPORTS NEWS (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
-#EXTINF:-1 group-title="Sports",Sky Sports Premier League (May Not Work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports",Sky Sports Premier League (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103
-#EXTINF:-1 group-title="Sports",Premier Sports 1 (May Not Work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports",Premier Sports 1 (Probably Won't work - If not, use Sportsfire App)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
