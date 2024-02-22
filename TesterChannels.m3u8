@@ -53,12 +53,18 @@ https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter" group-title="Sports",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
-#EXTINF:-1 group-title="Sports",SKY SPORTS NEWS (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",SKY SPORTS NEWS (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
-#EXTINF:-1 group-title="Sports",Sky Sports Premier League (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",Sky Sports Premier League (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103
-#EXTINF:-1 group-title="Sports",Premier Sports 1 (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",Premier Sports 1 (Probably Won't work - If not, use Sportsfire App)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876
+#EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports2.ae" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="United Arab Emirates",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
