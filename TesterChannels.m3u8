@@ -33,12 +33,14 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
 https://lnc-fubo.tubi.video/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="sportstuff" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="talktv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Ireland",Talk TV
-https://www.youtube.com/talktv/live
+https://ythls-v2.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
 #EXTINF:-1 tvg-id="IE" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Ireland",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="euronewsireland" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Ireland",Euronews (Ireland)
@@ -61,28 +63,36 @@ https://bit.ly/3QsvP3A?profile=inspirationFreeTV.m3u8
 https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="failarmy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="TV Shows",Fail Army TV
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter" group-title="Sports",Poker Go!
+#EXTINF:-1 group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
-#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",SKY SPORTS NEWS (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
-#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",Sky Sports Premier League (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103
-#EXTINF:-1 group-title="Sports" tv-logo="https://storage.googleapis.com/cms-storage-bucket/original_images/ThisMightWork.png",Premier Sports 1 (Probably Won't work - If not, use Sportsfire App)
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876
-#EXTINF:-1 group-title="Sports" tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 (EPL Foreign Football - may work)
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 (EPL Foreign Football - may work)
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",Sport 3 (EPL Foreign Football - may work)
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports2.ae" group-title="Sports",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="United Arab Emirates",Sharjah Sports
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/1200px-SKY_Basic_Logo.svg.png",SKY SPORTS (Probably Won't work - If not, use Sportsfire App)
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/1200px-SKY_Basic_Logo.svg.png",Sky Sports (Probably Won't work - If not, use Sportsfire App)
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2875
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/1200px-SKY_Basic_Logo.svg.png",Sky Sports (Probably Won't work - If not, use Sportsfire App)
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2877
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/1200px-SKY_Basic_Logo.svg.png",Sky Sports (Probably Won't work - If not, use Sportsfire App)
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/2100
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/1200px-SKY_Basic_Logo.svg.png",Sky Sports (Probably Won't work - If not, use Sportsfire App)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20827
+#EXTINF:-1 group-title="Sports" tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",Premier Sports 1 (Probably Won't work - If not, use Sportsfire App)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876
+#EXTINF:-1 group-title="Sports" tv-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg",Eurosport (Probably Won't work - If not, use Sportsfire App)
+http://tvmate.icu:8080/jesus1/jesus1/53713
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mobibase.com/wp-content/uploads/stv2022.jpg",Sport 1 (EPL Foreign Football - may work)
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mobibase.com/wp-content/uploads/stv2022.jpg",SPORT 2 (EPL Foreign Football - may work)
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mobibase.com/wp-content/uploads/stv2022.jpg",Sport 3 (EPL Foreign Football - may work)
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mobibase.com/wp-content/uploads/stv2022.jpg",Sport 4 (EPL Foreign Football - may work)
+http://190.116.90.43:8000/play/a00u
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Cockhill Celtic
@@ -99,7 +109,5 @@ https://c.veocdn.com/8e299163-fefa-433d-80ef-acca3a253b00/standard/machine/e3007
 https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a280d/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/52032465.png" group-title="Clonmany Shamrocks", Clonmany Shamrocks Vs Greencastle
 https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Carrowmena F.C
-https://www.youtube.com/watch?v=EFKBIId4NCU
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Goals 21/22 (Regular Updates)
 https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
