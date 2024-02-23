@@ -17,11 +17,11 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://pbs.twimg.com/profile_images/1671467396236812289/wLjZsZlt_400x400.jpg" group-title="Sports",The United Stand (During United Matches Only)
 https://ythls-v2.onrender.com/channel/UCMmVPVb0BwSIOWVeDwlPocQ.m3u8
-#EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://stretfordpaddockfc.com/wp-content/uploads/2021/12/Red-and-white-2-2048x2048.png" group-title="Sports",Stretford Paddock (United Matches & Random Streams)
+#EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://stretfordpaddockfc.com/wp-content/uploads/2021/12/Red-and-white-2-2048x2048.png" group-title="Sports",Stretford Paddock (During United Matches & Random Streams Only)
 https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
-#EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://pbs.twimg.com/profile_images/1605666040960237569/ZAYXualG_400x400.jpg" group-title="Sports",That's Football (Sunday & Weekday Matches)
+#EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://pbs.twimg.com/profile_images/1605666040960237569/ZAYXualG_400x400.jpg" group-title="Sports",That's Football (Sunday & Weekday Matches Only)
 https://ythls-v2.onrender.com/channel/UCFxG3MxHC1ogUglvJeMHmVQ.m3u8
-#EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed)
+#EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed: 11am->7pm)
 https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 #EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
@@ -43,7 +43,7 @@ https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 https://ythls-v2.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
 #EXTINF:-1 tvg-id="IE" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Ireland",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsireland" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Ireland",Euronews (Ireland)
+#EXTINF:-1 tvg-id="euronewsireland" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Ireland",Euronews
 https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bloombergtv" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Ireland",Bloomberg TV
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
@@ -71,29 +71,29 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random SPORTS (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2875
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 3 (Probably Won't work - If not, use Sportsfire App)
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2877
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 4 (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/2100
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 5 (Probably Won't work - If not, use Sportsfire App)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20827
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 6 (Probably Won't work - If not, use Sportsfire App)
 http://tvmate.icu:8080/jesus1/jesus1/53706
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 7 (Probably Won't work - If not, use Sportsfire App)
 http://190.116.90.43:8000/play/a00u
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 8 (Probably Won't work - If not, use Sportsfire App)
 http://tvmate.icu:8080/jesus1/jesus1/53713
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 9 (Probably Won't work - If not, use Sportsfire App)
 http://tvmate.icu:8080/jesus1/jesus1/167742
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 10 (Probably Won't work - If not, use Sportsfire App)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/27876
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg", Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 11 (Probably Won't work - If not, use Sportsfire App)
 http://tvmate.icu:8080/jesus1/jesus1/53713
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports (Probably Won't work - If not, use Sportsfire App)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 12 (Probably Won't work - If not, use Sportsfire App)
 http://190.116.90.43:8000/play/a00u
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
@@ -111,5 +111,5 @@ https://c.veocdn.com/8e299163-fefa-433d-80ef-acca3a253b00/standard/machine/e3007
 https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a280d/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/52032465.png" group-title="Clonmany Shamrocks", Clonmany Shamrocks Vs Greencastle
 https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Goals 21/22 (Regular Updates)
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Goals 21/22
 https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
