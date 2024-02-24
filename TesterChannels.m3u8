@@ -10,7 +10,7 @@ http://icecast.rte.ie/ieradio1
 #EXTINF:-1 tvg-id="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
 #EXTINF:-1 tvg-id="rnag" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland" radio="true",RTÉ Raidio na Gaeltachta
-https://stream3.rdstrm.com/prx-http/icecast1.rte.ie/rnag
+http://icecast2.rte.ie/rnag
 #EXTINF:-1 tvg-id="rnag" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 #EXTINF:-1 tvg-id="Newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland" radio="true",Newstalk
