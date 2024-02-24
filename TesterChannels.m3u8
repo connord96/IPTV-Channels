@@ -13,7 +13,7 @@ http://icecast2.rte.ie/2fm
 https://stream3.rdstrm.com/prx-http/icecast1.rte.ie/rnag
 #EXTINF:-1 tvg-id="rnag" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
-#EXTINF:-1 tvg-id="Newstalk" tvg-logo="g" group-title="Ireland" radio="true",Newstalk
+#EXTINF:-1 tvg-id="Newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland" radio="true",Newstalk
 https://stream.audioxi.com/NT
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
 https://stream.audioxi.com/TD
