@@ -1,5 +1,7 @@
 #EXTM3U
 
+####################################
+
 #This section is for Irish radio stations
 #EXTINF:-1 tvg-id="Highland Radio" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
@@ -19,6 +21,8 @@ https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 https://stream.audioxi.com/NT
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
 https://stream.audioxi.com/TD
+
+####################################
 
 #This section is for reliable IPTV links & YouTube Live channels
 #EXTINF:0 tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
@@ -88,43 +92,39 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
+####################################
+
 #This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
+http://watchindia.net:8880/live/12171/04170628/2091.ts #main event
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8
+http://78.26.128.59:9876/play/161/index.m3u8 #s
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 3 (Probably Won't work - If not, use Sportsfire App)
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8
+http://watchindia.net:8880/live/12171/04170628/1070.ts #star select 1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 4 (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/2100
+http://watchindia.net:8880/live/12171/04170628/1071.ts #star select 2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 5 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2091.ts
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8 #setanta 1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 6 (Probably Won't work - If not, use Sportsfire App)
-http://181.78.208.254:8010/play/a008/index.m3u8
+http://watchindia.net:8880/live/12171/04170628/2093.ts #sky football
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 7 (Probably Won't work - If not, use Sportsfire App)
-http://78.26.128.59:9876/play/161/index.m3u8
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411 #sky golf
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 8 (Probably Won't work - If not, use Sportsfire App)
-http://78.26.128.59:9876/play/4/index.m3u8
+http://78.26.128.59:9876/play/4/index.m3u8 #s+
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 9 (Probably Won't work - If not, use Sportsfire App)
-http://190.116.90.43:8000/play/a018
+http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/2100 #sky mix
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 10 (Probably Won't work - If not, use Sportsfire App)
-http://190.116.90.43:8000/play/a00u
+http://watchindia.net:8880/live/12171/04170628/2215.ts #sonysport1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 11 (Probably Won't work - If not, use Sportsfire App)
-http://45.160.12.253:8000/play/212
+http://45.160.12.253:8000/play/212 #espnargentina
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 12 (Probably Won't work - If not, use Sportsfire App)
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2830
+http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2830 #bein
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/1070.ts
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8 #setanta 2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 14 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/1071.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 15 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2093.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2215.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 17 (Probably Won't work - If not, use Sportsfire App)
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://pbs.twimg.com/profile_images/1213631166554574848/BzQWp_-Z_400x400.jpg",Random Sports 18 (Probably Won't work - If not, use Sportsfire App)
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+http://181.78.208.254:8010/play/a008/index.m3u8
+
+####################################
 
 #This is for local VEO files
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
