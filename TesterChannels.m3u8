@@ -121,7 +121,10 @@ http://watchindia.net:8880/live/12171/04170628/1071.ts
 http://watchindia.net:8880/live/12171/04170628/2093.ts
 #EXTINF:-1 group-title="Sports Links (Might work - Try Each Channel!)" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/2215.ts
-
+#EXTINF:-1 group-title="Sports Links (Might work - Try Each Channel!)" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="Sports Links (Might work - Try Each Channel!)" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 
 #This is for local VEO files
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
