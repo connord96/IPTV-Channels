@@ -25,9 +25,9 @@ https://stream.audioxi.com/TD
 ####################################
 
 #This section is for reliable IPTV links & YouTube Live channels
-#EXTINF:0 tvg-country="IE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
+#EXTINF:0 tvg-country="IE" tvg-id="TG4(src01).ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 tvg-country="IE" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
+#EXTINF:0 tvg-country="IE" tvg-id="OireachtasTV(src01).uk" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -39,7 +39,7 @@ https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
 https://ythls-v2.onrender.com/channel/UCFxG3MxHC1ogUglvJeMHmVQ.m3u8
 #EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed: 11am->7pm)
 https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
-#EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
+#EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
@@ -49,39 +49,39 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
 https://lnc-fubo.tubi.video/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="sportstuff" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
+#EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-id="talktv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Entertainment",Talk TV
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Entertainment",Talk TV
 https://ythls-v2.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
-#EXTINF:-1 tvg-id="IE" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Entertainment",CNN News Europe
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Entertainment",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsireland" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Entertainment",Euronews
+#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Entertainment",Euronews
 https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bloombergtv" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Entertainment",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Entertainment",Bloomberg TV
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:-1 tvg-id="worldofsport" tvg-logo="https://www.worldoffreesports-tv.com/assets/images/d/world-of-freesports-channel-headerbild-4abc8779.jpg" group-title="Sports",World Of Free Sport
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://www.worldoffreesports-tv.com/assets/images/d/world-of-freesports-channel-headerbild-4abc8779.jpg" group-title="Sports",World Of Free Sport
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgat/playlist.m3u8
-#EXTINF:-1 tvg-id="bloombergoriginals" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
+#EXTINF:-1 tvg-id="BloombergOriginalsUK.uk" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
 https://bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bbctopgear" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7214c853077449.592c7b04a4313.jpg" group-title="Entertainment",BBC Top Gear
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Top-Gear.m3u8
-#EXTINF:-1 tvg-id="unsolvedmysteries" tvg-logo="https://www.rollingstone.com/wp-content/uploads/2021/02/Unsolved-Mysteries-C13-cover-art-landscape.jpg" group-title="Entertainment",Unsolved Mysteries
+#EXTINF:-1 tvg-id="UnsolvedMysteries.uk" tvg-logo="https://www.rollingstone.com/wp-content/uploads/2021/02/Unsolved-Mysteries-C13-cover-art-landscape.jpg" group-title="Entertainment",Unsolved Mysteries
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
-#EXTINF:-1 tvg-id="unsolvedmysteries" tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png" group-title="Entertainment",Pluto Crime TV
+#EXTINF:-1 tvg-id="PlutoTVCrime.de" tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png" group-title="Entertainment",Pluto Crime TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="unsolvedmysteries" tvg-logo="https://cdn.mos.cms.futurecdn.net/Mqzv5JeFqkQBizXX7fQ5qM-200-100.jpg" group-title="Entertainment",Rakuten TV Shows
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Mqzv5JeFqkQBizXX7fQ5qM-200-100.jpg" group-title="Entertainment",Rakuten TV Shows
 https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="conan" group-title="Entertainment" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brien Show (US)
 https://bit.ly/3QsvP3A?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-id="cops" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmODRmYTMtNjZkMS00ZjdkLThlZjgtMjM1NzEzZTgxM2JmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg" group-title="Entertainment",Cops TV
 https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="failarmy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment",Fail Army TV
+#EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment",Fail Army TV
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
