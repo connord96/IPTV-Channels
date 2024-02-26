@@ -31,14 +31,14 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed)
+https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 #EXTINF:-1 tvg-id="unitedstand" tvg-logo="https://pbs.twimg.com/profile_images/1671467396236812289/wLjZsZlt_400x400.jpg" group-title="Sports",The United Stand (During United Matches Only)
 https://ythls-v2.onrender.com/channel/UCMmVPVb0BwSIOWVeDwlPocQ.m3u8
 #EXTINF:-1 tvg-id="stretfordpaddock" tvg-logo="https://stretfordpaddockfc.com/wp-content/uploads/2021/12/Red-and-white-2-2048x2048.png" group-title="Sports",Stretford Paddock (During United Matches & Random Streams Only)
 https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
 #EXTINF:-1 tvg-id="thatsfootball" tvg-logo="https://pbs.twimg.com/profile_images/1605666040960237569/ZAYXualG_400x400.jpg" group-title="Sports",That's Football (Sunday & Weekday Matches Only)
 https://ythls-v2.onrender.com/channel/UCFxG3MxHC1ogUglvJeMHmVQ.m3u8
-#EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed: 11am->7pm)
-https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
@@ -96,31 +96,37 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2091.ts #main event
+http://watchindia.net:8880/live/12171/04170628/2091.ts #mainevent
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
 http://78.26.128.59:9876/play/161/index.m3u8 #s
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 3 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/1070.ts #star select 1
+http://watchindia.net:8880/live/12171/04170628/1070.ts #starselect1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 4 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/1071.ts #star select 2
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8 #setanta1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 5 (Probably Won't work - If not, use Sportsfire App)
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8 #setanta 1
+http://watchindia.net:8880/live/12171/04170628/1071.ts #starselect2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 6 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2093.ts #sky football
+http://watchindia.net:8880/live/12171/04170628/2093.ts #skyfootball
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 7 (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/1411
+http://1MIR-IPTV.RU/hhh/rutube1.php?id=11bbbec75a2ceb8cf446ad16813c6eec&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 8 (Probably Won't work - If not, use Sportsfire App)
 http://78.26.128.59:9876/play/4/index.m3u8 #s+
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 9 (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/2100 #sky mix
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 10 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/2215.ts #sonysport1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 11 (Probably Won't work - If not, use Sportsfire App)
-http://45.160.12.253:8000/play/212 #espnargentina
+http://1mir-iptv.ru/hhh/testx.php?channel_id=69&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 12 (Probably Won't work - If not, use Sportsfire App)
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2830 #bein
+http://1MIR-IPTV.RU/hhh/view55.php?id=251&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8 #setanta 2
+http://1MIR-IPTV.RU/hhh/view55.php?id=748&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
+
 
 ####################################
 
