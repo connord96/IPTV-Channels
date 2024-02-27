@@ -114,6 +114,10 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://www.chessdom.com/wp-content/uploads/2022/06/CCTV-5-China.jpg" tvg-id="cctv5" group-title="Sports",CCTV5 China
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 
 
