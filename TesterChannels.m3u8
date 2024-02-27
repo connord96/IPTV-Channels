@@ -44,26 +44,24 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a30009
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
 #EXTINF:-1 tvg-id="golfpass" tvg-logo="https://image.roku.com/developer_channels/prod/dcc5a8374fcd114aff2db3dda4c6ad51f8a2c24ce0d929ed6f5b69156bb0cfad.png" group-title="Sports",Golf Pass
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
-#EXTINF:-1 tvg-id="onegolf" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",OneGolf TV
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
-https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8 
-#EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
+#EXTINF:-1 tvg-id="cornhole" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
+https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Entertainment",Talk TV
 https://ythls-v2.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
-#EXTINF:-1 tvg-id="gbnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png" group-title="Entertainment",Sky News
-https://ythls-v2.onrender.com/channel/UCoMdktPbSTixAyNGwb-UYk.m3u8
+#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png" group-title="Entertainment",Sky News
+https://ythls-v2.onrender.com/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-id="gbnews" tvg-logo="https://assets.rbl.ms/32415081/origin.jpg" group-title="Entertainment",GB News
 https://ythls-v2.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Entertainment",CNN News Europe
@@ -114,7 +112,7 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="SharjahSports.ae" group-title="Sports",Persiana Sports
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://www.chessdom.com/wp-content/uploads/2022/06/CCTV-5-China.jpg" tvg-id="cctv5" group-title="Sports",CCTV5 China
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
