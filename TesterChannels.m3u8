@@ -58,6 +58,10 @@ https://lnc-fubo.tubi.video/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8 
+#EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Entertainment",Talk TV
@@ -68,10 +72,20 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Entertainment",Bloomberg TV
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tracesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sports Stars TV
+https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:-1 tvg-id="scooore" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/18114704/scooore_Ghana_RGB.png" group-title="Sports",Scooore Sportdigital
+https://i.mjh.nz/SamsungTVPlus/ATBD26000124P.m3u8
+#EXTINF:-1 tvg-id="sportdigital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="Sports",Sport Digital Fussball
+https://i.mjh.nz/SamsungTVPlus/ATAJ0500433A.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://www.worldoffreesports-tv.com/assets/images/d/world-of-freesports-channel-headerbild-4abc8779.jpg" group-title="Sports",World Of Free Sport
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgat/playlist.m3u8
+#EXTINF:-1 tvg-id="skymix" tvg-logo="https://media.info/l/f/1/1399.1697630999.png" group-title="Entertainment",Sky Mix
+https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
+#EXTINF:-1 tvg-id="skymix" tvg-logo="https://images.a2im.org/wp-content/uploads/2023/04/26130509/Vevo-logo-Molly-Boekenheide.png" group-title="Entertainment",Vevo Music 70's & 80's
+https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginalsUK.uk" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
 https://bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bbctopgear" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7214c853077449.592c7b04a4313.jpg" group-title="Entertainment",BBC Top Gear
@@ -82,12 +96,16 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,U
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Mqzv5JeFqkQBizXX7fQ5qM-200-100.jpg" group-title="Entertainment",Rakuten TV Shows
 https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="haunt" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/5d6aae87e54b1ea9e05fe232/60d8dd9bf09a516618ba04f4_Haunt_Header.jpg",Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="conan" group-title="Entertainment" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brien Show (US)
 https://bit.ly/3QsvP3A?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-id="cops" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmODRmYTMtNjZkMS00ZjdkLThlZjgtMjM1NzEzZTgxM2JmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg" group-title="Entertainment",Cops TV
 https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment",Fail Army TV
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="worldpokertour" tvg-logo="https://pokerindustrypro.com/site_media/media/uploads/news/wpt-2022-new-logo.jpg",World Poker Tour
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
 #EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1
@@ -105,7 +123,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
-#This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - 
+#This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/1070.ts #starselect1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
@@ -119,7 +137,7 @@ http://watchindia.net:8880/live/12171/04170628/1071.ts #starselect2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 6 (Probably Won't work - If not, use Sportsfire App)
 http://1MIR-IPTV.RU/hhh/rutube1.php?id=11bbbec75a2ceb8cf446ad16813c6eec&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 7 (Probably Won't work - If not, use Sportsfire App)
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 8 (Probably Won't work - If not, use Sportsfire App)
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 9 (Probably Won't work - If not, use Sportsfire App)
@@ -144,6 +162,12 @@ https://6oclock.xyz:8443/Linda/12345/12689
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1516
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 19 (Probably Won't work - If not, use Sportsfire App)
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1519
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 20 (Probably Won't work - If not, use Sportsfire App)
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 21 (Probably Won't work - If not, use Sportsfire App)
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 22 (Probably Won't work - If not, use Sportsfire App)
+https://hls.streambtw.com/live/stream_7.m3u8
 
 
 
