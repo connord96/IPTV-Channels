@@ -20,9 +20,12 @@ https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 #EXTINF:-1 tvg-id="newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland" radio="true",Newstalk
 https://stream.audioxi.com/NT
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
-https://stream.audioxi.com/TD
+https://edge.audioxi.com/TDAAC
 
-####################################
+
+
+
+
 
 #This section is for reliable IPTV links & YouTube Live channels
 #EXTINF:0 tvg-country="IE" tvg-id="TG4(src01).ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
@@ -96,7 +99,11 @@ https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-####################################
+
+
+
+
+
 
 #This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
@@ -138,9 +145,12 @@ http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1516
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 19 (Probably Won't work - If not, use Sportsfire App)
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1519
 
-####################################
 
-#This is for VEO files
+
+
+
+
+
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Vs Cockhill Celtic
