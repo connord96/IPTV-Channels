@@ -1,8 +1,6 @@
 #EXTM3U
 
-####################################
 
-#This section is for Irish radio stations
 #EXTINF:-1 tvg-id="highland" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="bbcrfoyle" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland" radio="true",BBC Radio Foyle
@@ -25,7 +23,7 @@ https://edge.audioxi.com/TDAAC
 
 
 
-#This section is for reliable IPTV links & YouTube Live channels
+
 #EXTINF:0 tvg-country="IE" tvg-id="TG4(src01).ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="OireachtasTV(src01).uk" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
@@ -129,7 +127,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 
 
-#This section is for maintainable PPV links. Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/1070.ts #starselect1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
@@ -161,7 +158,7 @@ http://78.26.128.59:9876/play/161/index.m3u8 #s
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 15 (Probably Won't work - If not, use Sportsfire App)
 http://1mir-iptv.ru/hhh/testx.php?channel_id=69&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
-https://6oclock.xyz:8443/Linda/12345/20821 #bt1
+https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 17 (Probably Won't work - If not, use Sportsfire App)
 https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 18 (Probably Won't work - If not, use Sportsfire App)
@@ -171,19 +168,11 @@ http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1519
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 20 (Probably Won't work - If not, use Sportsfire App)
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 21 (Probably Won't work - If not, use Sportsfire App)
-https://hls.streambtw.com/live/stream_3.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 22 (Probably Won't work - If not, use Sportsfire App)
 https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 23 (Probably Won't work - If not, use Sportsfire App)
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 24 (Probably Won't work - If not, use Sportsfire App)
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 25 (Probably Won't work - If not, use Sportsfire App)
-https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 25 (Probably Won't work - If not, use Sportsfire App)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts
-
-
 
 
 
@@ -206,3 +195,6 @@ https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a2
 https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Moville Celtic",Moville Celtic Goals 21/22
 https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
+
+#Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8
+
