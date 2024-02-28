@@ -38,18 +38,54 @@ https://ythls-v2.onrender.com/channel/UCMmVPVb0BwSIOWVeDwlPocQ.m3u8
 https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
 #EXTINF:-1 tvg-id="thatsfootball" tvg-logo="https://pbs.twimg.com/profile_images/1605666040960237569/ZAYXualG_400x400.jpg" group-title="Sports",That's Football (Sunday & Weekday Matches Only)
 https://ythls-v2.onrender.com/channel/UCFxG3MxHC1ogUglvJeMHmVQ.m3u8
+#EXTINF:-1 tvg-name="k24" tvg-logo="" tvg-id="turkmensport" group-title="Sports",K24(Live English Games)
+https://livestream.angani.africa/livestream/k24/1/k24.m3u8
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="" tvg-id="SharjahSports.ae" group-title="Sports",Football HD Tajikistan(Live English Games)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="" tvg-id="SharjahSports.ae" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="" tvg-id="SharjahSports.ae" group-title="Sports",Match! Russia(Live English Games)
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="SharjahSports.ae" group-title="Sports",Persiana Sports (Live English Games)
+https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="varseshtv" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Varzesh Sport (Live English Games)
+https://af.ayas.ir/hls2/varzeshtv.m3u8
+#EXTINF:-1 tvg-name="varseshtv" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Varzesh Sport Backup (Live English Games)
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",AIO Sport 1(Live English Games)
+https://stream.live12.ir/hls2/varzeshtv-1709093309791.ts
+#EXTINF:-1 tvg-name="iribsport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
+https://af.ayas.ir/hls2/ayassport1.m3u8
+#EXTINF:-1 tvg-name="belarus5" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Belarus 5(Live European Games)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="iribsport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Shabakke Jaam (Live European Games)
+https://ncdn.telewebion.com/jam/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
 #EXTINF:-1 tvg-id="golfpass" tvg-logo="https://image.roku.com/developer_channels/prod/dcc5a8374fcd114aff2db3dda4c6ad51f8a2c24ce0d929ed6f5b69156bb0cfad.png" group-title="Sports",Golf Pass
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
+#EXTINF:-1 tvg-id="golfnetwork" tvg-logo="" group-title="Sports",Golf Network
+http://203.162.235.41:28107
+#EXTINF:-1 tvg-id="jojsport" tvg-logo="" group-title="Sports",JOJ Sport (LIV Golf)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="jtbc" tvg-logo="" group-title="Sports",JTBC Golf
+https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
+#EXTINF:-1 tvg-id="jtbc" tvg-logo="" group-title="Sports",Fanduel (PL Darts & Poker)
+https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8?ads.wurl_channel=1568&ads.wurl_name=FanDuelTVChannel&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",USA Bein Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="ftf" tvg-logo="" group-title="Sports",Sportak
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8?channel_name=SportStak&content_id=9b4d2cb7_20240125183000_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=SportStak&channel_partner=SportStak&content_genre=Sport&t=2024-01-25T18%3A30%3A00.000&ic=IAB9-7%2CIAB483%2CIAB483-547%2CIAB483-533%2CIAB483-487
 #EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8 
 #EXTINF:-1 tvg-id="cornhole" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
@@ -106,12 +142,12 @@ https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
+#EXTINF:-1 tvg-name="Dazn" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dazn Football
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports2.ae" group-title="Sports",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="SharjahSports.ae" group-title="Sports",Persiana Sports
-https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://www.chessdom.com/wp-content/uploads/2022/06/CCTV-5-China.jpg" tvg-id="cctv5" group-title="Sports",CCTV5 China
