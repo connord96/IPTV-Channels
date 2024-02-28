@@ -46,14 +46,18 @@ https://live.teleradiocom.tj/8/3m.m3u8
 https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="" tvg-id="SharjahSports.ae" group-title="Sports",Match! Russia(Live English Games)
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="SharjahSports.ae" group-title="Sports",Persiana Sports (Live English Games)
-https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-name="varzish" tvg-logo="" tvg-id="turkmensport" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
+https://edge07.97588.ir.cdn.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Varzesh Sport (Live English Games)
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-name="solhtv" tvg-logo="" tvg-id="SharjahSports.ae" group-title="Sports",SolhTV(Live English Games & Champions League)
+https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="SharjahSports.ae" group-title="Sports",Persiana Sports (Live English Games)
+https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",AIO Sport 1(Live English Games)
 https://stream.live12.ir/hls2/varzeshtv-1709093309791.ts
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
@@ -62,6 +66,10 @@ https://af.ayas.ir/hls2/ayassport1.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Shabakke Jaam (Live European Games)
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
+#EXTINF:-1 tvg-name="iribsport" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Tudn Sports (Live European Games)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-name="pokertv" tvg-logo="" tvg-id="turkmensport" group-title="Sports",Poker TV Sport (Live FA Cup)
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
