@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information",Information
-https://streamable.com/ydpvj0
+https://cdn-user.veed.io/render/662ac04c-11db-4ec0-b364-36e2efa28a52.mp4
 
 #EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
 #EXTINF:-1 tvg-id="highland" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
