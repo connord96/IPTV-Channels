@@ -35,14 +35,14 @@ https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 https://ythls-v2.onrender.com/channel/UCMmVPVb0BwSIOWVeDwlPocQ.m3u8
 #EXTINF:-1 tvg-id="stretfordpaddock" tvg-logo="https://stretfordpaddockfc.com/wp-content/uploads/2021/12/Red-and-white-2-2048x2048.png" group-title="Sports",Stretford Paddock (During United Matches & Random Streams Only)
 https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
-#EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
-https://livestream.angani.africa/livestream/k24/1/k24.m3u8
-#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="persianasports" group-title="Sports",Football HD Tajikistan(Live English Games)
+#EXTINF:-1 tvg-name="persianasports" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan(Live English Games)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports (Live English Games)
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
+https://livestream.angani.africa/livestream/k24/1/k24.m3u8
+#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
@@ -51,24 +51,22 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://edge07.97588.ir.cdn.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 tvg-name="qazsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/1200px-Qazsport_logo.svg.png" tvg-id="qazsport" group-title="Sports",QazSport(FA Cup & Champions League)
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live FA Cup, Snooker & Champions League)
+https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
 https://af.ayas.ir/hls2/ayassport1.m3u8
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (Champions League & Premier League)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-name="matchrussia" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="SharjahSports.ae" group-title="Sports",Match! Russia(Live English Games)
+#EXTINF:-1 tvg-name="matchrussia" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="matchrussia" group-title="Sports",Match! Russia(Live English Games)
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 tvg-name="iribsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="iribsport" group-title="Sports",Tudn Sports (Live European Games)
+#EXTINF:-1 tvg-name="tudnsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (Live European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-name="shabakke" tvg-logo="https://www.aparatchi.com/images/TV/jaam-tv.png" tvg-id="iribsport" group-title="Sports",Shabakke Jaam (Live European Games)
+#EXTINF:-1 tvg-name="shabakke" tvg-logo="https://www.aparatchi.com/images/TV/jaam-tv.png" tvg-id="shabakke" group-title="Sports",Shabakke Jaam (Live European Games)
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-name="tvpsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TVP_Sport.png" tvg-id="tvpsport" group-title="Sports",TVP Poland (Live European & Internaional Games)
 https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live FA Cup, Snooker & Champions League)
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
