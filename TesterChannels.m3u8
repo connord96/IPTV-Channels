@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF: **********This section is for the Information section explaining usage**********
 #EXTINF:-1  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information",Information
-https://cdn-cf-east.streamable.com/video/mp4/9yrojr.mp4?Expires=1709411821186&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lV7sD-0vjAYhxWtRsDINTjrG47P8hCifYlQKZgHY7HqCXqJBvkA058fjlJ~VnG5Gh3HI8s2Y16cNsrsxgQyu4fxccuzV8cc8Xr6HIed6KkugWMe0ptkBW2CbLZzMdODw9Gt0A2hk6Qs3vxJZiVuE24AaBbrKuzPQ6hUKIjoISj1XK5Z4U6iWAGy5s4z-HuXZTKusDaE1xX16CkdjQWYcwy1PazqWSO5cW7wNzb8qP5ULHtqP9dk~bW9~nnVXWC2-65p~6WCUx3u2pFbNsui4TkrmcKeddxNp3HN5goFLaAin5Jxb7q~jtMsJbDiuAKB-ftWoFj8KwOuTkZmBcomP8w__
+https://zggg98sgwbg1gh.bitchute.com/QUNJDoOZpK1P/ItReCC8Oc8uK.mp4
+
+
 
 #EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
 #EXTINF:-1 tvg-id="highland" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
