@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
 #EXTINF:-1 tvg-id="highland" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="bbcrfoyle" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland" radio="true",BBC Radio Foyle
@@ -19,15 +19,14 @@ https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 https://stream.audioxi.com/NT
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
 https://edge.audioxi.com/TDAAC
-
-
-
-
-
 #EXTINF:0 tvg-country="IE" tvg-id="TG4(src01).ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="OireachtasTV(src01).uk" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+
+
+
+#EXTINF: **********This section is for free foreign sports channels that should work 90% of the time**********
 #EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed)
@@ -128,17 +127,21 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="Entertainment",Talk TV
+#EXTINF: **********This section is for news channels**********
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="News",Talk TV
 https://ythls-v2.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
-#EXTINF:-1 tvg-id="gbnews" tvg-logo="https://assets.rbl.ms/32415081/origin.jpg" group-title="Entertainment",GB News
+#EXTINF:-1 tvg-id="gbnews" tvg-logo="https://assets.rbl.ms/32415081/origin.jpg" group-title="News",GB News
 https://ythls-v2.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Entertainment",CNN News Europe
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="Entertainment",Euronews
+#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="News",Euronews
 https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Entertainment",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="News",Bloomberg TV
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF: **********This section is for entertainment channels**********
 #EXTINF:-1 tvg-id="BloombergOriginalsUK.uk" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
 https://bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="skymix" tvg-logo="https://media.info/l/f/1/1399.1697630999.png" group-title="Entertainment",Sky Mix
@@ -166,7 +169,7 @@ https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 
 
 
-
+#EXTINF: **********This section is for random iptv channels found on web - requires maintenance**********
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/1070.ts #starselect1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
@@ -206,7 +209,7 @@ http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1516
 
 
 
-
+#EXTINF: **********This section is for Inishowen League Veo Files**********
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Clonmany Shamrocks
 https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Cockhill Celtic
