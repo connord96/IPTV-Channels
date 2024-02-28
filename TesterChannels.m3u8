@@ -52,7 +52,7 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://edge07.97588.ir.cdn.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 tvg-name="qazsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/1200px-Qazsport_logo.svg.png" tvg-id="solhtv" group-title="Sports",QazSport(FA Cup & Champions League)
+#EXTINF:-1 tvg-name="qazsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/1200px-Qazsport_logo.svg.png" tvg-id="qazsport" group-title="Sports",QazSport(FA Cup & Champions League)
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
 https://af.ayas.ir/hls2/ayassport1.m3u8
@@ -225,8 +225,6 @@ https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a2
 https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
 #EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Goals 21/22
 https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
-#EXTINF: EMPTY
 
 
-#Find at alliptvlinks or freeiptvlister or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8
-
+#EXTINF: Find links alliptvlinks or freeiptvlister (both poor) or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8) Other info contained in email stream.
