@@ -41,28 +41,28 @@ https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 https://ythls-v2.onrender.com/channel/UCMmVPVb0BwSIOWVeDwlPocQ.m3u8
 #EXTINF:-1 tvg-id="stretfordpaddock" tvg-logo="https://stretfordpaddockfc.com/wp-content/uploads/2021/12/Red-and-white-2-2048x2048.png" group-title="Sports",Stretford Paddock (During United Matches & Random Streams Only)
 https://ythls-v2.onrender.com/channel/UC7w8GnTF2Sp3wldDMtCCtVw.m3u8
-#EXTINF:-1 tvg-name="footballhdtjk" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan(Live English Games)
-https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports (Live English Games)
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sports(Live English & European Games)
-https://ss.90minlive.online/sport/aiosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDoxNTo0NyBQTSZoYXNoX3ZhbHVlPUpvT3VkVnl5NUd4cHhWUlEzZzB6V3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
-https://livestream.angani.africa/livestream/k24/1/k24.m3u8
-#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
 https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live FA Cup, Snooker & Champions League)
+https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Live English Games)
-https://af.ayas.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://edge07.97588.ir.cdn.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live FA Cup, Snooker & Champions League)
-https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
+https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
 https://af.ayas.ir/hls2/ayassport1.m3u8
+#EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
+https://livestream.angani.africa/livestream/k24/1/k24.m3u8
+#EXTINF:-1 tvg-name="footballhdtjk" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan(Live English Games)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sports(Live English & European Games)
+https://ss.90minlive.online/sport/aiosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDoxNTo0NyBQTSZoYXNoX3ZhbHVlPUpvT3VkVnl5NUd4cHhWUlEzZzB6V3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (Champions League & Premier League)
@@ -229,13 +229,7 @@ http://78.26.128.59:9876/play/4/index.m3u8 #s+
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 14 (Probably Won't work - If not, use Sportsfire App)
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 15 (Probably Won't work - If not, use Sportsfire App)
-http://1mir-iptv.ru/hhh/testx.php?channel_id=69&token=RGltb25vdmljaDoxOTgyMTk4Mg==
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1516
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 17 (Probably Won't work - If not, use Sportsfire App)
-http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1519 #sportv2
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 18 (Probably Won't work - If not, use Sportsfire App)
-http://1MIR-IPTV.RU/hhh/view55.php?id=251&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 
 
 
