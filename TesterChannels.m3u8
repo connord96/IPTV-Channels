@@ -37,8 +37,14 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="talksport" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport TV (Intermittent Feed)
 https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
+#EXTINF:-1 tvg-id="talksport1" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 1
+http://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="talksport2" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 2
+http://radio.talksport.com/stream2
 #EXTINF:-1 tvg-id="radio5live" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-id="otbsport" tvg-logo="https://bauermedia.ie/wp-content/uploads/2023/08/Off-The-Ball-Rebrand-1024x1024.png" group-title="Sports" radio="true",Off The Ball Sport Ireland
+https://stream.audioxi.com/OTB
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Sky Sports(English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Sky Sports(English Premier League - Might Not Work)
@@ -101,7 +107,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8?channel_name=Kozoom&p=sportstribal&content_title=Kozoom&channel_partner=Kozoom&content_genre=Billiard%2CPool%2CSnooker&t=2024-01-25T17%3A42%3A13.000&content_id=bf580ae8_20240125174213_D0CF72b&ip=83.137.6.162&ic=IAB532-483&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36
 #EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8 
-#EXTINF:-1 tvg-id="Sportak" tvg-logo="https://static.tak.live/anchor/new-project-26_110321091336.jpg" group-title="Sports",SportStak
+#EXTINF:-1 tvg-id="Sportak" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png" group-title="Sports",SportStak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="wdf" tvg-logo="https://dartswdf.com/images/opengraph.png" group-title="Sports",World Darts Federation
 https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
@@ -227,17 +233,17 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random SPORTS 1 (Probably Won't work - If not, use Sportsfire App)
 http://watchindia.net:8880/live/12171/04170628/1070.ts #starselect1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 2 (Probably Won't work - If not, use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/1071.ts #starselect2
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 3 (Probably Won't work - If not, use Sportsfire App)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 3 (Probably Won't work - If not, use Sportsfire App)
+http://watchindia.net:8880/live/12171/04170628/1071.ts #starselect2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 4 (Probably Won't work - If not, use Sportsfire App)
-https://6oclock.xyz:8443/Linda/12345/12689
+http://ojpc.live:8080/M0i6sWA0Wj/tFESOIuYEr/61771
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 5 (Probably Won't work - If not, use Sportsfire App)
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+http://537196734355228384.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228384.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 6 (Probably Won't work - If not, use Sportsfire App)
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8 #setanta1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 7 (Probably Won't work - If not, use Sportsfire App)
-http://78.26.128.59:9876/play/161/index.m3u8 #s
+https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 8 (Probably Won't work - If not, use Sportsfire App)
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8 #s2
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 9 (Probably Won't work - If not, use Sportsfire App)
@@ -245,12 +251,13 @@ http://watchindia.net:8880/live/12171/04170628/2215.ts #sonysport1
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 10 (Probably Won't work - If not, use Sportsfire App)
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2375
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 11 (Probably Won't work - If not, use Sportsfire App)
-http://78.26.128.59:9876/play/4/index.m3u8 #s+
+http://ojpc.live:8080/M0i6sWA0Wj/tFESOIuYEr/61820
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 12 (Probably Won't work - If not, use Sportsfire App)
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 13 (Probably Won't work - If not, use Sportsfire App)
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1516
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 14 (Probably Won't work - If not, use Sportsfire App)
+http://195.128.248.216:8080/2837382/2837337/18670
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 15 (Probably Won't work - If not, use Sportsfire App)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 16 (Probably Won't work - If not, use Sportsfire App)
@@ -264,25 +271,16 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 20 (Probably Won't work - If not, use Sportsfire App)
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 21 (Probably Won't work - If not, use Sportsfire App)
-https://live.tv247us.com/tv247/usanw.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 22 (Probably Won't work - If not, use Sportsfire App)
-http://tv.pro-ott.com:25443/live/Bala2/MDGUCGYRI3/62975.ts
+http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 23 (Probably Won't work - If not, use Sportsfire App)
 http://tv.pro-ott.com:25443/live/Bala2/MDGUCGYRI3/149526.ts
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 24 (Probably Won't work - If not, use Sportsfire App)
-http://195.128.248.216:8080/2837382/2837337/18670
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 25 (Probably Won't work - If not, use Sportsfire App)
-http://537196734355228384.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228384.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 26 (Probably Won't work - If not, use Sportsfire App)
-http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 27 (Probably Won't work - If not, use Sportsfire App)
-http://ojpc.live:8080/M0i6sWA0Wj/tFESOIuYEr/61820
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 28 (Probably Won't work - If not, use Sportsfire App)
-http://ojpc.live:8080/M0i6sWA0Wj/tFESOIuYEr/61771
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 29 (Probably Won't work - If not, use Sportsfire App)
-http://294285953945228384.ofe0229.xyz:80/play/TELVN9FG6K/ss4JG7Hhpy/228384.ts
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 30 (Probably Won't work - If not, use Sportsfire App)
 http://294285953945228395.ofe0229.xyz:80/play/TELVN9FG6K/ss4JG7Hhpy/228395.ts
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 25 (Probably Won't work - If not, use Sportsfire App)
+http://294285953945228384.ofe0229.xyz:80/play/TELVN9FG6K/ss4JG7Hhpy/228384.ts
+
 
 
 #EXTINF: **********This section is for Inishowen League Veo Files**********
