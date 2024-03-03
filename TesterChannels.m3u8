@@ -52,11 +52,15 @@ http://watchindia.net:8880/live/12171/04170628/2091.ts #mainevent
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports (Live English Games)
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport Backup (Live English Games)
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Live English Games)
 https://edge07.97588.ir.cdn.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
+#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
@@ -70,13 +74,15 @@ https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
 #EXTINF:-1 tvg-name="lenz" tvg-logo="https://cdn6.aptoide.com/imgs/d/8/2/d8212ea53fc1fa8bdb6ad72bf65ab422_fgraphic.png" tvg-id="lenz" group-title="Sports",Lenz TV (Live European Games)
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/4.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sports(Live English & European Games)
-https://ss.90minlive.online/sport/aiosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDoxNTo0NyBQTSZoYXNoX3ZhbHVlPUpvT3VkVnl5NUd4cHhWUlEzZzB6V3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sports 2(Live English & European Games)
+https://af.ayas.ir/hls2/aiosport2.m3u8
 #EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live FA Cup, Snooker & Champions League)
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (Champions League & Premier League)
+http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (Champions League & Premier League)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="matchrussia" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="matchrussia" group-title="Sports",Match! Russia(Live English Games)
@@ -93,6 +99,8 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 tvg-id="jtbc" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CCTV-logo.jpg" group-title="Sports",CCTV Golf
 https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-id="jtbc" tvg-logo="https://i.imgur.com/SQ0je5x.jpeg" group-title="Sports", OneGolf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="jojsport" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
@@ -145,6 +153,7 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 
 
 
