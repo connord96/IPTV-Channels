@@ -89,6 +89,8 @@ https://live.teleradiocom.tj/8/3m.m3u8
 https://af.ayas.ir/hls2/ayassport1.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran Backup(Live European Games)
 https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8
+#EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran Backup 2(Live European Games)
+https://af.ayassport.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport Backup (Live English Games)
