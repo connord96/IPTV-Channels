@@ -21,6 +21,8 @@ http://icecast2.rte.ie/2fm
 http://icecast2.rte.ie/rnag
 #EXTINF:-1 tvg-id="irishfolkradio" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#EXTINF:-1 tvg-id="liveireland" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland" radio="true",Live Ireland Radio
+http://192.111.140.11:8058/;
 #EXTINF:-1 tvg-id="newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland" radio="true",Newstalk
 https://stream.audioxi.com/NT
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
@@ -89,7 +91,7 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sports 2(Live English & European Games)
 https://af.ayas.ir/hls2/aiosport2.m3u8
-#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",IDMAN TVLive English & European Games)
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" tvg-id="aiosports" group-title="Sports",IDMAN TVLive English & European Games)
 http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
