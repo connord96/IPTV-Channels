@@ -70,7 +70,7 @@ https://ythls-v2.onrender.com/channel/UCWw6scNyopJ0yjMu1SyOEyw.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports (Live English Games)
 https://stream.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports Backup(Live English Games)
-https://stream.live12.ir/hls2/persiana.m3u8
+https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Live English Games)
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
@@ -131,7 +131,7 @@ https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="realmadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg" group-title="Sports",Real Madrid TV
+#EXTINF:-1 tvg-id="realmadrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
@@ -153,6 +153,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
 https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+#EXTINF:-1 tvg-id="tvssport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/TVS-Sports.png" group-title="Sports",TVS Sport
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="tracesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sports Stars TV
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports 
