@@ -103,7 +103,7 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/4.m3u8
 #EXTINF:-1 tvg-name="lenz" tvg-logo="https://s.cafebazaar.ir/images/icons/com.likotv_512x512.png" tvg-id="iribsport" group-title="Sports",Lenz TV Backup(Live European Games)
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/index.m3u8
-#EXTINF:-1 tvg-name="qazsport" tvg-logo="https://s.cafebazaar.ir/images/icons/com.likotv_512x512.png" tvg-id="iribsport" group-title="Sports",Qazsport (Live European Games & FA Cup)
+#EXTINF:-1 tvg-name="qazsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/800px-Qazsport_logo.svg.png" tvg-id="iribsport" group-title="Sports",Qazsport (Live European Games & FA Cup)
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" tvg-id="aiosports" group-title="Sports",IDMAN TVLive English & European Games)
 http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
@@ -268,51 +268,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 
 
 
-#EXTINF: **********This section is for Music Concerts Only**********
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Pogues (Live in Munich 1985)
-https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
-https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Morrisey - Through The Years
-https://seed131.bitchute.com/0ebwOZpjaHZn/TrWYGsLTF4rv.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Classic Songs)
-https://hugh.cdn.rumble.cloud/video/s8/2/T/J/c/F/TJcFo.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Compilation of Live videos)
-https://player.odycdn.com/api/v3/streams/free/TheDublinersLiveCompilation/956e6df57f62bc58896a50cc08f93a3ed1dfed7b/4dd7de.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners - Dublin Documentary
-https://player.odycdn.com/api/v3/streams/free/Dubliners'Dublin/21113e0639e463ce0d785f61c95dbf7e1229d10e/6d64b7.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Planxty (Album: Planxty, 1972)
-https://player.odycdn.com/api/v3/streams/free/Planxty/43f2e1c70e63eb580177725d0a36c9b8f2b3ed72/99a8cf.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones (Live in the Barrowlands 1989)
-https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
-https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
-https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
-https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
-https://seed131.bitchute.com/nGfAKoG3Uyam/2Hxf0LsObPIa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", Elvis Presley (Live 'In Person' 1973) 
-https://z-kkb4jvzl1og7.bitchute.com/OZ1D1zEkbKDD/di4MVzz1iZ36.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", John Fogerty (The Long Road Home Concert 2006)
-https://seed151.bitchute.com/OZ1D1zEkbKDD/DrpIhK1nfK8O.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in Venice 1989)
-https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in London 1980)
-https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
-https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol2/f30aad2d2a241fc24fea1667e4da5c5a49fc0036/a95670.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (The Flying Column - Four Green Fields Album, 1972)
-https://player.odycdn.com/api/v3/streams/free/flying-column-–-four-green-fields/fb6a1c20c50f1c2db90c80a432888d67a66c3d4b/068e47.mp4
-
-
-
-
 
 
 
@@ -409,6 +364,55 @@ http://aflaxtv.xyz:8080/single-ee3776/8a206cff66/285558
 http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/20367
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports 19 (Probably Won't work - If not, use Sportsfire App)
 http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/20371
+
+
+
+
+
+
+#EXTINF: **********This section is for Music Concerts Only**********
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Pogues (Live in Munich 1985)
+https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
+https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Smiths (Greatest Hits)
+https://player.odycdn.com/api/v3/streams/free/smiths/e0ab2737dd904cdbe45f6c53d56cf49b0823ceaf/70df8d.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Morrisey - Through The Years
+https://seed131.bitchute.com/0ebwOZpjaHZn/TrWYGsLTF4rv.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Classic Songs)
+https://hugh.cdn.rumble.cloud/video/s8/2/T/J/c/F/TJcFo.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Compilation of Live videos)
+https://player.odycdn.com/api/v3/streams/free/TheDublinersLiveCompilation/956e6df57f62bc58896a50cc08f93a3ed1dfed7b/4dd7de.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners - Dublin Documentary
+https://player.odycdn.com/api/v3/streams/free/Dubliners'Dublin/21113e0639e463ce0d785f61c95dbf7e1229d10e/6d64b7.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Planxty (Album: Planxty, 1972)
+https://player.odycdn.com/api/v3/streams/free/Planxty/43f2e1c70e63eb580177725d0a36c9b8f2b3ed72/99a8cf.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones (Live in the Barrowlands 1989)
+https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
+https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
+https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
+https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
+https://seed131.bitchute.com/nGfAKoG3Uyam/2Hxf0LsObPIa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", Elvis Presley (Live 'In Person' 1973) 
+https://z-kkb4jvzl1og7.bitchute.com/OZ1D1zEkbKDD/di4MVzz1iZ36.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", John Fogerty (The Long Road Home Concert 2006)
+https://seed151.bitchute.com/OZ1D1zEkbKDD/DrpIhK1nfK8O.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in Venice 1989)
+https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in London 1980)
+https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
+https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
+https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
+https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol2/f30aad2d2a241fc24fea1667e4da5c5a49fc0036/a95670.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (The Flying Column - Four Green Fields Album, 1972)
+https://player.odycdn.com/api/v3/streams/free/flying-column-–-four-green-fields/fb6a1c20c50f1c2db90c80a432888d67a66c3d4b/068e47.mp4
 
 
 
