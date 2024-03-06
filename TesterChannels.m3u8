@@ -109,6 +109,8 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM(Live European Games)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (Champions League & Premier League)
 http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (Champions League & Premier League)
