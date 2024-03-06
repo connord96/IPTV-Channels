@@ -131,6 +131,8 @@ https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="realmadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg" group-title="Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
