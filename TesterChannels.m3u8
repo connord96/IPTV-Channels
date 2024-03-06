@@ -319,6 +319,7 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 
 
 
+
 #EXTINF: **********This section is for random iptv channels found on web - requires maintenance**********
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 1 (Probably Won't work - If not, use Sportsfire App)
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000) #f
@@ -350,6 +351,84 @@ http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts #f
 http://537196734355228384.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228384.ts #f
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 15 (Probably Won't work - If not, use Sportsfire App)
 http://aflaxtv.xyz:8080/single-ee3776/8a206cff66/285558
+
+
+
+
+
+
+
+#EXTINF: **********This section is for Music Concerts Only**********
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Pogues (Live in Munich 1985)
+https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
+https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Smiths (Greatest Hits)
+https://player.odycdn.com/api/v3/streams/free/smiths/e0ab2737dd904cdbe45f6c53d56cf49b0823ceaf/70df8d.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Morrisey - Through The Years
+https://seed131.bitchute.com/0ebwOZpjaHZn/TrWYGsLTF4rv.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Rod Stewart (Live in Hyde Park 2015)
+https://player.odycdn.com/api/v3/streams/free/rod-stewart-live-in-hyde-park-(2015)/ede1993259236aa733244d8da1f5f73d8f4ac5bc/f71034.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Classic Songs)
+https://hugh.cdn.rumble.cloud/video/s8/2/T/J/c/F/TJcFo.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Compilation of Live videos)
+https://player.odycdn.com/api/v3/streams/free/TheDublinersLiveCompilation/956e6df57f62bc58896a50cc08f93a3ed1dfed7b/4dd7de.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners - Dublin Documentary
+https://player.odycdn.com/api/v3/streams/free/Dubliners'Dublin/21113e0639e463ce0d785f61c95dbf7e1229d10e/6d64b7.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Planxty (Album: Planxty, 1972)
+https://player.odycdn.com/api/v3/streams/free/Planxty/43f2e1c70e63eb580177725d0a36c9b8f2b3ed72/99a8cf.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones (Live in the Barrowlands 1989)
+https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
+https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
+https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
+https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
+https://seed131.bitchute.com/nGfAKoG3Uyam/2Hxf0LsObPIa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", Elvis Presley (Live 'In Person' 1973) 
+https://z-kkb4jvzl1og7.bitchute.com/OZ1D1zEkbKDD/di4MVzz1iZ36.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", John Fogerty (The Long Road Home Concert 2006)
+https://seed151.bitchute.com/OZ1D1zEkbKDD/DrpIhK1nfK8O.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in Venice 1989)
+https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in London 1980)
+https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
+https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
+https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
+https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol2/f30aad2d2a241fc24fea1667e4da5c5a49fc0036/a95670.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (The Flying Column - Four Green Fields Album, 1972)
+https://player.odycdn.com/api/v3/streams/free/flying-column-–-four-green-fields/fb6a1c20c50f1c2db90c80a432888d67a66c3d4b/068e47.mp4
+
+
+
+
+
+
+
+#EXTINF: **********This section is for Inishowen League Veo Files**********
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Clonmany Shamrocks
+https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Cockhill Celtic
+https://c.veocdn.com/a6051b94-3f8f-4fae-81ea-381a785bd84e/standard/machine/e138f461/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Finn Harps U-17s
+https://c.veocdn.com/36338e15-8598-4017-9a16-1cd0b607ba39/standard/machine/1be6460e/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Carndonagh
+https://c.veocdn.com/259e8eba-4c68-480a-b0d7-2fef3637dcd3/standard/machine/11b3d349/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Greencastle
+https://c.veocdn.com/d2d4b2f0-7915-4d74-ae77-301a98f7c088/standard/machine/12cbf137/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Finn Harps u-17s
+https://c.veocdn.com/8e299163-fefa-433d-80ef-acca3a253b00/standard/machine/e30078e0/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Buncrana
+https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a280d/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/52032465.png" group-title="Inishowen League", Clonmany Shamrocks Vs Greencastle
+https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
+#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Goals 21/22
+https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
 
 
 
@@ -420,78 +499,6 @@ https://gettvfree.tech/live/stream_9.m3u8
 https://gettvfree.tech/live/stream_10.m3u8
 
 
-
-
-#EXTINF: **********This section is for Music Concerts Only**********
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Pogues (Live in Munich 1985)
-https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
-https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Smiths (Greatest Hits)
-https://player.odycdn.com/api/v3/streams/free/smiths/e0ab2737dd904cdbe45f6c53d56cf49b0823ceaf/70df8d.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Morrisey - Through The Years
-https://seed131.bitchute.com/0ebwOZpjaHZn/TrWYGsLTF4rv.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Rod Stewart (Live in Hyde Park 2015)
-https://player.odycdn.com/api/v3/streams/free/rod-stewart-live-in-hyde-park-(2015)/ede1993259236aa733244d8da1f5f73d8f4ac5bc/f71034.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Classic Songs)
-https://hugh.cdn.rumble.cloud/video/s8/2/T/J/c/F/TJcFo.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Compilation of Live videos)
-https://player.odycdn.com/api/v3/streams/free/TheDublinersLiveCompilation/956e6df57f62bc58896a50cc08f93a3ed1dfed7b/4dd7de.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners - Dublin Documentary
-https://player.odycdn.com/api/v3/streams/free/Dubliners'Dublin/21113e0639e463ce0d785f61c95dbf7e1229d10e/6d64b7.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Planxty (Album: Planxty, 1972)
-https://player.odycdn.com/api/v3/streams/free/Planxty/43f2e1c70e63eb580177725d0a36c9b8f2b3ed72/99a8cf.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones (Live in the Barrowlands 1989)
-https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
-https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
-https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
-https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
-https://seed131.bitchute.com/nGfAKoG3Uyam/2Hxf0LsObPIa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", Elvis Presley (Live 'In Person' 1973) 
-https://z-kkb4jvzl1og7.bitchute.com/OZ1D1zEkbKDD/di4MVzz1iZ36.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", John Fogerty (The Long Road Home Concert 2006)
-https://seed151.bitchute.com/OZ1D1zEkbKDD/DrpIhK1nfK8O.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in Venice 1989)
-https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in London 1980)
-https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
-https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol2/f30aad2d2a241fc24fea1667e4da5c5a49fc0036/a95670.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (The Flying Column - Four Green Fields Album, 1972)
-https://player.odycdn.com/api/v3/streams/free/flying-column-–-four-green-fields/fb6a1c20c50f1c2db90c80a432888d67a66c3d4b/068e47.mp4
-
-
-
-
-
-
-#EXTINF: **********This section is for Inishowen League Veo Files**********
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Clonmany Shamrocks
-https://c.veocdn.com/d43b2fee-2b0e-4397-90a5-789d88560a85/standard/machine/f5a73151/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Cockhill Celtic
-https://c.veocdn.com/a6051b94-3f8f-4fae-81ea-381a785bd84e/standard/machine/e138f461/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Finn Harps U-17s
-https://c.veocdn.com/36338e15-8598-4017-9a16-1cd0b607ba39/standard/machine/1be6460e/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Carndonagh
-https://c.veocdn.com/259e8eba-4c68-480a-b0d7-2fef3637dcd3/standard/machine/11b3d349/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Greencastle
-https://c.veocdn.com/d2d4b2f0-7915-4d74-ae77-301a98f7c088/standard/machine/12cbf137/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Finn Harps u-17s
-https://c.veocdn.com/8e299163-fefa-433d-80ef-acca3a253b00/standard/machine/e30078e0/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Vs Buncrana
-https://c.veocdn.com/c24743bf-39ed-4ab6-b12b-467ac1781def/standard/machine/274a280d/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.b-cdn.net/uploads/team/52032465.png" group-title="Inishowen League", Clonmany Shamrocks Vs Greencastle
-https://c.veocdn.com/24cf6ec1-a2c4-4644-9975-b060be6b9427/standard/machine/d27fc240/video.mp4
-#EXTINF:0 tvg-country="IE" tvg-logo="https://sortitoutsi.net/uploads/team/129416.png" group-title="Inishowen League",Moville Celtic Goals 21/22
-https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
 
 
 #EXTINF: Find links alliptvlinks or freeiptvlister (both poor) or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8) Other info contained in email stream. https://raw.githubusercontent.com/Nurhossainbd1/Hasantv/main/Hasantv.m3u https://tinyurl.com/connoriptv1 https://tinyurl.com/connoriptv5 https://epg.pw/test_channels_sports.m3u - https://catowrap.live/ - https://epg.pw/stream - https://epg.pw/test_channels_sport.txt
