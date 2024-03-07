@@ -153,8 +153,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
 https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-id="tvssport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/TVS-Sports.png" group-title="Sports",TVS Sport
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="tracesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sports Stars TV
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports 
@@ -367,8 +365,22 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&
 http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 24 (Probably Won't work - If not, use Sportsfire App)
 http://78.26.128.59:9876/play/161/index.m3u8
-
-
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 25 (Probably Won't work - If not, use Sportsfire App)
+http://cdntv.online/low/9mlxywika2/1022.mpeg
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 26 (Probably Won't work - If not, use Sportsfire App)
+http://87.246.60.6:11007
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 27 (Probably Won't work - If not, use Sportsfire App)
+http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 28 (Probably Won't work - If not, use Sportsfire App)
+https://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 29 (Probably Won't work - If not, use Sportsfire App)
+https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 30 (Probably Won't work - If not, use Sportsfire App)
+https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 31 (Probably Won't work - If not, use Sportsfire App)
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 32 (Probably Won't work - If not, use Sportsfire App)
+http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
 
 
 
@@ -452,6 +464,10 @@ https://seed163.bitchute.com/QUNJDoOZpK1P/2n4uvsxOaa3k.mp4
 
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+http://cdntv.online/low/9mlxywika2/1021.mpeg
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+http://cdntv.online/low/9mlxywika2/1022.mpeg
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingbein.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingbtsport1.m3u8
@@ -518,25 +534,51 @@ https://gettvfree.tech/live/stream_10.m3u8
 
 #EXTINF: **********This section is for Movies Only**********
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/moviesreview101.com/wp-content/uploads/2024/02/einstein.png",Einstein & The Bomb (2024)
-https://stream.fushaar.link/movie/47416/47416.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgOTozNTowMiBQTSZoYXNoX3ZhbHVlPXBEdVdJUGx0OS9TVmIvOEFWSEZscVE9PSZ2YWxpZG1pbnV0ZXM9NDUw
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://marruda3.files.wordpress.com/2024/02/society-of-the-snow-1.jpg",The Society Of Snow (2023)
-https://stream.fushaar.link/movie/47135/47135.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgOToyNjoyMSBQTSZoYXNoX3ZhbHVlPU1MY2lxY1VyK0R6bWJYOW1hWkhDTUE9PSZ2YWxpZG1pbnV0ZXM9NDUw
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://d388d59m61mm0v.cloudfront.net/hungama1/c/1/c8e/873/80838781/80838781_1280x720.jpg",Pelé: Birth Of A Legend(2013)
-https://stream.fushaar.link/movie/12265/12265.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjQgMjoxMDozNyBBTSZoYXNoX3ZhbHVlPWdGbk9ISk5GRUZES2ZVTmFOSmo4TUE9PSZ2YWxpZG1pbnV0ZXM9NDUw
+https://stream.fushaar.link/movie/47416/47416.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://pics.filmaffinity.com/Boys_From_County_Hell_S-449745472-large.jpg",Boys From County Hell (2020)
+https://stream.fushaar.link/movie/37209/37209-480p.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://imgix.hoyts.com.au/mx/posters/au/father-stu-b2108702.jpg",Father Stu (2022)
-https://stream.fushaar.link/movie/42132/42132.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgMTE6Mzg6MzMgUE0maGFzaF92YWx1ZT1DOHVTQ2ZZR1RXV2dMNEYyb05TaFl3PT0mdmFsaWRtaW51dGVzPTQ1MA==
+https://stream.fushaar.link/movie/42132/42132.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i.ytimg.com/vi/ITikFyNtNAw/maxresdefault.jpg",The Beekeeper (2024)
+https://stream.fushaar.link/movie/47239/47239.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://image.tmdb.org/t/p/w500/ikuKQxE1tfVMCIZVsMyePaZlNEy.jpg",Make Us Dream (2018)
+https://stream.fushaar.link/movie/23918/23918.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22081232_v_h9_af.jpg",Jerry & Marge Go Large (2022)
+https://stream.fushaar.link/movie/42447/42447.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://miro.medium.com/v2/resize:fit:4000/1*gS31DIwN_vFIKTu9I1_TSw.png",The Irishman (2019)
+https://stream.fushaar.link/movie/29026/29026.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/BlacKkKlansman.png",Blackkklansman (2018)
+https://stream.fushaar.link/movie/23490/23490.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/2/26/The_Greatest_Showman_poster.jpg",The Greatest Showman (2017)
+https://stream.fushaar.link/movie/18852/18852.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.uphe.com/sites/default/files/styles/scale__344w_/public/2016/03/Race_PosterArt.jpg",Race (2016)
+https://stream.fushaar.link/movie/12287/12287.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/The_Imitation_Game_%282014%29.png",The Imitation Game (2014)
+https://stream.fushaar.link/movie/5255/5255.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://marquettewire.org/wp-content/uploads/2015/02/fb_share-900x560.jpg",American Sniper (2014)
+https://stream.fushaar.link/movie/5474/5474.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg",Operation Dunkirk (1993)
+https://stream.fushaar.link/movie/17880/17880.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://assets1.ignimgs.com/2016/12/12/patriots-day-ver2-1481570952582.jpg",Patriots Day (2017)
+https://stream.fushaar.link/movie/15471/15471.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14773464_p_v13_ae.jpg",The Pirates Of Somalia (2017)
+https://stream.fushaar.link/movie/19464/19464.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://static.wikia.nocookie.net/cinemorgue/images/9/94/Ford_v_Ferrari.jpg",Ford V Ferrari (2019)
-https://stream.fushaar.link/movie/29809/29809.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNzozOTo1NSBQTSZoYXNoX3ZhbHVlPVY1SHhWakw3SkpQelNENS9YMTR6MEE9PSZ2YWxpZG1pbnV0ZXM9NDUw
+https://stream.fushaar.link/movie/29809/29809.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15117458_v_h10_ab.jpg",Operation Finale (2018)
-https://stream.fushaar.link/movie/22964/22964.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgMTA6NDg6MTkgUE0maGFzaF92YWx1ZT1uaFc3STlvazlObFN5c2tqRHFFd1JRPT0mdmFsaWRtaW51dGVzPTQ1MA==
+https://stream.fushaar.link/movie/22964/22964.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12465613_p_v8_aa.jpg",Sully (2016) 
-https://stream.fushaar.link/movie/13270/13270.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNzo1ODowOSBQTSZoYXNoX3ZhbHVlPVgwY3lCQzk5WGE5RWRTaU9vS2lNOWc9PSZ2YWxpZG1pbnV0ZXM9NDUw
+https://stream.fushaar.link/movie/13270/13270.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132479_p_v8_ak.jpg",Everest (2015)
-https://stream.fushaar.link/movie/9699/9699.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNzo0MTowNSBQTSZoYXNoX3ZhbHVlPWthanJxRURkL2IzNkZLODZncVpFM0E9PSZ2YWxpZG1pbnV0ZXM9NDUw
+https://stream.fushaar.link/movie/9699/9699.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9968629_v_v10_ae.jpg",Captain Phillips (2013)
-https://stream.fushaar.link/movie/2368/2368.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNjoyNjo0NiBQTSZoYXNoX3ZhbHVlPVRNZlV2YmxNVGNYNmNKMnZSWXkxN0E9PSZ2YWxpZG1pbnV0ZXM9NDUw
+https://stream.fushaar.link/movie/2368/2368.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.livelaw.in/h-upload/2020/10/24/383364-cover-image.jpg",The Trial Of The Chicago 7 (2020)
-https://stream.fushaar.link/movie/32782/32782.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgMTE6Mjc6MzMgUE0maGFzaF92YWx1ZT1OL3REM1VKMG1PbjNtdExobUhPL2VRPT0mdmFsaWRtaW51dGVzPTQ1MA==
+https://stream.fushaar.link/movie/32782/32782.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",Jurassic World 1 (2015)
+https://stream.fushaar.link/movie/7515/7515.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://cdn.kinocheck.com/i/omsp4herqf.jpg",Jurassic World 2 (2018)
+https://stream.fushaar.link/movie/21282/21282.mp4/playlist.m3u8
 
 
 
