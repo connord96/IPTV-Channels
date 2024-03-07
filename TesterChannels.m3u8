@@ -107,6 +107,10 @@ http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM(Live European Games)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/83/Premier_Sports_logo.png" tvg-id="belarus5" group-title="Sports",Premier Slovakia (Championship & Europe)
+http://84.42.140.147:8890/hdmi
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (Champions League & Premier League)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (Champions League & Premier League)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="matchrussia" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="matchrussia" group-title="Sports",Match! Russia(Live English Games)
@@ -345,6 +349,24 @@ http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts #f
 http://537196734355228384.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228384.ts #f
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 15 (Probably Won't work - If not, use Sportsfire App)
 http://aflaxtv.xyz:8080/single-ee3776/8a206cff66/285558
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 16 (Probably Won't work - If not, use Sportsfire App)
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 17 (Probably Won't work - If not, use Sportsfire App)
+http://ru.iptv.monster/play/7337/58A6BB07681962A/video.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 18 (Probably Won't work - If not, use Sportsfire App)
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 19 (Probably Won't work - If not, use Sportsfire App)
+http://45.65.112.49:8000/play/a0bt
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 20 (Probably Won't work - If not, use Sportsfire App)
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 21 (Probably Won't work - If not, use Sportsfire App)
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 22 (Probably Won't work - If not, use Sportsfire App)
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 23 (Probably Won't work - If not, use Sportsfire App)
+http://78.26.128.59:9876/play/4/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 24 (Probably Won't work - If not, use Sportsfire App)
+http://78.26.128.59:9876/play/161/index.m3u8
 
 
 
