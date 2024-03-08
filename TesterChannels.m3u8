@@ -49,7 +49,7 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 1 (English Premier League - Might Not Work)
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 2 (English Premier League - Might Not Work)
-https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
+http://supersonictv.live:8080/989223/253481/78155
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 3 (English Premier League - Might Not Work)
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 4 (English Premier League - Might Not Work)
@@ -311,6 +311,20 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 http://watchindia.net:8880/live/12171/04170628/2091.ts #mainevent
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 27 (English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 28 (English Premier League - Might Not Work)
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 29 (English Premier League - Might Not Work)
+https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 30 (English Premier League - Might Not Work)
+http://supersonictv.live:8080/989223/253481/78150
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 31 (English Premier League - Might Not Work)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 32 (English Premier League - Might Not Work)
+http://mag.trexlive.me:80/Michael88/Michael88/1114583
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 33 (English Premier League - Might Not Work)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 34 (English Premier League - Might Not Work)
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_token=j8tvtalOGI
 
 
 
@@ -399,6 +413,8 @@ http://nl01.spr24.net/20882/mpegts?token=Ti8qDtheX2PUkt
 http://nl01.spr24.net/17434/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 40 (Probably Won't work - If not, use Sportsfire App)
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 41 (Probably Won't work - If not, use Sportsfire App)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 
 
 
