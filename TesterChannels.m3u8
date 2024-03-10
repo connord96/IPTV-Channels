@@ -110,6 +110,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-name="shabakke" tvg-logo="https://www.aparatchi.com/images/TV/jaam-tv.png" tvg-id="shabakke" group-title="Sports",Shabakke Jaam (Live European Games)
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
+#EXTINF:-1 tvg-name="shabakke" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/SCTV19_logo.png" tvg-id="sctv" group-title="Sports",SCTV 15 Vietnam (Live European Games)
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
 #EXTINF:-1 tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/83/Premier_Sports_logo.png" tvg-id="belarus5" group-title="Sports",Premier Slovakia (Championship & Europe)
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (Champions League & Premier League)
@@ -648,7 +650,10 @@ http://www.deadlyblogger.com/NewRelease/godfather1.mp4
 http://www.deadlyblogger.com/NewRelease/anchorman.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://keithandthemovies.files.wordpress.com/2014/12/anchor-poster.jpeg",Anchorman 2: The Legend Continues
 http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
-
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/10286/10286_aa.jpg",Superman (1978)
+https://archive.org/download/Superman1978/Superman%201978.mp4
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/gravereviews.com/wp-content/uploads/2020/04/emily-rose.jpg",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
 
 
 
