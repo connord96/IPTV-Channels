@@ -110,8 +110,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 tvg-name="tudnsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (Live European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC(Live English Games)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup(Live English Games)
 http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
