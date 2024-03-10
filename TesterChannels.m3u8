@@ -80,20 +80,30 @@ https://af.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
+#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup(Live English Games)
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
 https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
-https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport Backup (Live English Games)
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
+https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
 https://af.ayassport.ir/hls2/tv3.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran Backup(Live European Games)
 https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8
 #EXTINF:-1 tvg-name="lenz" tvg-logo="https://s.cafebazaar.ir/images/icons/com.likotv_512x512.png" tvg-id="iribsport" group-title="Sports",Lenz TV(Live European Games)
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/4.m3u8
+#EXTINF:-1 tvg-name="idmantv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" tvg-id="idmantv" group-title="Sports",IDMAN TV (Live English & European Games)
+http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 1 (Live English & European Games)
+https://liveproxy.splus.ir/hls/aiosport/aiosport_480/index.m3u8
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 1 Backup (Live English & European Games)
+https://af.ayassport.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 2 (Live English & European Games)
+https://edge09.97588.ir.cdn.ir/hls2/aiosport2.m3u8
 #EXTINF:-1 tvg-name="belarus5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5(Live European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM(Live European Games)
@@ -110,8 +120,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 tvg-name="tudnsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (Live European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup(Live English Games)
-http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
