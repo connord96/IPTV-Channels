@@ -74,8 +74,10 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
 https://livestream.angani.africa/livestream/k24/1/k24.m3u8
-#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup(Live English Games)
+#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Live English Games)
 http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup (Live English Games)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live English Games, Snooker & Champions League)
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="dazn" tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR.jpg" tvg-id="dazn" group-title="Sports",Dazn Sports Canada (Live European & Championship Games)
@@ -616,6 +618,12 @@ https://t.ly/EPL-LIVE-1-Zubayer.m3u8
 https://t.ly/EPL-LIVE-2-Zubayer.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://t.ly/EPL-LIVE-3-Zubayer.m3u8
+#EXTINF:-1 tvg-name="Random Sports (Unlikely to Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup TEST (Live English Games)
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-name="Random Sports (Unlikely to Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup TEST (Live English Games)
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1 tvg-name="Random Sports (Unlikely to Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup TEST (Live English Games)
+http://190.149.66.90:4000/play/a01n/index.m3u8#checkedby:alliptvlinks.com
 
 
 
