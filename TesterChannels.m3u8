@@ -429,6 +429,18 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 43 (Probably Won't work - If not, use Sportsfire App)
 http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 43 (Probably Won't work - If not, use Sportsfire App)
+http://78.26.128.59:9876/play/161/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 43 (Probably Won't work - If not, use Sportsfire App)
+http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 44 (Probably Won't work - If not, use Sportsfire App)
+http://iptv.nextnet.krd:25461/nextnet/3738/4338
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 45 (Probably Won't work - If not, use Sportsfire App)
+http://iptv.nextnet.krd:25461/nextnet/3738/149
+
+
+
+
 
 
 
@@ -728,3 +740,4 @@ https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%2
 #EXTINF: Find links alliptvlinks or freeiptvlister (both poor) or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8) Other info contained in email stream. https://raw.githubusercontent.com/Nurhossainbd1/Hasantv/main/Hasantv.m3u https://tinyurl.com/connoriptv1 https://tinyurl.com/connoriptv5 https://epg.pw/test_channels_sports.m3u - https://catowrap.live/ - https://epg.pw/stream - https://epg.pw/test_channels_sport.txt
 #EXTINF: https://www.fushaar.com/  https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt  https://bit.ly/sports4kuhd or https://7pal.short.gy/sports4kuhd
 #EXTINF: https://buffstreams.app/ https://buffstreams.ai/ https://fmhy.net/videopiracyguide#sports-streaming
+#EXTINF: https://spread.3y1.xyz/android_app/84/ 
