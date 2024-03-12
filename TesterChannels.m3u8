@@ -358,6 +358,8 @@ http://cord-cutter.net:8080/m9AGkj/277638/35243
 
 
 
+
+
 #EXTINF: **********This section is for random iptv channels found on web - requires maintenance**********
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 1 (Probably Won't work - If not, use Sportsfire App)
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000) #f
@@ -541,6 +543,8 @@ https://player.odycdn.com/v6/streams/bf9a9016825848cb15f328c9fd84b58db503d6b6/11
 
 
 
+
+
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (Mr Gaming...)
 https://mcdn.mrgamingstreams.com/main.m3u8
@@ -610,14 +614,7 @@ https://gettvfree.tech/live/stream_8.m3u8
 https://gettvfree.tech/live/stream_9.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://gettvfree.tech/live/stream_10.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (Zubayer....)
-https://t.ly/EPL-LIVE-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-1-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-2-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-3-Zubayer.m3u8
+
 
 
 
