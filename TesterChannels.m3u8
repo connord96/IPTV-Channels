@@ -80,8 +80,6 @@ http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live English Games, Snooker & Champions League)
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="dazn" tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR.jpg" tvg-id="dazn" group-title="Sports",Dazn Sports Canada (Live European & Championship Games)
-https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Live English Games)
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
@@ -102,6 +100,8 @@ https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/4.m3u8
 #EXTINF:-1 tvg-name="idmantv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" tvg-id="idmantv" group-title="Sports",IDMAN TV (Live English & European Games)
 http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104298
+#EXTINF:-1 tvg-name="dazn" tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR.jpg" tvg-id="dazn" group-title="Sports",Dazn Sports Canada (Live European & Championship Games)
+https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 1 (Live English & European Games)
 https://liveproxy.splus.ir/hls/aiosport/aiosport_480/index.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 1 Backup (Live English & European Games)
