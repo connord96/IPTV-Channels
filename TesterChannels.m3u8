@@ -276,6 +276,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpsonszion.flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_southparkzion.flv
 #EXTINF:-1 tvg-id="conan" group-title="Entertainment" tvg-logo="https://www.sonypictures.com/sites/default/files/2021-10/seinfeld_youtube_banner_2572.jpg",Seinfeld 24/7 (May Not Work)
 https://demo.streamplanet.tv/hls/seinfeld/src/index.m3u8
+#EXTINF:-1 tvg-id="conan" group-title="Entertainment" tvg-logo="https://media.cdn.adultswim.com/uploads/20230927/239271334177-rick-and-morty-season-7-metaThumb_420x236.png",Rick & Morty 24/7 (May Not Work)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:-1 tvg-id="plutositcoms" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png",Pluto Sitcoms TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="cops" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmODRmYTMtNjZkMS00ZjdkLThlZjgtMjM1NzEzZTgxM2JmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg" group-title="Entertainment",Cops TV
