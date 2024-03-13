@@ -514,6 +514,8 @@ https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
 https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
 https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
+#EXTINF:-1 tvg-logo="https://edcyphers.files.wordpress.com/2023/07/queen.webp" group-title="Music Videos",Queen (Tribute Concert)
+https://www.dropbox.com/scl/fi/s8bneay1kvww6thph60vx/176379-1.mp4?rlkey=bosksft6wk1fngtdmte2o791d&dl=1
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
 https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
@@ -729,10 +731,15 @@ https://archive.org/download/movies_20220526/Home.Alone.1990.720p.BluRay.x264.YI
 https://archive.org/download/movies_20220526/Home.Alone.2.Lost.in.New.York.1992.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9337381_v_h9_ao.jpg",Texas Chainsaw Massacre (2022)
 https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/2022Film/REBAHIN.FILM-Texas%20Chainsaw%20Massacre%20%282022%29-1080p.mp4
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://live.staticflickr.com/5465/17990333701_7ec3922326_z.jpg",Night At The Museum (2009)
+https://www.googleapis.com/drive/v3/files/1no006Kw4vHpFQ3VzE9cUvJore0bmtira?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://live.staticflickr.com/5465/17990333701_7ec3922326_z.jpg",Night At The Museum (2014)
 https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Mission-_Impossible_%E2%80%93_Dead_Reckoning_Part_One_poster.jpg",Mission Impossible (2022)
 https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/161%20-%20180/REBAHIN-MISSION%20IMPOSSIBLE%20%E2%80%93%20DEAD%20RECKONING%20PART%20ONE%20%282023%29.mp4
+
+
+
 
 
 #EXTINF: Series
