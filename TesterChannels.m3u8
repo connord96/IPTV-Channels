@@ -469,6 +469,11 @@ http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBF
 http://ru02.spr24.net/21201/mpegts?token=45UYwCTbAVBazU
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 51 (Probably Won't work - If not, use Sportsfire App)
 http://ru02.spr24.net/20881/mpegts?token=45UYwCTbAVBazU
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 52 (Probably Won't work - If not, use Sportsfire App)
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 53 (Probably Won't work - If not, use Sportsfire App)
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+
 
 
 
@@ -811,7 +816,8 @@ https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%2
 
 
 
-#EXTINF: Find links alliptvlinks or freeiptvlister (both poor) or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8) Other info contained in email stream. https://raw.githubusercontent.com/Nurhossainbd1/Hasantv/main/Hasantv.m3u https://tinyurl.com/connoriptv1 https://tinyurl.com/connoriptv5 https://epg.pw/test_channels_sports.m3u - https://catowrap.live/ - https://epg.pw/stream - https://epg.pw/test_channels_sport.txt
+#EXTINF: Find links alliptvlinks or freeiptvlister (both poor) or tiger telegram channel (Dimonovich/TV/Dimonovich/FREE - https://github.com/aniketda/iptv2050/blob/main/iptv - https://github.com/manikiptv/freecatv.github.io/blob/main/FreecatvLive.m3u8)
+#EXTINF: Other info contained in email stream. https://raw.githubusercontent.com/Nurhossainbd1/Hasantv/main/Hasantv.m3u https://tinyurl.com/connoriptv1 https://tinyurl.com/connoriptv5 https://epg.pw/test_channels_sports.m3u - https://catowrap.live/ - https://epg.pw/stream - https://epg.pw/test_channels_sport.txt
 #EXTINF: https://www.fushaar.com/  https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt  https://bit.ly/sports4kuhd or https://7pal.short.gy/sports4kuhd
 #EXTINF: https://buffstreams.app/ https://buffstreams.ai/ https://fmhy.net/videopiracyguide#sports-streaming
 #EXTINF: https://spread.3y1.xyz/android_app/84/  https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856#file-fmhy-md
