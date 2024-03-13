@@ -138,6 +138,8 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 tvg-id="jtbc" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CCTV-logo.jpg" group-title="Sports",CCTV Golf
 https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-id="jtbc" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="jojsport" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
@@ -726,6 +728,10 @@ https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/2022Fil
 https://www.googleapis.com/drive/v3/files/1no006Kw4vHpFQ3VzE9cUvJore0bmtira?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://live.staticflickr.com/5465/17990333701_7ec3922326_z.jpg",Night At The Museum (2014)
 https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.themoviedb.org/t/p/w500/7WSPc5O2Gt50LptPWVVBgixGRis.jpg", Nanny Mcphee (2005)
+https://www.googleapis.com/drive/v3/files/1MYWVKPyF_7j4cXKXe-1PoP8FZ61FhS8X?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.themoviedb.org/t/p/w500/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg", Nanny Mcphee Return (2010)
+https://www.googleapis.com/drive/v3/files/1jjqkYJ5BuJZ0lmP4P0iv5vW-zbUvTEJA?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Mission-_Impossible_%E2%80%93_Dead_Reckoning_Part_One_poster.jpg",Mission Impossible (2022)
 https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/161%20-%20180/REBAHIN-MISSION%20IMPOSSIBLE%20%E2%80%93%20DEAD%20RECKONING%20PART%20ONE%20%282023%29.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14015_p_v10_aq.jpg",Of Mice And Men (1992)
