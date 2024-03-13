@@ -49,7 +49,7 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 1 (English Premier League - Might Not Work)
 https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 2 (English Premier League - Might Not Work)
-http://xtv.ooo:8080/live/T4S00515/820172/167578.ts 
+https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 3 (English Premier League - Might Not Work)
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 4 (English Premier League - Might Not Work)
@@ -604,6 +604,8 @@ https://catowrap.live/mrgamingeuro2.m3u8
 https://catowrap.live/mrgamingfox.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingmix.m3u8
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+http://xtv.ooo:8080/live/T4S00515/820172/167578.ts 
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingnbc.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
