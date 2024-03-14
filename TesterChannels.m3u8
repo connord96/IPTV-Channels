@@ -445,7 +445,8 @@ http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
 http://iptv.nextnet.krd:25461/nextnet/3738/4338
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 47 (Probably Won't work - If not, use Sportsfire App)
 http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/460.ts
-
+#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 48 (Probably Won't work - If not, use Sportsfire App)
+rtmp://66.179.255.51/live/espn
 
 
 
@@ -786,4 +787,4 @@ https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%2
 #EXTINF: Other info contained in email stream. https://raw.githubusercontent.com/Nurhossainbd1/Hasantv/main/Hasantv.m3u https://tinyurl.com/connoriptv1 https://tinyurl.com/connoriptv5 https://epg.pw/test_channels_sports.m3u - https://catowrap.live/ - https://epg.pw/stream - https://epg.pw/test_channels_sport.txt
 #EXTINF: https://www.fushaar.com/  https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt  https://bit.ly/sports4kuhd or https://7pal.short.gy/sports4kuhd
 #EXTINF: https://buffstreams.app/ https://buffstreams.ai/ https://fmhy.net/videopiracyguide#sports-streaming
-#EXTINF: https://spread.3y1.xyz/android_app/84/  https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856#file-fmhy-md  https://methstreams.app/ https://vip-league.net/
+#EXTINF: https://spread.3y1.xyz/android_app/84/  https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856#file-fmhy-md  https://methstreams.app/ https://vip-league.net/ http://mrzmexico.ddns.net/tv/
