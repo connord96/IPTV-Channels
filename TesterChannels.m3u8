@@ -127,8 +127,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 tvg-name="tudnsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (Live European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-name="tivibu1" tvg-logo="https://w1.pngwing.com/pngs/581/739/png-transparent-champions-league-logo-uefa-europa-league-europe-tivibu-spor-football-television-sports-uefa-champions-league.png" tvg-id="tivibuspor" group-title="Sports",Tivibu Sports 1 (Live European Games)
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
@@ -298,7 +296,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 6 (English Premier League - Might Not Work)
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 7 (English Premier League - Might Not Work)
-http://cord-cutter.net:8080/m9AGkj/277638/35240
+http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/2505/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 8 (English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #pl
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
@@ -308,7 +306,7 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extens
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
 http://watchindia.net:8880/live/12171/04170628/2093.ts #skyfootball
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 12 (English Premier League - Might Not Work)
-http://cord-cutter.net:8080/m9AGkj/277638/35243
+https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 13 (English Premier League - Might Not Work)
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 14 (English Premier League - Might Not Work)
@@ -342,15 +340,9 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 28 (English Premier League - Might Not Work)
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 29 (English Premier League - Might Not Work)
-https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
+http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/7335/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 30 (English Premier League - Might Not Work)
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/72905
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 31 (English Premier League - Might Not Work)
-http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/7335/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 32 (English Premier League - Might Not Work)
-http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/2505/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 33 (English Premier League - Might Not Work)
-http://toh-users.xyz:8080/42204120/16250164/857433
 
 
 
@@ -381,7 +373,7 @@ http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 11 (Probably Won't work - If not, use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8 #f
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 12 (Probably Won't work - If not, use Sportsfire App)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8 #f
+http://176868.cloud/0ef269380c81296f33e0bc5679ee4b3c/a2142e9e39fcb740164dc9a0e031727e/2206cf32b1783a15b57a39f7073eaf9f/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 13 (Probably Won't work - If not, use Sportsfire App)
 http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts #f
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 14 (Probably Won't work - If not, use Sportsfire App)
@@ -399,9 +391,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extensi
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 20 (Probably Won't work - If not, use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 21 (Probably Won't work - If not, use Sportsfire App)
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/19158/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 22 (Probably Won't work - If not, use Sportsfire App)
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/460.ts
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 23 (Probably Won't work - If not, use Sportsfire App)
 http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 24 (Probably Won't work - If not, use Sportsfire App)
@@ -441,24 +433,13 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 41 (Probably Won't work - If not, use Sportsfire App)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 42 (Probably Won't work - If not, use Sportsfire App)
-http://ru02.spr24.net/21201/mpegts?token=45UYwCTbAVBazU
+rtmp://66.179.255.51/live/espn
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 43 (Probably Won't work - If not, use Sportsfire App)
 http://iptv.nextnet.krd:25461/nextnet/3738/149
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 44 (Probably Won't work - If not, use Sportsfire App)
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 45 (Probably Won't work - If not, use Sportsfire App)
-http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 46 (Probably Won't work - If not, use Sportsfire App)
 http://iptv.nextnet.krd:25461/nextnet/3738/4338
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 47 (Probably Won't work - If not, use Sportsfire App)
-http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/460.ts
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 48 (Probably Won't work - If not, use Sportsfire App)
-rtmp://66.179.255.51/live/espn
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 49 (Probably Won't work - If not, use Sportsfire App)
-http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/19158/index.m3u8
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 50 (Probably Won't work - If not, use Sportsfire App)
-http://176868.cloud/0ef269380c81296f33e0bc5679ee4b3c/a2142e9e39fcb740164dc9a0e031727e/2206cf32b1783a15b57a39f7073eaf9f/index.m3u8
-
 
 
 
@@ -471,6 +452,8 @@ http://176868.cloud/0ef269380c81296f33e0bc5679ee4b3c/a2142e9e39fcb740164dc9a0e03
 https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
 https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
+https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Rick Astley & The Blossoms Perform The Smiths (Glastonbury 2023)
 https://hugh.cdn.rumble.cloud/video/s8/2/v/1/h/x/v1hxq.caa.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Smiths (Greatest Hits)
@@ -493,8 +476,6 @@ https://hugh.cdn.rumble.cloud/video/s8/2/Q/5/g/x/Q5gxq.caa.mp4
 https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
 https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
-https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
 https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
@@ -551,7 +532,7 @@ https://player.odycdn.com/v6/streams/bf9a9016825848cb15f328c9fd84b58db503d6b6/11
 
 
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (SKy & TNT Sports -->)
 https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingpremier.m3u8
@@ -565,7 +546,7 @@ https://catowrap.live/mrgamingbtsport2.m3u8
 https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingbtsport4.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (During Football Matches Only -->)
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://sportsleading.online/live/stream_2.m3u8
@@ -588,6 +569,12 @@ https://bp1.mrgamingstreams.com/mrgamingsoccer6.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://mcdn.mrgamingstreams.com/main.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+https://freeiptv25.netlify.app/live/stream_1.m3u8
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+https://freeiptv25.netlify.app/live/stream_2.m3u8
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+https://freeiptv25.netlify.app/live/stream_3.m3u8
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (Mixed Streams -->)
 https://mlb.mrgamingstreams.com/hubprem.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/mrgamingbein.m3u8
@@ -623,13 +610,7 @@ https://catowrap.live/mrgamingsstennis.m3u8
 https://catowrap.live/mrgamingtyc.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/nbcphilly.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://freeiptv25.netlify.app/live/stream_1.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://freeiptv25.netlify.app/live/stream_2.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://freeiptv25.netlify.app/live/stream_3.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (Open Source Resources -->)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
@@ -651,8 +632,6 @@ https://seed122.bitchute.com/QUNJDoOZpK1P/g2iJsXyR2Pwe.mp4
 https://hugh.cdn.rumble.cloud/video/s8/2/J/G/s/n/JGsnq.caa.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.aletterfromireland.com/wp-content/uploads/2020/09/peat-bog-ireland.jpg",The Story Of Turf Cutting In Ireland
 https://uploads1.newtube.app/uploads/Raw_Bacon/PP3rlzf.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/AShineOfRainbows2009Poster.jpg",A Shine Of Rainbows (2009)
-https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/74811f34de0e991bba72481f45b939c2.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20240315%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240315T022947Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=935c709ce16511850cf01cfcd8666d952d9a3175ce8fa5cf6f9164e26b0d7863
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/demetra-george.com/wp-content/uploads/2018/08/ThreeIdenticalStrangers.jpg",Three Identical Strangers (2015)
 https://stream.hownetwork.xyz/xxx/three-identical-strangers2018-bluray_X_2327edc9/17/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12157971_p_v8_ae.jpg",The Big Short (2015)
@@ -663,7 +642,7 @@ https://stream.hownetwork.xyz/xxx/black-47-black-47-2018-bluray/6/480.m3u8
 https://stream.hownetwork.xyz/xxx/belfast-2021-bluray/13/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://image.tmdb.org/t/p/original/5T9TEL0RhyjgTRMxS9rH5AXJVQM.jpg",In The Name Of The Father (1993)
 https://stream.hownetwork.xyz/xxx/name-father-1993-bluray/11/480.m3u8
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://pics.filmaffinity.com/The_Keeper-205896740-large.jpg",The Keeper: Trautmann (2018)
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://metadata-static.plex.tv/c/gracenote/c350afb668e4d69c36925c10a0b5e493.jpg",The Keeper: Trautmann (2018)
 https://stream.hownetwork.xyz/xxx/the-keeper-trautmann-2018-webrip/15/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/moviesreview101.com/wp-content/uploads/2024/02/einstein.png",Einstein & The Bomb (2024)
 https://stream.fushaar.link/movie/47416/47416.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNjoyNjo0NiBQTSZoYXNoX3ZhbHVlPVRNZlV2YmxNVGNYNmNKMnZSWXkxN0E9PSZ2YWxpZG1pbnV0ZXM9NDUw
@@ -765,15 +744,15 @@ https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/161%20-
 https://archive.org/download/Of.Mice.And.Men.1992.iNTERNAL.DVDRip.XviDILS.avi/Of.Mice.And.Men.1992.iNTERNAL.DVDRip.XviD-iLS.avi.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones: Dial Destiny(2003)
 https://sin1.contabostorage.com/dc2f9b68d360485ab32f7d6b315fbde8:rebahin/Updates/REBAHIN-Indiana-Jones-And-The-Dial-Of-Destiny-2023-1693267229.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XH4g120.jpg", Batman The Dark Knight (2008)
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://soundvapors.com/wp-content/uploads/2020/06/tdk-1024x1024.jpg", Batman The Dark Knight (2008)
 https://lh3.googleusercontent.com/OXw9QDYThjRhY7mIZzzjgcFY1d1hudDPWrwprmb3QtQsBXgBlgZL3Xs4l_4pvPsQ2vaGWMgQ3cuNJetvVA=m22
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Rcv5gXU.jpg", Batman The Dark Knight Rises (2012)
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://thewolfmancometh.files.wordpress.com/2012/07/the-dark-knight-rises-movie-poster-2012-christopher-nolan.jpg", Batman The Dark Knight Rises (2012)
 https://lh3.googleusercontent.com/0i7CSFHiP0E_NHl1dEFKdpqCNkSGWtDP3tOQQxjDvr_oSauAkn8_8E30twpKn20WKTZuVOuLGKznk9CqNQ=m22
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Casino_Royale_2_-_UK_cinema_poster.jpg",Casino Royale (2006)
 http://abf.filmbluray.id/8w1zyuz
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/BlacKkKlansman.png",Blackkknsman (2018)
 https://stream.hownetwork.xyz/xxx/blackkklansman2018-bluray/6/480.m3u8
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://fr.web.img6.acsta.net/c_310_420/pictures/23/11/07/11/55/4164921.jpg",The Champion Of Auschwitz (2020)
+#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/dSPVzu39qN4oXHbxAv5g68U20GG.jpg",The Champion Of Auschwitz (2020)
 https://stream.hownetwork.xyz/xxx/the-champion-mistrz-2021-bluray_X_97b19edf/19/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-9338929593.jpg",Percy Vs Goliath (2020)
 https://stream.hownetwork.xyz/xxx/percy-vs-goliath-percy-2020-webdl/14/480.m3u8
