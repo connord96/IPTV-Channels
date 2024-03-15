@@ -653,8 +653,6 @@ https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/74811f34de
 https://stream.hownetwork.xyz/xxx/three-identical-strangers2018-bluray_X_2327edc9/17/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12157971_p_v8_ae.jpg",The Big Short (2015)
 https://stream.hownetwork.xyz/xxx/big-short-2015-bluray/16/480.m3u8
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11729985_v_v8_af.jpg",Black Mass (2015)
-https://be4235.rcr32.ams02.cdn112.com/hls2/02/02754/ekdgkytavfzy_n/master.m3u8?t=dyZZ6qzrL-eqknl1JQ3mI27yBwlom0N-7Lc4O-tE2Ks&s=1710429419&e=43200&f=13774294&srv=27&asn=2110&sp=2000
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.irishcentral.com/uploads/article/128771/cropped_black_47_poster.jpg",Black 47 (2018)
 https://stream.hownetwork.xyz/xxx/black-47-black-47-2018-bluray/6/480.m3u8
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://dipsicdude.files.wordpress.com/2022/06/belfast1.jpg",Belfast (2021)
@@ -783,56 +781,96 @@ https://stream.hownetwork.xyz/xxx/percy-vs-goliath-percy-2020-webdl/14/480.m3u8
 
 
 #EXTINF: Series
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E1)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E01)
 https://archive.org/download/father-ted-2005/Father%20Ted%20%281995%29/Father%20Ted%20%281995%29%20Season%201/Father%20Ted%20-%20S01E01%20-%20Good%20Luck%2C%20Father%20Ted.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E2)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E02)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%201%2FFather%20Ted%20-%20S01E02%20-%20Entertaining%20Father%20Stone.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E3)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E03)
 https://archive.org/download/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%201%2FFather%20Ted%20-%20S01E03%20-%20The%20Passion%20of%20Saint%20Tibulus.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E4)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E04)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%201%2FFather%20Ted%20-%20S01E04%20-%20Competition%20Time.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E5)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E05)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%201%2FFather%20Ted%20-%20S01E05%20-%20And%20God%20Created%20Woman.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E6)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S1E06)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%201%2FFather%20Ted%20-%20S01E06%20-%20Grant%20Unto%20Him%20Eternal%20Rest.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E1)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E01)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E01%20-%20Hell.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E2)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E02)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E02%20-%20Think%20Fast%2C%20Father%20Ted.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E3)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E03)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E03%20-%20Tentacles%20of%20Doom.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E4)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E04)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E04%20-%20The%20Old%20Grey%20Whistle%20Theft.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E5)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E05)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E05%20-%20A%20Song%20for%20Europe.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E6)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E06)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E06%20-%20The%20Plague.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E7)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E07)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E07%20-%20Rock%20A%20Hula%20Ted.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E8)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E08)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E08%20-%20Cigarettes%20and%20Alcohol%20and%20Rollerblading.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E9)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E09)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E09%20-%20New%20Jack%20City.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E10)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S2E10)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%202%2FFather%20Ted%20-%20S02E10%20-%20Flight%20into%20Terror.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E1)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E01)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E01%20-%20Are%20You%20Right%20There%2C%20Father%20Ted.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E2)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E02)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E02%20-%20Chirpy%20Burpy%20Cheap%20Sheep.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E3)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E03)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E03%20-%20Speed%203.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E4)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E04)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E04%20-%20The%20Mainland.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E5)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E05)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E05%20-%20Escape%20from%20Victory.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E6)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E06)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E06%20-%20Kicking%20Bishop%20Brennan%20Up%20The%20Arse.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E7)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E07)
 https://ia902501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E07%20-%20Night%20of%20the%20Nearly%20Dead.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E8)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (S3E08)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Season%203%2FFather%20Ted%20-%20S03E08%20-%20Going%20to%20America.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (Christmas Special)
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://www.phill.co.uk/images/Father-Ted.png",Father Ted (Christmas Special)
 https://ia802501.us.archive.org/2/items/father-ted-2005/Father%20Ted%20%281995%29%2FFather%20Ted%20%281995%29%20Special%2FFather%20Ted%20-%20S00E01%20-%20A%20Christmassy%20Ted.mp4
+
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E01)
+https://archive.org/download/1-1._20231214/1-1..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E02)
+https://archive.org/download/1-1._20231214/1-2..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E03)
+https://archive.org/download/1-1._20231214/1-3..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E04)
+https://archive.org/download/1-1._20231214/1-4..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E05)
+https://archive.org/download/1-1._20231214/1-5..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S1E06)
+https://archive.org/download/1-1._20231214/1-6..mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E01)
+https://archive.org/download/2-5.-the-prom/2-1.%20Across%20the%20barricade.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E02)
+https://archive.org/download/2-5.-the-prom/2-2.%20Ms%20De%20Brun%20and%20the%20child%20of%20Prague.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E03)
+https://archive.org/download/2-5.-the-prom/2-3.%20The%20concert.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E04)
+https://archive.org/download/2-5.-the-prom/2-4.%20The%20curse.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E05)
+https://archive.org/download/2-5.-the-prom/2-5.%20The%20prom.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S2E06)
+https://archive.org/download/2-5.-the-prom/2-6.%20The%20president.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E01)
+https://archive.org/download/3-7.-the-agreement/3-1.%20The%20night%20before.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E02)
+https://archive.org/download/3-7.-the-agreement/3-2.%20The%20affair.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E03)
+https://archive.org/download/3-7.-the-agreement/3-3.%20Stranger%20on%20a%20train.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E04)
+https://archive.org/download/3-7.-the-agreement/3-4.%20The%20haunting.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E05)
+https://archive.org/download/3-7.-the-agreement/3-5.%20The%20reunion.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E06)
+https://archive.org/download/3-7.-the-agreement/3-6.%20Halloween.mp4
+#EXTINF:-1 group-title="Series Collection" tvg-logo="https://cdn.europosters.eu/image/750/posters/derry-girls-rip-i87610.jpg",Derry Girls (S3E07)
+https://archive.org/download/3-7.-the-agreement/3-7.%20The%20agreement.mp4
+
 
 
 
