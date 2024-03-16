@@ -273,6 +273,10 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpsonszion.flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_southparkzion.flv
 #EXTINF:-1 tvg-id="familyguy" group-title="Entertainment" tvg-logo="https://247wallst.com/wp-content/uploads/2018/09/family-guy.jpg",Family Guy 24/7 (May Not Work)
 https://stream-cdn-iad2.vaughnsoft.net/play/live_familyguyzion.flv
+#EXTINF:-1 tvg-id="familyguy" group-title="Entertainment" tvg-logo="https://247wallst.com/wp-content/uploads/2018/09/family-guy.jpg",The Office US 24/7 (May Not Work)
+https://stream-cdn-iad2.vaughnsoft.net/play/live_0ff1c3.flv
+#EXTINF:-1 tvg-id="familyguy" group-title="Entertainment" tvg-logo="https://247wallst.com/wp-content/uploads/2018/09/family-guy.jpg",British Comedies 24/7 (May Not Work)
+https://stream-cdn-iad2.vaughnsoft.net/play/live_atlantis7.flv
 #EXTINF:-1 tvg-id="seinfeld" group-title="Entertainment" tvg-logo="https://www.sonypictures.com/sites/default/files/2021-10/seinfeld_youtube_banner_2572.jpg",Seinfeld 24/7 (May Not Work)
 https://demo.streamplanet.tv/hls/seinfeld/src/index.m3u8
 #EXTINF:-1 tvg-id="rickmorty" group-title="Entertainment" tvg-logo="https://media.cdn.adultswim.com/uploads/20230927/239271334177-rick-and-morty-season-7-metaThumb_420x236.png",Rick & Morty 24/7 (May Not Work)
