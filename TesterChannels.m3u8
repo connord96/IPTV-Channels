@@ -622,6 +622,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/ar-beinsports1.m3u8
+#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",EPL Test During Match
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
 
 
 
