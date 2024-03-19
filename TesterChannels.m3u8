@@ -127,6 +127,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1 tvg-name="tudnsport" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (Live European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-name="lequippe" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" tvg-id="tudnsport" group-title="Sports",L'Équipe TV (Live European Games)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="usgatv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
@@ -149,6 +151,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard TV 2
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="billiards" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/07/kozoom.png" group-title="Sports",Kozoom TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8?channel_name=Kozoom&p=sportstribal&content_title=Kozoom&channel_partner=Kozoom&content_genre=Billiard%2CPool%2CSnooker&t=2024-01-25T17%3A42%3A13.000&content_id=bf580ae8_20240125174213_D0CF72b&ip=83.137.6.162&ic=IAB532-483&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36
 #EXTINF:-1 tvg-id="ftf" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
