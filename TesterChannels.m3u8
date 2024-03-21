@@ -76,6 +76,16 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="persianasports" tvg-logo="https://iran-tv.net/media/persiana-sport.webp" tvg-id="persianasports" group-title="Sports",Persiana Sports Backup(Live English Games)
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24(Live English Games)
+#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live English Games, Snooker & Champions League)
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Live English Games)
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport Backup (Live English Games)
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://livestream.angani.africa/livestream/k24/1/k24.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 1 (Live English & European Games)
 https://live.aionet.ir/hls/aiosport/aiosport_720/index.m3u8
@@ -83,20 +93,10 @@ https://live.aionet.ir/hls/aiosport/aiosport_720/index.m3u8
 https://af.ayassport.ir/hls2/aiosport.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 2 (Live English & European Games)
 https://live.aionet.ir/hls/aiosport2/aiosport2_720/index.m3u8
-#EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Live English Games)
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-name="pokertv" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Live English Games, Snooker & Champions League)
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Live English Games)
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1 tvg-name="varseshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport Backup (Live English Games)
 https://live.aionet.ir/hls/varzesh/varzesh_720/index.m3u8
-#EXTINF:-1 tvg-name="paramount" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports(Live English Games)
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Live English Games)
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-name="turkmensport" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport Backup (Live English Games)
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-name="varzish" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Sports",VarZish TV (TJK) (Live English & European Games)
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 tvg-name="iribsport" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/IRIB_TV3.jpg" tvg-id="iribsport" group-title="Sports",IRIB TV 3 Iran(Live European Games)
@@ -129,9 +129,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-name="lequippe" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" tvg-id="lequipe" group-title="Sports",L'Équipe TV (Live European Games)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Equipe Live 1 (Live European Games)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'Equipe Live 1 (Live European Games)
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Equipe Live 2 (Live European Games)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'Equipe Live 2 (Live European Games)
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-name="lequippe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/220px-Sport5_Logo.png" tvg-id="lequipe" group-title="Sports",Sport5 (Live European Games)
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
