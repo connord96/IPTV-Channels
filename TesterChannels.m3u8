@@ -51,9 +51,9 @@ https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
 https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 3
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
+http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 4
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 5
 https://7pal.short.gy/SkSpMainE
 
@@ -129,6 +129,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-name="cbcsport" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcbcsportshd.jpg" tvg-id="shabakke" group-title="Sports",CBC Sport (Live European Games)
 https://cdn403.canlitv.vin/cbcsport360.m3u8?tkn=UjVRHi6B0I4HPxFI0rbF-g&tms=1711118371&hst=www.canlitv.vin&ip=78.17.68.29
+#EXTINF:-1 tvg-name="mmn" tvg-logo="https://static.wikia.nocookie.net/sonicfanon/images/f/fc/MMN.png" tvg-id="mmn" group-title="Sports",MMN Sport (Live European Games)
+https://cloud.maxtvs.net:443/live/78176829/maxtvs20242024/3.m3u8
 #EXTINF:-1 tvg-name="lequippe" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" tvg-id="lequipe" group-title="Sports",L'Équipe TV (Live European Games)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'Equipe Live 1 (Live European Games)
@@ -314,13 +316,13 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 
 #EXTINF: **********This section is for English Language Premium Channels - continued from above**********
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 6 (English Premier League - Might Not Work)
-https://7pal.short.gy/SkSpMainE
+https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 7 (English Premier League - Might Not Work)
-http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/2505/index.m3u8
+https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 8 (English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #pl
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7337/index.m3u8
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/72905
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_token=j8tvtalOGI
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
@@ -361,10 +363,6 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 29 (English Premier League - Might Not Work)
 http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/7335/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 30 (English Premier League - Might Not Work)
-http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/72905
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 31 (English Premier League - Might Not Work)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
 
 
 
@@ -387,11 +385,11 @@ http://ru02.spr24.net/20881/mpegts?token=45UYwCTbAVBazU
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 7 (Probably Won't work - If not use Sportsfire App)
 http://bantel.iptvperu.tv:1935/transcoderip/espn2bk_t2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 8 (Probably Won't work - If not use Sportsfire App)
-http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/20367
+http://nl01.spr24.net/17434/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 9 (Probably Won't work - If not use Sportsfire App)
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 10 (Probably Won't work - If not use Sportsfire App)
-http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/20371
+http://190.61.43.117:45000/play/a01l
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 11 (Probably Won't work - If not use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8 #f
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 12 (Probably Won't work - If not use Sportsfire App)
@@ -415,7 +413,7 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 21 (Probably Won't work - If not use Sportsfire App)
 http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/19158/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 22 (Probably Won't work - If not use Sportsfire App)
-http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/460.ts
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 23 (Probably Won't work - If not use Sportsfire App)
 http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 24 (Probably Won't work - If not use Sportsfire App)
@@ -427,7 +425,7 @@ http://87.246.60.6:11007
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 27 (Probably Won't work - If not use Sportsfire App)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 28 (Probably Won't work - If not use Sportsfire App)
-http://watchindia.net:8880/live/12171/04170628/2215.ts #sonysport1
+http://iptv.nextnet.krd:25461/nextnet/3738/149
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 29 (Probably Won't work - If not use Sportsfire App)
 https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 30 (Probably Won't work - If not use Sportsfire App)
@@ -435,7 +433,6 @@ https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 31 (Probably Won't work - If not use Sportsfire App)
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 32 (Probably Won't work - If not use Sportsfire App)
-http://goldiptvofficiel.tv:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/51158.ts
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 33 (Probably Won't work - If not use Sportsfire App)
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 34 (Probably Won't work - If not use Sportsfire App)
@@ -444,16 +441,7 @@ http://138.59.177.34:8000/play/a058/index.m3u8
 https://edge2.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 36 (Probably Won't work - If not use Sportsfire App)
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 37 (Probably Won't work - If not use Sportsfire App)
-http://190.61.43.117:45000/play/a01l
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 38 (Probably Won't work - If not use Sportsfire App)
-http://iptv.nextnet.krd:25461/nextnet/3738/149
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 39 (Probably Won't work - If not use Sportsfire App)
-http://nl01.spr24.net/17434/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 40 (Probably Won't work - If not use Sportsfire App)
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
-#EXTINF:-1 group-title="Foreign Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Foreign Sports 41 (Probably Won't work - If not use Sportsfire App)
-http://78.26.128.59:9876/play/161/index.m3u8
+
 
 
 
