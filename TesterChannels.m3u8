@@ -129,6 +129,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://ncdn.telewebion.com/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-name="cbcsport" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fcbcsportshd.jpg" tvg-id="shabakke" group-title="Sports",CBC Sport (Live European Games)
 https://cdn403.canlitv.vin/cbcsport360.m3u8?tkn=UjVRHi6B0I4HPxFI0rbF-g&tms=1711118371&hst=www.canlitv.vin&ip=78.17.68.29
+#EXTINF:-1 tvg-name="daserste" tvg-logo="https://www.tvsportguide.de/media/2019/06/Das_Erste_2014.svg.png" tvg-id="daserste" group-title="Sports",ARD Das Erste HD (Live German Games)
+https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-name="mmn" tvg-logo="https://static.wikia.nocookie.net/sonicfanon/images/f/fc/MMN.png" tvg-id="mmn" group-title="Sports",MMN Sport (Live European Games)
 https://cloud.maxtvs.net:443/live/78176829/maxtvs20242024/3.m3u8
 #EXTINF:-1 tvg-name="lequippe" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" tvg-id="lequipe" group-title="Sports",L'Équipe TV (Live European Games)
