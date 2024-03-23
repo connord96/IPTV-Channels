@@ -95,6 +95,8 @@ https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 https://af.ayassport.ir/hls2/aiosport.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 2 (Premier League & European Games)
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+#EXTINF:-1 tvg-name="idmantv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" tvg-id="idmantv" group-title="Sports",Idman TV (English & European Games)
+https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Premier League)
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup (Premier League)
