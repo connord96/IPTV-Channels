@@ -37,7 +37,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="OireachtasTV(src01).uk" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 tvg-country="IE" tvg-id="irishTV" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland",Azoyat (Irish TV - Thursday @10pm Only)
+#EXTINF:0 tvg-country="IE" tvg-id="irishTV" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland",Azoyat (Irish TV: Thursday @10pm Only)
 https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland",Dublin City TV (Intermittent Feed)
 https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
