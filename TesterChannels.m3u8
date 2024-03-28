@@ -849,7 +849,8 @@ https://archive.org/download/blackpool-vs-bolton-wanderers-final-fa-cup-1952-195
 https://archive.org/download/west-bromwich-albion-vs-preston-north-end-final-fa-cup-1954-partido-completofull-match/FA%20Cup%201954.mp4
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Test
-https://raw.githubusercontent.com/connord96/IPTV-Channels/main/refererTest.m3u
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+https://sportsleading.online/live/stream_e1.m3u8
 
 
 
