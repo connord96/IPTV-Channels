@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
+https://edge.audioxi.com/TDAAC
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (European Games)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5+ China (European Games)
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Ftur%2Fbeinhaber.jpg" group-title="Sports",Bein Sports Turkey
+https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-haber.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports2.ae" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" tvg-id="SharjahSports.ae" group-title="Sports",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ptvsports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" tvg-id="ptvsports" group-title="Sports",PTV Sports (Cricket)
+https://ythls-v2.onrender.com/channel/UCs7Bb1EX6lvpADcj9soL1fQ.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://www.worldoffreesports-tv.com/assets/images/d/world-of-freesports-channel-headerbild-4abc8779.jpg" group-title="Sports",World Of Free Sport
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgat/playlist.m3u8
+#EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://www.sportystuff.tv/content/images/size/w600/2024/01/SportyStuffTV-1920x1080-HD-1.png" group-title="Sports",SportyStuff TV
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Mqzv5JeFqkQBizXX7fQ5qM-200-100.jpg" group-title="Entertainment",Rakuten TV Shows
+https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Mqzv5JeFqkQBizXX7fQ5qM-200-100.jpg" group-title="Entertainment",Rakuten Movies
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
