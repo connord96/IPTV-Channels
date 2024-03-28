@@ -27,7 +27,7 @@ http://192.111.140.11:8058/;
 https://edge2.audioxi.com/NT
 #EXTINF:-1 tvg-id="talksport1" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 1
 http://radio.talksport.com/stream
-#EXTINF:-1 tvg-id="talksport2" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio
+#EXTINF:-1 tvg-id="talksport2" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 2
 http://radio.talksport.com/stream2
 #EXTINF:-1 tvg-id="radio5live" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
