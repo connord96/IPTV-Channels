@@ -290,6 +290,8 @@ https://i.mjh.nz/Roku/9ef266ff45705a50b5cf5f57e9d27a99.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65621cad5dbccec83a87b63f.m3u8
 #EXTINF:-1 tvg-id="conan" group-title="Entertainment" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ConanOBrientv.png",Conan O'Brien Show (US)
 https://bit.ly/3QsvP3A?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="channel5" group-title="Entertainment" tvg-logo="https://simkl.in/fanart/72/7291466f9c14f8c6_w.jpg",Channel 5 Documentaries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="simpsons" group-title="Entertainment" tvg-logo="https://s.abcnews.com/images/GMA/HT_the_simpsons_jef_161014_hpMain_3_16x9_1600.jpg",The Simpsons 24/7 (May Not Work)
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpsonszion.flv
 #EXTINF:-1 tvg-id="southpark" group-title="Entertainment" tvg-logo="https://variety.com/wp-content/uploads/2021/04/South-Park-Key-Art-2.jpg",South Park 24/7 (May Not Work)
