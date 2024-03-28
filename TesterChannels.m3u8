@@ -355,11 +355,11 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 1
-https://catowrap.live/mrgamingssnews.m3u8
+https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
 https://catowrap.live/mrgamingpremier.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
-https://catowrap.live/mrgamingmainevent.m3u8
+https://catowrap.live/mrgamingssnews.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 4
 https://catowrap.live/mrgamingmix.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1
@@ -370,52 +370,44 @@ https://catowrap.live/mrgamingbtsport2.m3u8
 https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 4
 https://catowrap.live/mrgamingbtsport4.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer1.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer2.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer3.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer4.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer5.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer6.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (SportsFree)
 https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (SportsFree)
 https://soccer.freesportstime.com/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (Netify)
 https://freeiptv25.netlify.app/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (Netify)
 https://freeiptv25.netlify.app/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (Netify)
 https://freeiptv25.netlify.app/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (Netify)
+https://freeiptv25.netlify.app/live/stream_4.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (Netify)
+https://freeiptv25.netlify.app/live/stream_5.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6 (Netify)
+https://freeiptv25.netlify.app/live/stream_6.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 7 (Netify)
+https://freeiptv25.netlify.app/live/stream_7.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 8 (Netify)
+https://freeiptv25.netlify.app/live/stream_8.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Netify)
+https://freeiptv25.netlify.app/live/stream_9.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
-https://catowrap.live/mrgamingbein.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
-http://cdntv.online/low/9mlxywika2/1021.mpeg
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 2
-http://cdntv.online/low/9mlxywika2/1022.mpeg
+https://catowrap.live/mrgamingbein.m3u8 
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 3
 https://catowrap.live/mrgamingcbs.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 4
-https://catowrap.live/mrgamingespn.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 5
-https://catowrap.live/nbcphilly.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 6
-https://catowrap.live/mrgamingnbc.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 7
-https://catowrap.live/mrgamingpacnet.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 8
-https://catowrap.live/mrgamingskyarena.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 9
-https://catowrap.live/mrgamingsportsnet.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 10
-https://catowrap.live/mrgamingsstennis.m3u8
-#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 11
-https://catowrap.live/mrgamingtyc.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 11
 http://addmnrc.megahdtv.xyz:80/3748833076/7253843485/118045
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 11
