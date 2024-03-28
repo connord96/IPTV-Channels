@@ -118,8 +118,6 @@ https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/4.m3u8
 #EXTINF:-1 tvg-name="dazn" tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR.jpg" tvg-id="dazn" group-title="Sports",Dazn Sports Canada (Championship & European Games)
 https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
-#EXTINF:-1 tvg-name="belarus5" tvg-logo="https://s.tvp.pl/files/portale-v4/sport-tvp-pl/images/tvpsport_logo_social.png" tvg-id="belarus5" group-title="Sports",TVP Sport (European Games)
-https://cdn-nvm-chicago.lolokoko.tv/TVPSport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM (European Games)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/83/Premier_Sports_logo.png" tvg-id="belarus5" group-title="Sports",Premier Slovakia (Championship & League 1 Games)
@@ -422,6 +420,10 @@ https://salamus2023.onlinehdhls.ru/ddy3/premium418/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium56/playlist.m3u8
+#EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 10 (Dad HDTV)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh2/premium123/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 11 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
