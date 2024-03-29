@@ -300,7 +300,7 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium123/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 11 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://salamus2023.onlinehdhls.ru/ddh2/premium124/playlist.m3u8
+https://salamus2023.onlinehdhls.ru/ddh1/premium124/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 12 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
@@ -309,10 +309,6 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium35/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 Test(StreamByTheWay)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
