@@ -920,6 +920,14 @@ http://78.26.128.59:9876/play/161/index.m3u8
 
 
 
+#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 1
+#EXTVLCOPT:http-referrer=https://sportsnest.co/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://s13.cloudkora.xyz/hls/tenn_hd/styles.css
+
+
+
+
 
 
 
