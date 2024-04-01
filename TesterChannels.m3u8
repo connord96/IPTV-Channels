@@ -98,7 +98,7 @@ https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 https://af.ayassport.ir/hls2/aiosport.m3u8
 #EXTINF:-1 tvg-name="aiosport" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 2 (Premier League & European Games)
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-#EXTINF:-1 tvg-name="nbc" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",NBC NYC (Premier League Games)
+#EXTINF:-1 tvg-name="nbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" tvg-id="aiosports" group-title="Sports",NBC NYC (Premier League Games)
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 #EXTINF:-1 tvg-name="telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Premier League)
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
@@ -152,6 +152,8 @@ https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="onegolf" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="nbcgolf" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2022/03/GOLF_PGAT_FLAT.jpg" group-title="Sports",NBC Golf
+https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 #EXTINF:-1 tvg-id="golfkingdom" tvg-logo="https://www.golfnetwork.plus/img/sp_header_icon_u.png" group-title="Sports",Golf Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 tvg-id="jojsport" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
