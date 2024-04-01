@@ -278,81 +278,111 @@ https://catowrap.live/cbssn.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_2.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_3.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_4.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_5.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_6.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh1/premium61/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy1/premium130/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium31/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium32/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh1/premium451/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium343/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 7 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy1/premium595/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 8 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy3/premium414/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy3/premium418/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 10 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium123/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 11 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh1/premium124/playlist.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 12 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium35/playlist.m3u8
-#EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (SportsFree)
-https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (SportsFree)
-https://soccer.freesportstime.com/live/stream_2.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (Netify)
 https://freeiptv25.netlify.app/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (Netify)
