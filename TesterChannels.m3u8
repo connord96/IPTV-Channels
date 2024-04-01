@@ -926,30 +926,14 @@ http://78.26.128.59:9876/play/161/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 1
-#EXTVLCOPT:http-referrer=https://cuervotv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://ed-c001.edgking.me/plyvivo/ridobe2e6u4uxo7ohe5i/playlist.m3u8
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 2
-#EXTVLCOPT:http-referrer=https://cuervotv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://ed-c001.edgking.me/plyvivo/cip0gohu2ecidew01u4o/playlist.m3u8
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 3
-#EXTVLCOPT:http-referrer=https://cuervotv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://ed-c005.edgking.me/plyvivo/f0h0perimici402itu1a/playlist.m3u8
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 4
-#EXTVLCOPT:http-referrer=https://bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://temp.margheritahowe.store/live/USANETWORK/caxis.m3u8
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 4
-#EXTVLCOPT:http-referrer=https://embedstreamgate.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://t.dinkin1005.com/live/65b9e03a17acb/playlist.m3u8
-#EXTINF:-1 group-title="TESTS" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 4
-#EXTVLCOPT:http-referrer=https://embedstreamgate.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(USAHD-1327.dfw.1080)/index.m3u8
+#EXTINF:-1 group-title="Live Cam Locations" tvg-logo="hhttps://as2.ftcdn.net/v2/jpg/02/50/33/01/1000_F_250330141_i3FYdR8yNrrSO1azkPKeN7gz8AnYtQrR.jpg",Nashville, Tennessee
+https://s3.vaughnsoft.net/vaughnlive_abvs.mp4
+#EXTINF:-1 group-title="Live Cam Locations" tvg-logo="https://as2.ftcdn.net/v2/jpg/02/50/33/01/1000_F_250330141_i3FYdR8yNrrSO1azkPKeN7gz8AnYtQrR.jpg",Trevi Fountain, Rome
+https://hd-auth.skylinewebcams.com/live.m3u8?a=aa2boo29e0p5vbccn3am46uq40
+
+
+
+
 
 
 
