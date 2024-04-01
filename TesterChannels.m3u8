@@ -33,10 +33,14 @@ http://radio.talksport.com/stream2
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
 #EXTINF:-1 group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
 #EXTINF:0 tvg-country="IE" tvg-id="TG4(src01).ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
