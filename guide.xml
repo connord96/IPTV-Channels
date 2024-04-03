@@ -3,6 +3,9 @@
   <channel id="Info">
     <display-name lang="en">Info</display-name>
   </channel>
+  <channel id="LiveRadio">
+    <display-name lang="en">LiveRadio</display-name>
+  </channel>
   <channel id="Movie">
     <display-name lang="en">Movie</display-name>
   </channel>
@@ -51,6 +54,10 @@
   <programme channel="Info" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
+  </programme>
+  <programme channel="LiveRadio" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live radio Station</title>
+    <desc lang="en">Live radio Station</desc>
   </programme>
   <programme channel="Movie" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Movie With Title</title>
