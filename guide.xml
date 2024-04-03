@@ -45,8 +45,8 @@
   <channel id="foreignSportsFree">
     <display-name lang="en">foreignSportsFree</display-name>
   </channel>
-  <channel id="foreignDartsFree">
-    <display-name lang="en">foreignDartsFree</display-name>
+  <channel id="foreignPoolFree">
+    <display-name lang="en">foreignPoolFree</display-name>
   </channel>
   <channel id="foreignGolfFree">
     <display-name lang="en">foreignGolfFree</display-name>
@@ -67,7 +67,7 @@
     <title lang="en">Series With Title</title>
     <desc lang="en">Series With Title - No Information Available</desc>
   </programme>
-  <programme channel="Series" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Inishowen" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Inishowen League Game</title>
     <desc lang="en">Inishowen League Game - Description In Title</desc>
   </programme>
@@ -104,8 +104,8 @@
     <desc lang="en">Selected Premier League Match</desc>
   </programme>
   <programme channel="foreignPLFree" start="20240402163000 +0100" stop="204080403171500 +0100">
-    <title lang="en">Premier League Game Live</title>
-    <desc lang="en">Premier League Game Live</desc>
+    <title lang="en">Premier League Games Live On This Channel</title>
+    <desc lang="en">Premier League Games Live On This Channel</desc>
   </programme>
   <programme channel="foreignSportsFree" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Selected Sports Live</title>
