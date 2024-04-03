@@ -86,7 +86,7 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan (Premier League & European Games)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="" channelID="" tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
 https://livestream.angani.africa/livestream/k24/master.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Premier League & Snooker)
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -106,7 +106,7 @@ https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 #EXTINF:-1 tvg-id="TelemundoEast.us" channelID="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Premier League)
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 TelemundoEast.us tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup (Premier League)
+#EXTINF:-1 tvg-id="TelemundoEast.us" channelID="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup (Premier League)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Varzeshtv.svg/1200px-Varzeshtv.svg.png" tvg-id="varseshtv" group-title="Sports",Varzesh Sport (Premier League & European Games)
 https://af.ayas.ir/hls2/varzeshtv.m3u8
@@ -216,11 +216,11 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF: **********This section is for English Language Premium Channels - continued from above**********
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" channelID="beIN Sports HDTV (English)" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 7 (English Premier League - Might Not Work)
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Sports 1" channelID="Setanta Sports 1" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 8 (English Premier League - Might Not Work)
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 8 (English Premier League - Might Not Work)
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" channelID="SkySportsMainEvent.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
-#EXTINF:-1 tvg-id="USA Network (East)" channelID="USA Network (East)" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
 https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
 https://7pal.short.gy/HPremier1
@@ -234,7 +234,7 @@ https://7pal.short.gy/SkSpMainE
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-id="truePremier" channelID="truePremier" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 16 (English Premier League - Might Not Work)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Sports 2" channelID="Setanta Sports 2" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 17 (English Premier League - Might Not Work)
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 17 (English Premier League - Might Not Work)
 http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:-1 tvg-id="truePremier" channelID="truePremier" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 18 (English Premier League - Might Not Work)
 https://edge2.laotv.la/live/TSport1/index.m3u8
@@ -405,7 +405,7 @@ https://freeiptv25.netlify.app/live/stream_7.m3u8
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-id="Netify" channelID="Netify" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Netify)
 https://freeiptv25.netlify.app/live/stream_9.m3u8
-#EXTINF:-1 tvg-id="beIN Sports (English)" channelID="beIN Sports (English)" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
 https://catowrap.live/mrgamingbein.m3u8 
 #EXTINF:-1 tvg-id="CBSEast.us" channelID="CBSEast.us" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 2
 https://catowrap.live/mrgamingcbs.m3u8
@@ -447,7 +447,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="qello-concerts-by-stingray" channelID="qello-concerts-by-stingray" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Entertainment",Qello Music Concerts
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c.m3u8
-#EXTINF:-1 tvg-id="" channelID=""  tvg-logo="https://www.horizonsmusic.co.uk/cdn/shop/files/unnamed_8_580x.png" group-title="Entertainment",Flashback 70's Music
+#EXTINF:-1 tvg-id="Now70s.uk" channelID="Now70s.uk tvg-logo="https://www.horizonsmusic.co.uk/cdn/shop/files/unnamed_8_580x.png" group-title="Entertainment",Flashback 70's Music
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
 #EXTINF:-1 tvg-id="247Programming" channelID="247Programming" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7214c853077449.592c7b04a4313.jpg" group-title="Entertainment",BBC Top Gear
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Top-Gear.m3u8
