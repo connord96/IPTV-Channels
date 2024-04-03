@@ -220,7 +220,7 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" channelID="SkySportsMainEvent.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
-#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
+#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
 https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
 https://7pal.short.gy/HPremier1
@@ -259,14 +259,24 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium70/playlist.m3u8
 https://catowrap.live/mrgamingmix.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" channelID="TNTSports1.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1
 https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" channelID="TNTSports1.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1 BACKUP
+https://catowrap.live/mrgamingbt.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" channelID="TNTSports2.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 2
 https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.uk" channelID="TNTSports2.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 2 BACKUP
+https://catowrap.live/mrgamingbt2.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" channelID="TNTSports3.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 3
 https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.uk" channelID="TNTSports3.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 3 BACKUP
+https://catowrap.live/mrgamingbt3.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" channelID="TNTSports4.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 4
 https://catowrap.live/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.uk" channelID="TNTSports4.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 4 BACKUP
+https://catowrap.live/mrgamingbt4.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkCanada.ca" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",CBS Sports Link 1
 https://catowrap.live/cbssn.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",CBS Sports Link 1
+https://bp1.mrgamingstreams.com/usan.m3u8
 #EXTINF:-1 tvg-id="PremierLeague" channelID="PremierLeague" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (StreamByTheWay)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:connection=keep-alive
@@ -303,6 +313,8 @@ https://sportsleading.online/live/stream_5.m3u8
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link (MrGam.)
+https://bp1.mrgamingstreams.com/mrgamingsoccer.m3u8
 #EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer1.m3u8
 #EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (MrGam.)
