@@ -1,55 +1,55 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/china.xml, https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml" x-tvg-url="https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/china.xml, https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/uk-sky.com.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/radiotimes.radio.com.channels.xml, https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Ireland/rte.ie.channels.xml" x-tvg-url="https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/uk-sky.com.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/UK/radiotimes.radio.com.channels.xml, https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Ireland/rte.ie.channels.xml"
 
 #EXTINF: **********This section is for the Information section explaining usage**********
-#EXTINF:-1 tvg-id="" channelID=""  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
+#EXTINF:-1 tvg-id="Info" channelID="Info"  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
 https://zggg98sgwbg1gh.bitchute.com/QUNJDoOZpK1P/ItReCC8Oc8uK.mp4
 
 
 
 #EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="highland" tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
+#EXTINF:-1 tvg-id="Highland Radio" channelID="Highland Radio"  tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="bbcrfoyle" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland 🇮🇪" radio="true",BBC Radio Foyle
+#EXTINF:-1 tvg-id="BBC R Foyle" channelID="BBC R Foyle" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland 🇮🇪" radio="true",BBC Radio Foyle
 http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="bbcrulster" tvg-logo="https://cdn-profiles.tunein.com/s24946/images/logog.jpg" group-title="Ireland 🇮🇪" radio="true",BBC Radio Ulster
+#EXTINF:-1 tvg-id="BBC R Ulster" channelID="BBC R Ulster" tvg-logo="https://cdn-profiles.tunein.com/s24946/images/logog.jpg" group-title="Ireland 🇮🇪" radio="true",BBC Radio Ulster
 http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="rteradio1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland 🇮🇪" radio="true",RTÉ 1 Radio
+#EXTINF:-1 tvg-id="RTÉ Radio 1" channelID="RTÉ Radio 1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland 🇮🇪" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="rteradio2" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
+#EXTINF:-1 tvg-id="RTÉ 2FM" channelID="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="rnag" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
+#EXTINF:-1 tvg-id="RTÉ R na G" channelID="RTÉ R na G" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
 http://icecast2.rte.ie/rnag
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="irishfolkradio" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland 🇮🇪" radio="true",Irish Folk Radio USA
+#EXTINF:-1 tvg-id="" channelID="" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland 🇮🇪" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="liveireland" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland 🇮🇪" radio="true",Live Ireland Radio
+#EXTINF:-1 tvg-id="Ireland's Classic Hits" channelID="Ireland's Classic Hits" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland 🇮🇪" radio="true",Live Ireland Radio
 http://192.111.140.11:8058/;
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",Newstalk
+#EXTINF:-1 tvg-id="Newstalk" channelID="Newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",Newstalk
 https://edge2.audioxi.com/NT
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="talksport1" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 1
+#EXTINF:-1 tvg-id="talkSPORT" channelID="talkSPORT" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 1
 http://radio.talksport.com/stream
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="talksport2" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 2
+#EXTINF:-1 tvg-id="talkSPORT 2" channelID="talkSPORT 2" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 2
 http://radio.talksport.com/stream2
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="radio5live" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
+#EXTINF:-1 tvg-id="BBC Radio 5 live" channelID="BBC Radio 5 live" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="RTÉ One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress)
+#EXTINF:-1 tvg-id="RTÉ One" channelID="RTÉ One" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="RTÃ2.ie" channelID="RTÃ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
+#EXTINF:-1 tvg-id="RTÉ2" channelID="RTÉ2" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
-#EXTINF:0 tvg-id="TG4.ie" channelID="TG4.ie" tvg-country="IE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
+#EXTINF:0 tvg-id="TG4" channelID="TG4" tvg-country="IE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 tvg-id="TG4.ie" channelID="AyozatTV.uk" tvg-country="IE"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
+#EXTINF:0 tvg-id="Oireachtas TV" channelID="Oireachtas TV" tvg-country="IE"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:0 tvg-id="AyozatTV.uk" channelID="AyozatTV.uk" tvg-country="IE"  tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland 🇮🇪",Azoyat (Irish TV: Thursday @10pm Only)
 https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
-#EXTINF:0 tvg-country="IE" tvg-id="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland 🇮🇪",Dublin City TV (Intermittent Feed)
+#EXTINF:0 tvg-country="IE" tvg-id="dctv" channelID="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland 🇮🇪",Dublin City TV (Intermittent Feed)
 https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 
 
