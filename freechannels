@@ -43,13 +43,13 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 1 (English Premier League - Might Not Work)
 https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 2 (English Premier League - Might Not Work)
-http://xtv.ooo:8080/live/T4S00515/820172/167578.ts 
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 3 (English Premier League - Might Not Work)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 3 (English Premier League - Might Not Work)
+https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 4 (English Premier League - Might Not Work)
-http://xtv.ooo:8080/live/T4S00515/820172/167579.ts 
-
-
+https://7pal.short.gy/tntspts1
 
 
 
@@ -274,62 +274,25 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 
 
 #EXTINF: **********This section is for English Language Premium Channels - continued from above**********
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 5 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 6 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://supersonictv.live:8080/989223/253481/78155
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 7 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://ojpc.live:8080/M0i6sWA0Wj/tFESOIuYEr/61771
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 8 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #pl
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_token=j8tvtalOGI
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 https://7pal.short.gy/spersppl
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 12 (English Premier League - Might Not Work)
-http://watchindia.net:8880/live/58199/33239/2091.ts #sky
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 13 (English Premier League - Might Not Work)
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 14 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 http://mag.trexlive.me:80/Michael88/Michael88/1114583
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 15 (English Premier League - Might Not Work)
-http://watchindia.net:8880/live/12171/04170628/2093.ts #skyfootball
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 16 (English Premier League - Might Not Work)
+#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports (English Premier League - Might Not Work)
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 17 (English Premier League - Might Not Work)
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 18 (English Premier League - Might Not Work)
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 19 (English Premier League - Might Not Work)
-http://watchindia.net:8880/live/12171/04170628/1071.ts #starselect2
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 20 (English Premier League - Might Not Work)
-https://6oclock.xyz:8443/Linda/12345/12689
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 21 (English Premier League - Might Not Work)
-http://samo-mojatv.myddns.me:82/MemoBrat/6FGVapbQ4FkY/104268
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 22 (English Premier League - Might Not Work)
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 23 (English Premier League - Might Not Work)
-https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v0_index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 24 (English Premier League - Might Not Work)
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 25 (English Premier League - Might Not Work)
-https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 26 (English Premier League - Might Not Work)
-http://watchindia.net:8880/live/12171/04170628/2091.ts #mainevent
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 27 (English Premier League - Might Not Work)
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 28 (English Premier League - Might Not Work)
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 29 (English Premier League - Might Not Work)
-https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 30 (English Premier League - Might Not Work)
-http://supersonictv.live:8080/989223/253481/78150
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 31 (English Premier League - Might Not Work)
-http://watchindia.net:8880/live/12171/04170628/2093.ts #skyfootball
-#EXTINF:-1 group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 32 (English Premier League - Might Not Work)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7337/index.m3u8
+
 
 
 
@@ -426,55 +389,6 @@ http://181.78.8.90:16123/play/ch17
 
 
 
-#EXTINF: **********This section is for Music Concerts Only**********
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Pogues (Live in Munich 1985)
-https://zb10-7gsop1v78.bitchute.com/eEdJEtzmGHCd/h4eSxF9whCoU.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young (Unplugged 1997)
-https://hugh.cdn.rumble.cloud/video/s8/2/K/8/Z/P/K8ZPi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Smiths (Greatest Hits)
-https://player.odycdn.com/api/v3/streams/free/smiths/e0ab2737dd904cdbe45f6c53d56cf49b0823ceaf/70df8d.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Morrisey - Through The Years
-https://seed131.bitchute.com/0ebwOZpjaHZn/TrWYGsLTF4rv.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Rod Stewart (Live in Hyde Park 2015)
-https://player.odycdn.com/api/v3/streams/free/rod-stewart-live-in-hyde-park-(2015)/ede1993259236aa733244d8da1f5f73d8f4ac5bc/f71034.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Classic Songs)
-https://hugh.cdn.rumble.cloud/video/s8/2/T/J/c/F/TJcFo.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners (Compilation of Live videos)
-https://player.odycdn.com/api/v3/streams/free/TheDublinersLiveCompilation/956e6df57f62bc58896a50cc08f93a3ed1dfed7b/4dd7de.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Dubliners - Dublin Documentary
-https://player.odycdn.com/api/v3/streams/free/Dubliners'Dublin/21113e0639e463ce0d785f61c95dbf7e1229d10e/6d64b7.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Planxty (Album: Planxty, 1972)
-https://player.odycdn.com/api/v3/streams/free/Planxty/43f2e1c70e63eb580177725d0a36c9b8f2b3ed72/99a8cf.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones (Live in the Barrowlands 1989)
-https://hugh.cdn.rumble.cloud/video/s8/2/R/8/y/E/R8yEm.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The Wolfe Tones - Let The People Sing Album
-https://player.odycdn.com/api/v3/streams/free/The-Wolfe-Tones/f91a76af9de9d94dc2f47a40d9e01fe08523cbec/92d092.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Neil Young & Crazy Horse (Live in Japan 2001)
-https://seed131.bitchute.com/lVMczHIrcqQA/bY0xnvHXbfFz.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Boston 2005)
-https://seed131.bitchute.com/nGfAKoG3Uyam/czY2vyF51Zfg.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Oasis (Live in Rio 2001)
-https://seed131.bitchute.com/nGfAKoG3Uyam/2Hxf0LsObPIa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", Elvis Presley (Live 'In Person' 1973) 
-https://z-kkb4jvzl1og7.bitchute.com/OZ1D1zEkbKDD/di4MVzz1iZ36.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos", John Fogerty (The Long Road Home Concert 2006)
-https://seed151.bitchute.com/OZ1D1zEkbKDD/DrpIhK1nfK8O.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in Venice 1989)
-https://seed131.bitchute.com/lVMczHIrcqQA/n4peErOMK26u.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Pink Floyd (Live in London 1980)
-https://seed151.bitchute.com/YJO2eL4N3mbk/ypjiU44CwzBI.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",Thin Lizzy (Live in Michigan 1976)
-https://hugh.cdn.rumble.cloud/video/s8/2/y/8/o/o/y8ooi.caa.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V1) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol1/c5426b04c6a1df86d09f0ec744ced59fa8dbefad/5872df.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (V2) (Come West Along The Road - Irish Trad Music)
-https://player.odycdn.com/api/v3/streams/free/ComeWestAlongTheRoadVol2/f30aad2d2a241fc24fea1667e4da5c5a49fc0036/a95670.mp4
-#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/v-0AAOSwuFNkNNya/s-l1600.jpg" group-title="Music Videos",The RTÉ Archives (The Flying Column - Four Green Fields Album, 1972)
-https://player.odycdn.com/api/v3/streams/free/flying-column-–-four-green-fields/fb6a1c20c50f1c2db90c80a432888d67a66c3d4b/068e47.mp4
-
-
-
-
 
 
 
@@ -527,43 +441,13 @@ https://catowrap.live/mrgamingsstennis.m3u8
 https://catowrap.live/mrgamingtyc.m3u8
 #EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
 https://catowrap.live/nbcphilly.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (GetTVFreeTech.com.....)
-https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_3.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_4.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_5.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_6.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_7.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_8.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_9.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://gettvfree.tech/live/stream_10.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports (Zubayer....)
-https://t.ly/EPL-LIVE-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-1-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-2-Zubayer.m3u8
-#EXTINF:-1 group-title="Random Sports (Unlikely to Work)" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports
-https://t.ly/EPL-LIVE-3-Zubayer.m3u8
+
+
 
 
 
 #EXTINF: **********This section is for Movies Only**********
 #EXTINF: Movies
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.derrynow.com/resizer/640/-1/true/1607775668230.jpg--trojans.jpg",The Kennedy Cup Moville (Low Quality)
-https://seed122.bitchute.com/QUNJDoOZpK1P/g2iJsXyR2Pwe.mp4
-#EXTINF:-1 group-title="Movies Collection" tvg-logo="https://www.tipperarylive.ie/resizer/640/-1/true/imported_images/3e10e4db13fe39187df2195d17a978f9.jpg--the_butler_brothers__subject_of_rte_documentary__the_brothers___photo_from_the_book___ireland_the_parting_glass___by_photographer__richard_fitzgerald__published_by_john_hinde_ltd__dublin_.jpg",The Brothers - Paddy & Nicholas Butler
-https://hugh.cdn.rumble.cloud/video/s8/2/J/G/s/n/JGsnq.caa.mp4
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://i0.wp.com/moviesreview101.com/wp-content/uploads/2024/02/einstein.png",Einstein & The Bomb (2024)
 https://stream.fushaar.link/movie/47416/47416.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjQgNjoyNjo0NiBQTSZoYXNoX3ZhbHVlPVRNZlV2YmxNVGNYNmNKMnZSWXkxN0E9PSZ2YWxpZG1pbnV0ZXM9NDUw
 #EXTINF:-1 group-title="Movies Collection" tvg-logo="https://de.web.img3.acsta.net/c_310_420/pictures/21/11/30/10/10/4789899.jpg",Boys From County Hell (2020)
