@@ -24,7 +24,7 @@ https://zggg98sgwbg1gh.bitchute.com/QUNJDoOZpK1P/ItReCC8Oc8uK.mp4
 
 
 #EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
-#EXTINF:-1 tvg-id="Highland Radio" channelID="Highland Radio"  tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio"  tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
 https://edge.audioxi.com/HIGHLAND
 #EXTINF:-1 tvg-id="BBCRadioFoyle.uk" channelID="BBCRadioFoyle.uk" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland 🇮🇪" radio="true",BBC Radio Foyle
 http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
@@ -36,9 +36,9 @@ http://icecast.rte.ie/ieradio1
 http://icecast2.rte.ie/2fm
 #EXTINF:-1 tvg-id="RTÉ R na G" channelID="RTÉ R na G" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
 http://icecast2.rte.ie/rnag
-#EXTINF:-1 tvg-id="" channelID="" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland 🇮🇪" radio="true",Irish Folk Radio USA
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland 🇮🇪" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
-#EXTINF:-1 tvg-id="Ireland's Classic Hits" channelID="Ireland's Classic Hits" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland 🇮🇪" radio="true",Live Ireland Radio
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland 🇮🇪" radio="true",Live Ireland Radio
 http://192.111.140.11:8058/;
 #EXTINF:-1 tvg-id="Newstalk" channelID="Newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",Newstalk
 https://edge2.audioxi.com/NT
