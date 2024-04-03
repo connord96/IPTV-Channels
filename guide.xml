@@ -39,6 +39,15 @@
   <channel id="foreignPLFree">
     <display-name lang="en">foreignPLFree</display-name>
   </channel>
+  <channel id="foreignSportsFree">
+    <display-name lang="en">foreignSportsFree</display-name>
+  </channel>
+  <channel id="foreignDartsFree">
+    <display-name lang="en">foreignDartsFree</display-name>
+  </channel>
+  <channel id="foreignGolfFree">
+    <display-name lang="en">foreignGolfFree</display-name>
+  </channel>
   <programme channel="Info" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -90,5 +99,17 @@
   <programme channel="foreignPLFree" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Premier League Game Live</title>
     <desc lang="en">Premier League Game Live</desc>
+  </programme>
+  <programme channel="foreignSportsFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Selected Sports Live</title>
+    <desc lang="en">Selected Sports Live</desc>
+  </programme>
+  <programme channel="foreignPoolFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Pool & Billiards Daily</title>
+    <desc lang="en">Selected Sports Live</desc>
+  </programme>
+  <programme channel="foreignGolfFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live & repeat Golf Events</title>
+    <desc lang="en">Live & repeat Golf Events</desc>
   </programme>
 </tv>
