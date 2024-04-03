@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="",URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a2",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="",URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a3",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="",URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1320000,BANDWIDTH=1660000,AUDIO="aac",RESOLUTION=768x432,FRAME-RATE=59.940,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://stream.ayas.ir/hls2/persiana.m3u8
