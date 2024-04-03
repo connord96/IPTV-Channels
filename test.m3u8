@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" channelID="" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test1 Merger Attempt Sound + Video
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="",URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1320000,BANDWIDTH=1660000,AUDIO="aac",RESOLUTION=768x432,FRAME-RATE=59.940,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://stream.ayas.ir/hls2/persiana.m3u8
+
+#EXTINF:-1 tvg-id="" channelID="" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1280x720
+https://stream.ayas.ir/hls2/persiana.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
