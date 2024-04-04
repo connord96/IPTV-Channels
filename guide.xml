@@ -48,8 +48,14 @@
   <channel id="foreignPoolFree">
     <display-name lang="en">foreignPoolFree</display-name>
   </channel>
-  <channel id="foreignGolfFree">
-    <display-name lang="en">foreignGolfFree</display-name>
+  <channel id="freeForeignGolf">
+    <display-name lang="en">freeForeignGolf</display-name>
+  </channel>
+  <channel id="Oireachtas">
+    <display-name lang="en">Oireachtas</display-name>
+  </channel>
+  <channel id="dctv">
+    <display-name lang="en">dctv</display-name>
   </channel>
   <programme channel="Info" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Information On This Service</title>
@@ -115,8 +121,16 @@
     <title lang="en">Live Pool & Billiards Daily</title>
     <desc lang="en">Selected Sports Live</desc>
   </programme>
-  <programme channel="foreignGolfFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="freeForeignGolf" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live & repeat Golf Events</title>
     <desc lang="en">Live & repeat Golf Events</desc>
+  </programme>
+  <programme channel="Oireachtas" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Irish Affairs Inside The Dáil</title>
+    <desc lang="en">Irish Affairs Inside The Dáil</desc>
+  </programme>
+  <programme channel="dctv" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Dublin City TV</title>
+    <desc lang="en">Dublin City TV</desc>
   </programme>
 </tv>
