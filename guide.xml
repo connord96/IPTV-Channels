@@ -51,6 +51,9 @@
   <channel id="freeForeignGolf">
     <display-name lang="en">freeForeignGolf</display-name>
   </channel>
+  <channel id="flexStreams">
+    <display-name lang="en">freeForeignGolf</display-name>
+  </channel>
   <channel id="Oireachtas">
     <display-name lang="en">Oireachtas</display-name>
   </channel>
@@ -66,23 +69,23 @@
   <channel id="test">
     <display-name lang="en">test</display-name>
   </channel>
-  <programme channel="Info" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Info">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
   </programme>
-  <programme channel="LiveRadio" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="LiveRadio">
     <title lang="en">Live radio Station</title>
     <desc lang="en">Live radio Station</desc>
   </programme>
-  <programme channel="Movie" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Movie">
     <title lang="en">Movie With Title</title>
     <desc lang="en">Movie With Title - No Information Available</desc>
   </programme>
-  <programme channel="Series" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Series">
     <title lang="en">Series With Title</title>
     <desc lang="en">Series With Title - No Information Available</desc>
   </programme>
-  <programme channel="Inishowen" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Inishowen">
     <title lang="en">Inishowen League Game</title>
     <desc lang="en">Inishowen League Game - Description In Title</desc>
   </programme>
@@ -94,35 +97,35 @@
     <title lang="en">Selected Match From Around The Globe</title>
     <desc lang="en">Music Video - Description In Title</desc>
   </programme>
-  <programme channel="DadHD" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="DadHD">
     <title lang="en">Live Link From 'DadHD' Which May Glitch At Peak Times</title>
     <desc lang="en">Live Link From 'DadHD' Which May Glitch At Peak Times</desc>
   </programme>
-  <programme channel="Netify" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="Netify">
     <title lang="en">Live Link From 'Netify' Which Shows Mixes Of Cricket And Football</title>
     <desc lang="en">Live Link From 'Netify' Which Shows Mixes Of Cricket And Football</desc>
   </programme>
-  <programme channel="MrGaming" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="MrGaming">
     <title lang="en">Live Link From 'MrGaming' Which Shows Random Football</title>
     <desc lang="en">Live Link From 'MrGaming' Which Shows Random Football</desc>
   </programme>
-  <programme channel="247Programming" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="247Programming">
     <title lang="en">24/7 Programming</title>
     <desc lang="en">24/7 Programming - Description In Title</desc>
   </programme>
-  <programme channel="random" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="random">
     <title lang="en">Random Sports Stream From Abroad - Might Not Work</title>
     <desc lang="en">Random Sports Stream From Abroad - Might Not Work</desc>
   </programme>
- <programme channel="truePremier" start="20240402163000 +0100" stop="204080403171500 +0100">
+ <programme channel="truePremier">
     <title lang="en">Selected Premier League Match</title>
     <desc lang="en">Selected Premier League Match</desc>
   </programme>
-  <programme channel="foreignPLFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="foreignPLFree">
     <title lang="en">Premier League Games Live On This Channel</title>
     <desc lang="en">Premier League Games Live On This Channel</desc>
   </programme>
-  <programme channel="foreignSportsFree" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="foreignSportsFree">
     <title lang="en">Selected Sports Live</title>
     <desc lang="en">Selected Sports Live</desc>
   </programme>
@@ -142,7 +145,7 @@
     <title lang="en">Dublin City TV</title>
     <desc lang="en">Dublin City TV</desc>
   </programme>
-  <programme channel="retroFootball" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="retroFootball">
     <title lang="en">Retro Football Match - Description In Title</title>
     <desc lang="en">Retro Football Match - Description In Title</desc>
   </programme>
@@ -153,5 +156,9 @@
   <programme channel="test" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Test Channel</title>
     <desc lang="en">Test Channel</desc>
+  </programme>
+  <programme channel="flexStreams" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Selected Match From Around The Globe</title>
+    <desc lang="en">Selected Match From Around The Globe</desc>
   </programme>
 </tv>
