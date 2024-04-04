@@ -86,7 +86,7 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan (Premier League & European Games)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="K24.ng" channelID="K24.ng" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
+#EXTINF:-1 tvg-id="K24.ng" channelID="K24.ng" tvg-shift"-7" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
 https://livestream.angani.africa/livestream/k24/master.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Premier League & Snooker)
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -251,7 +251,7 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" channelID="SkySportsMainEvent.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 1
 https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
+#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" tvg-shift"-7" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
 https://catowrap.live/mrgamingpremier.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" channelID="SkySportsGolf.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -371,19 +371,19 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium451/playlist.m3u8
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium343/playlist.m3u8
-#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 7 (Dad HDTV)
+#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" tvg-shift"-7" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 7 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy1/premium595/playlist.m3u8
-#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 8 (Dad HDTV)
+#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" tvg-shift"-7" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 8 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddy3/premium414/playlist.m3u8
-#EXTINF:-1 tvg-id="SS.Variety.3.Nigeria.ng" channelID="SS.Variety.3.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Dad HDTV)
+#EXTINF:-1 tvg-id="SS.Variety.3.Nigeria.ng" channelID="SS.Variety.3.Nigeria.ng" tvg-shift"-7" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
