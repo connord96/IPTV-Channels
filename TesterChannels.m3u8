@@ -178,8 +178,10 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://dartswdf.com/images/opengraph.png" group-title="Sports",World Darts Federation
 https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
 https://lnc-fubo.tubi.video/master.m3u8
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"  tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2019/04/01/dad0b33e-13cb-4470-8c12-4c1fc69a0106/thumbnail/1920x1080/519a2529d208fabc2ffafe9a8dd5c2aa/logo-sports-alt-1920x1080.jpg" group-title="Sports",CBS Sports HQ
+https://r.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="realmadrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" group-title="Sports",Real Madrid TV
