@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/kenya.xml" x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/kenya.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
 #EXTINF: **********This section is for the Information section explaining usage**********
 #EXTINF:-1 tvg-id="Info" channelID="Info"  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
@@ -15,7 +15,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
 http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
 #EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland 🇮🇪" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
-#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
+#EXTINF:-1 tvg-id="RTÉ.2FM.uk" channelID="RTÉ.2FM.uk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
 #EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
 http://icecast2.rte.ie/rnag
