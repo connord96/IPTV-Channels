@@ -57,6 +57,15 @@
   <channel id="dctv">
     <display-name lang="en">dctv</display-name>
   </channel>
+  <channel id="retroFootball">
+    <display-name lang="en">retroFootball</display-name>
+  </channel>
+  <channel id="additionalSports">
+    <display-name lang="en">additionalSports</display-name>
+  </channel>
+  <channel id="test">
+    <display-name lang="en">test</display-name>
+  </channel>
   <programme channel="Info" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -132,5 +141,17 @@
   <programme channel="dctv" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Dublin City TV</title>
     <desc lang="en">Dublin City TV</desc>
+  </programme>
+  <programme channel="retroFootball" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Retro Football Match - Description In Title</title>
+    <desc lang="en">Retro Football Match - Description In Title</desc>
+  </programme>
+  <programme channel="additionalSports" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Selected Sports From Across The Globe</title>
+    <desc lang="en">Selected Sports From Across The Globe</desc>
+  </programme>
+  <programme channel="test" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Test Channel</title>
+    <desc lang="en">Test Channel</desc>
   </programme>
 </tv>
