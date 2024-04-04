@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml" x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/kenya.xml" x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/kenya.xml"
 
 #EXTINF: **********This section is for the Information section explaining usage**********
 #EXTINF:-1 tvg-id="Info" channelID="Info"  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
@@ -13,17 +13,17 @@ https://edge.audioxi.com/HIGHLAND
 http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
 #EXTINF:-1 tvg-id="BBCRUlster.uk" channelID="BBCRUlster.uk" tvg-logo="https://cdn-profiles.tunein.com/s24946/images/logog.jpg" group-title="Ireland 🇮🇪" radio="true",BBC Radio Ulster
 http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
-#EXTINF:-1 tvg-id="RTÉ Radio 1" channelID="RTÉ Radio 1" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland 🇮🇪" radio="true",RTÉ 1 Radio
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://ie.radio.net/images/broadcasts/cf/3b/13938/1/c300.png" group-title="Ireland 🇮🇪" radio="true",RTÉ 1 Radio
 http://icecast.rte.ie/ieradio1
-#EXTINF:-1 tvg-id="RTÉ 2FM" channelID="RTÉ 2FM" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/rte-2fm/play_250_250.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ 2 Radio
 http://icecast2.rte.ie/2fm
-#EXTINF:-1 tvg-id="RTÉ R na G" channelID="RTÉ R na G" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/raidio-na-gaeltachta/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",RTÉ Raidio na Gaeltachta
 http://icecast2.rte.ie/rnag
 #EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://manager.uber.radio/static/uploads/station/abf291ba-35ce-47ee-b9d5-317013044f4b.png" group-title="Ireland 🇮🇪" radio="true",Irish Folk Radio USA
 https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 #EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://ie.radio.net/images/broadcasts/0c/be/3968/1/c300.png" group-title="Ireland 🇮🇪" radio="true",Live Ireland Radio
 http://192.111.140.11:8058/;
-#EXTINF:-1 tvg-id="Newstalk" channelID="Newstalk" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",Newstalk
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio" tvg-logo="https://irishradiolive.com/public/uploads/radio_img/newstalk/fb_cover.jpg" group-title="Ireland 🇮🇪" radio="true",Newstalk
 https://edge2.audioxi.com/NT
 #EXTINF:-1 tvg-id="TalkSport.uk" channelID="TalkSport.uk" tvg-logo="https://www.news.co.uk/app/uploads/2022/11/image-1-1.png" group-title="Sports" radio="true",Talksport Radio 1
 http://radio.talksport.com/stream
@@ -43,13 +43,13 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
-#EXTINF:0 tvg-id="TG4 HD" channelID="TG4 HD" tvg-country="IE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
+#EXTINF:0 tvg-id="TG4.ie" channelID="TG4.ie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:0 tvg-id="Oireachtas TV" channelID="Oireachtas TV" tvg-country="IE"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
+#EXTINF:0 tvg-id="Oireachtas" channelID="Oireachtas"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 tvg-id="AyozatTV.uk" channelID="AyozatTV.uk" tvg-country="IE"  tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland 🇮🇪",Azoyat (Irish TV: Thursday @10pm Only)
+#EXTINF:0 tvg-id="AyozatTV.uk" channelID="AyozatTV.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland 🇮🇪",Azoyat (Irish TV: Thursday @10pm Only)
 https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
-#EXTINF:0 tvg-country="IE" tvg-id="dctv" channelID="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland 🇮🇪",Dublin City TV (Intermittent Feed)
+#EXTINF:0 tvg-id="dctv" channelID="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland 🇮🇪",Dublin City TV (Intermittent Feed)
 https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 
 
@@ -86,7 +86,7 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan (Premier League & European Games)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-name="k24" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
+#EXTINF:-1 tvg-id="K24.ke" channelID="K24.ke" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
 https://livestream.angani.africa/livestream/k24/master.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Premier League & Snooker)
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -144,23 +144,23 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5 (European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
-#EXTINF:-1tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://image.roku.com/developer_channels/prod/dcc5a8374fcd114aff2db3dda4c6ad51f8a2c24ce0d929ed6f5b69156bb0cfad.png" group-title="Sports",Golf Pass
+#EXTINF:-1tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://image.roku.com/developer_channels/prod/dcc5a8374fcd114aff2db3dda4c6ad51f8a2c24ce0d929ed6f5b69156bb0cfad.png" group-title="Sports",Golf Pass
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CCTV-logo.jpg" group-title="Sports",CCTV Golf
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CCTV-logo.jpg" group-title="Sports",CCTV Golf
 https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://www.stranogolf.com/wp-content/uploads/2019/08/61sx48bIkHL.png" group-title="Sports",Golf Kingdom TV
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.stranogolf.com/wp-content/uploads/2019/08/61sx48bIkHL.png" group-title="Sports",Golf Kingdom TV
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",One Golf
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2022/03/GOLF_PGAT_FLAT.jpg" group-title="Sports",NBC Golf
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2022/03/GOLF_PGAT_FLAT.jpg" group-title="Sports",NBC Golf
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://www.golfnetwork.plus/img/sp_header_icon_u.png" group-title="Sports",Golf Network Japan
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.golfnetwork.plus/img/sp_header_icon_u.png" group-title="Sports",Golf Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 tvg-id="foreignGolfFree" channelID="foreignGolfFree" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="foreignPoolFree" channelID="foreignPoolFree" tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
@@ -251,7 +251,7 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" channelID="SkySportsMainEvent.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 1
 https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" channelID="SkySportsPremierLeague.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
+#EXTINF:-1 tvg-id="SS English Premier League.ke" channelID="SS English Premier League.ke" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
 https://catowrap.live/mrgamingpremier.m3u8
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" channelID="SkySportsGolf.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -465,7 +465,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" channelID="Now80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Entertainment",Now 80's Music
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="qello-concerts-by-stingray" channelID="qello-concerts-by-stingray" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Entertainment",Qello Music Concerts
+#EXTINF:-1 tvg-id="Music" channelID="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Entertainment",Qello Music Concerts
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" channelID="Now70s.uk tvg-logo="https://www.horizonsmusic.co.uk/cdn/shop/files/unnamed_8_580x.png" group-title="Entertainment",Flashback 70's Music
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
@@ -544,9 +544,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEuropeHD.us" channelID="CNNInternationalEuropeHD.us" tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" tvg-id="CNNInternational.uk" tvg-logo="https://i0.wp.com/afrosportnow.com/wp-content/uploads/2022/06/Afrosport.png" group-title="News",Afro Sports Now
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://i0.wp.com/afrosportnow.com/wp-content/uploads/2022/06/Afrosport.png" group-title="News",Afro Sports Now
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-#EXTINF:-1 tvg-id="Fox News Channel (East)" channelID="Fox News Channel (East)" tvg-id="foxnews.us" tvg-logo="https://mytakesurvery.b-cdn.net/wp-content/uploads/2022/05/foxnews.com-connect.png" group-title="News",Fox News Channel
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" channelID="FoxNewsChannel.us" tvg-id="foxnews.us" tvg-logo="https://mytakesurvery.b-cdn.net/wp-content/uploads/2022/05/foxnews.com-connect.png" group-title="News",Fox News Channel
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" channelID="EuronewsEnglish.fr" tvg-id="euronews.uk" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="News",Euronews
 https://rakuten-euronews-1-ie.samsung.wurl.tv/playlist.m3u8
@@ -863,45 +863,45 @@ https://archive.org/download/3-7.-the-agreement/3-7.%20The%20agreement.mp4
 
 
 #EXTINF: Retro Football ⚽ Matches
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",The Official History Of Manchester United (1988)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",The Official History Of Manchester United (1988)
 https://archive.org/download/TheOfficialHistoryOfManchesterUnitedUKVHS1988Video/The%20Offical%20History%20of%20Manchester%20United%20FC%20UK%20VHS%201988.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Burnley Vs Manchester United (1901/1902)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Burnley Vs Manchester United (1901/1902)
 https://archive.org/download/silent-burnley-v-manchester-united/Burnley%20v%20Manchester%20United.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Aston Villa (1992/1993)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Aston Villa (1992/1993)
 https://archive.org/download/ManUvVilla140393/615%20-%207-00.00.03.108-01.54.27.735.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Bayern Munich (1998/1999)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Bayern Munich (1998/1999)
 https://archive.org/download/baymun1999final_uefatv-eng/baymun1999final_uefatv-eng.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Newcastle United Vs Manchester City (1945/1955)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Newcastle United Vs Manchester City (1945/1955)
 https://archive.org/download/newcastle-united-vs-manchester-city-final-fa-cup-1954-1955-partido-copletofull-match/1955%20FA%20Cup%20Final%20Newcastle%20Utd%20v.Manchester%20City.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Barcelona (2007/2008)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Barcelona (2007/2008)
 https://archive.org/download/ucl-man-utd-vs-barcelona-2007-2008/UCL%20%E2%80%94%20Man%20Utd%20%5Bvs%5D%20Barcelona%202007-2008.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Arsenal (2008/2009)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Arsenal (2008/2009)
 https://archive.org/download/ucl-man-utd-vs-arsenal-2008-2009/UCL%20%E2%80%94%20Man%20Utd%20%5Bvs%5D%20Arsenal%202008-2009.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Greavsie's: 6 Of Arsenals Best Games From The 70's
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Greavsie's: 6 Of Arsenals Best Games From The 70's
 https://archive.org/download/arsenal-greavsies-six-of-the-best-matches-from-the-70s/Arsenal%20-%20Greavsie%27s%20Six%20of%20the%20Best%20Matches%20from%20the%2070s.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",The Celtic Story
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",The Celtic Story
 https://archive.org/download/CelticStory/Celtic%20story.ogv
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic Vs Inter Milan (1967)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic Vs Inter Milan (1967)
 https://archive.org/download/EuropeanCupFinal1967/European%20Cup%20Final%201967.ogv
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic: The Lisbon Lions
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic: The Lisbon Lions
 https://archive.org/download/glasgow.-1967.-the.-lisbon.-lions/Glasgow.1967.The.Lisbon.Lions.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Barcelona (1993/1994)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Barcelona (1993/1994)
 https://archive.org/download/ManchesterUnited22FCBarcelona1994FullMatchOnGranada/Manchester%20United%202%20-%202%20FC%20Barcelona%20-%201994%20-%20Full%20Match%20on%20Granada.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Juventus Vs Manchester United (1998/1999)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Juventus Vs Manchester United (1998/1999)
 https://archive.org/download/juvmun1999_vid_01927728_24122023/juvmun1999.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Real Madrid (1999/2000)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Real Madrid (1999/2000)
 https://archive.org/download/man.-utd-v-r.-madrid-19-4-2000/Man.Utd%20v%20R.Madrid%2019_4_2000.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Newcastle United (2007/2008)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Manchester United Vs Newcastle United (2007/2008)
 https://archive.org/download/manchester-united-vs-newcastle-united-jornada-22-premier-league-2007-2008-partid/Manchester%20United%20vs%20Newcastle%20United%20Premier%20League%202007-2008%20Full%20Match.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Chelsea Vs Manchester United (2006/2007)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Chelsea Vs Manchester United (2006/2007)
 https://archive.org/download/chelsea-vs-manchester-united-final-fa-cup-2006-07-partido-completofull-match/FULL%20MATCH%20%20%20Two%20Giants%20Clash%20At%20The%20New%20Wembley%20Stadium%20%20%20Chelsea%20v%20Man%20United%20%20%20FA%20Cup%20Final%2006-07.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic Vs Rangers (2023/2024)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Celtic Vs Rangers (2023/2024)
 https://archive.org/download/cel-ran.-2160p./CEL-RAN.2160p.-.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Liverpool Vs Manchester United (1995/1996)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Liverpool Vs Manchester United (1995/1996)
 https://archive.org/download/liverpool-vs-newcastle-united-jornada-33-premier-league-1995-1996-partido-comple/1996%20Premier%20League%20--%20Liverpool%20vs%20Newcastle%20United.ia.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Blackpool Vs Bolton Wanderers (1952/1953)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",Blackpool Vs Bolton Wanderers (1952/1953)
 https://archive.org/download/blackpool-vs-bolton-wanderers-final-fa-cup-1952-1953-matthews-final-partido-completofull-match/FA%20Cup%201953.mp4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",West Bromwich Albion Vs Preston North End (1953/1954)
+#EXTINF:-1 tvg-id="retroFootball" channelID="retroFootball" group-title="Retro Football ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",West Bromwich Albion Vs Preston North End (1953/1954)
 https://archive.org/download/west-bromwich-albion-vs-preston-north-end-final-fa-cup-1954-partido-completofull-match/FA%20Cup%201954.mp4
 
 
@@ -935,57 +935,57 @@ https://player.odycdn.com/v6/streams/bf9a9016825848cb15f328c9fd84b58db503d6b6/11
 
 
 #EXTINF: **********This section is for random iptv channels found on web - requires maintenance**********
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 1 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 1 (Probably Won't work - If not use Sportsfire App)
 http://537196734355228384.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228384.ts #f
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 2 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 2 (Probably Won't work - If not use Sportsfire App)
 http://537196734355228389.ofe0229.xyz:80/play/ja921644/BbjDaKQs8yv/228389.ts #f
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 3 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 3 (Probably Won't work - If not use Sportsfire App)
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8 #setanta1f
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 4 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 4 (Probably Won't work - If not use Sportsfire App)
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8 #s2 #f
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 5 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 5 (Probably Won't work - If not use Sportsfire App)
 http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 6 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 6 (Probably Won't work - If not use Sportsfire App)
 http://ru02.spr24.net/20881/mpegts?token=45UYwCTbAVBazU
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 7 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 7 (Probably Won't work - If not use Sportsfire App)
 http://cdntv.online/low/9mlxywika2/1022.mpeg
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 8 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 8 (Probably Won't work - If not use Sportsfire App)
 http://cdntv.online/low/9mlxywika2/1022.mpeg
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 9 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 9 (Probably Won't work - If not use Sportsfire App)
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 10 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 10 (Probably Won't work - If not use Sportsfire App)
 http://190.61.43.117:45000/play/a01l
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 11 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 11 (Probably Won't work - If not use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8 #f
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 12 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 12 (Probably Won't work - If not use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 13 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 13 (Probably Won't work - If not use Sportsfire App)
 http://nl01.spr24.net/20882/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 14 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 14 (Probably Won't work - If not use Sportsfire App)
 http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 15 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 15 (Probably Won't work - If not use Sportsfire App)
 https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 16 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 16 (Probably Won't work - If not use Sportsfire App)
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 17 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 17 (Probably Won't work - If not use Sportsfire App)
 http://ru.iptv.monster/play/7337/58A6BB07681962A/video.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 18 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 18 (Probably Won't work - If not use Sportsfire App)
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 19 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 19 (Probably Won't work - If not use Sportsfire App)
 http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 20 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 20 (Probably Won't work - If not use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 21 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 21 (Probably Won't work - If not use Sportsfire App)
 http://f7f9dc81.russtv.net/iptv/MZ62RWCWHT94XU/19158/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 22 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 22 (Probably Won't work - If not use Sportsfire App)
 https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 23 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 23 (Probably Won't work - If not use Sportsfire App)
 http://78.26.128.59:9876/play/161/index.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 24 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 24 (Probably Won't work - If not use Sportsfire App)
 https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 25 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 25 (Probably Won't work - If not use Sportsfire App)
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" channelID="" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 26 (Probably Won't work - If not use Sportsfire App)
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 26 (Probably Won't work - If not use Sportsfire App)
 https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
 
 
@@ -993,9 +993,9 @@ https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist
 
 
 
-#EXTINF:-1 tvg-id="" channelID="" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test1
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test1
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
-#EXTINF:-1 tvg-id="" channelID="" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
 #EXTVLCOPT:audio-track-id=http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXT-X-TARGETDURATION:190
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="merge",DEFAULT=YES,AUTOSELECT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
