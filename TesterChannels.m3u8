@@ -86,7 +86,7 @@ https://stream.ayas.ir/hls2/persiana.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Sports",Football HD Tajikistan (Premier League & European Games)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="K24.ke" channelID="K24.ke" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" tvg-id="k24" group-title="Sports",K24 (Premier League & European Games)
 https://livestream.angani.africa/livestream/k24/master.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Premier League & Snooker)
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -186,7 +186,7 @@ https://r.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="realmadrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" channelID="beINSPORTSXTRA.us"  tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"  tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
@@ -455,7 +455,7 @@ https://hls.streambtw.com/live/stream_moto.m3u8
 
 
 #EXTINF: **********This section is for entertainment channels**********
-#EXTINF:-1 tvg-id="bloomberg-originals" channelID="" tvg-id="bloomberg-originals" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
+#EXTINF:-1 tvg-id="247Programming" channelID="247Programming" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
 https://bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyMixHD.uk" channelID="SkyMixHD.uk" tvg-logo="https://media.info/l/f/1/1399.1697630999.png" group-title="Entertainment",Sky Mix
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
