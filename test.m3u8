@@ -1,8 +1,13 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=1758000,RESOLUTION=1280x720,AUDIO="audio-1"
-https://stream.ayas.ir/hls2/persiana.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=896000,RESOLUTION=640x480,AUDIO="audio-1"
-https://stream.ayas.ir/hls2/persiana.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio2",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="http://radio.talksport.com/stream"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio3",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="http://radio.talksport.com/stream2"
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=2302400,AVERAGE-BANDWIDTH=2101000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+sc-gaFECQ/v0_index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3320400,AVERAGE-BANDWIDTH=3081000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+sc-gaFECQ/v1_index.m3u8
