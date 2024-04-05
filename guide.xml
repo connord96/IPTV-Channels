@@ -6,18 +6,6 @@
   <channel id="LiveRadio">
     <display-name lang="en">LiveRadio</display-name>
   </channel>
-  <channel id="Movie">
-    <display-name lang="en">Movie</display-name>
-  </channel>
-  <channel id="Series">
-    <display-name lang="en">Series</display-name>
-  </channel>
-  <channel id="Inishowen">
-    <display-name lang="en">Inishowen</display-name>
-  </channel>
-  <channel id="Music">
-    <display-name lang="en">Music</display-name>
-  </channel>
   <channel id="PremierLeague">
     <display-name lang="en">PremierLeague</display-name>
   </channel>
@@ -36,9 +24,6 @@
   <channel id="random">
     <display-name lang="en">random</display-name>
   </channel>
-  <channel id="truePremier">
-    <display-name lang="en">truePremier</display-name>
-  </channel>
   <channel id="foreignPLFree">
     <display-name lang="en">foreignPLFree</display-name>
   </channel>
@@ -51,23 +36,17 @@
   <channel id="freeForeignGolf">
     <display-name lang="en">freeForeignGolf</display-name>
   </channel>
-  <channel id="flexStreams">
-    <display-name lang="en">freeForeignGolf</display-name>
-  </channel>
-  <channel id="Oireachtas">
-    <display-name lang="en">Oireachtas</display-name>
-  </channel>
   <channel id="dctv">
     <display-name lang="en">dctv</display-name>
-  </channel>
-  <channel id="retroFootball">
-    <display-name lang="en">retroFootball</display-name>
   </channel>
   <channel id="additionalSports">
     <display-name lang="en">additionalSports</display-name>
   </channel>
   <channel id="test">
     <display-name lang="en">test</display-name>
+  </channel>
+  <channel id="unitedStand">
+    <display-name lang="en">unitedStand</display-name>
   </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
@@ -76,22 +55,6 @@
   <programme channel="LiveRadio" start="20200101000000" stop="99991231235900">
     <title lang="en">Live radio Station</title>
     <desc lang="en">Live radio Station</desc>
-  </programme>
-  <programme channel="MovieREDUNDANT" start="20200101000000" stop="99991231235900">
-    <title lang="en">Movie With Title</title>
-    <desc lang="en">Movie With Title - No Information Available</desc>
-  </programme>
-  <programme channel="SeriesREDUNDANT" start="20200101000000" stop="99991231235900">
-    <title lang="en">Series With Title</title>
-    <desc lang="en">Series With Title - No Information Available</desc>
-  </programme>
-  <programme channel="InishowenREDUNDANT" start="20200101000000" stop="99991231235900">
-    <title lang="en">Inishowen League Game</title>
-    <desc lang="en">Inishowen League Game - Description In Title</desc>
-  </programme>
-  <programme channel="MusicREDUNDANT" start="20200101000000" stop="99991231235900">
-    <title lang="en">Music Video With Title</title>
-    <desc lang="en">Music Video - Description In Title</desc>
   </programme>
   <programme channel="PremierLeague" start="20200101000000" stop="99991231235900">
     <title lang="en">Selected Match From Around The Globe</title>
@@ -117,10 +80,6 @@
     <title lang="en">Random Sports Stream From Abroad - Might Not Work</title>
     <desc lang="en">Random Sports Stream From Abroad - Might Not Work</desc>
   </programme>
- <programme channel="truePremier" start="20200101000000" stop="99991231235900">
-    <title lang="en">Selected Premier League Match</title>
-    <desc lang="en">Selected Premier League Match</desc>
-  </programme>
   <programme channel="foreignPLFree" start="20200101000000" stop="99991231235900">
     <title lang="en">Premier League Games Live On This Channel</title>
     <desc lang="en">Premier League Games Live On This Channel</desc>
@@ -137,17 +96,9 @@
     <title lang="en">Live And repeat Golf Events</title>
     <desc lang="en">Live And repeat Golf Events</desc>
   </programme>
-  <programme channel="Oireachtas" start="20240402163000 +0100" stop="204080403171500 +0100">
-    <title lang="en">Irish Affairs Inside The Dáil</title>
-    <desc lang="en">Irish Affairs Inside The Dáil</desc>
-  </programme>
   <programme channel="dctv" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Dublin City TV</title>
     <desc lang="en">Dublin City TV</desc>
-  </programme>
-  <programme channel="retroFootballREDUNDANT" start="20200101000000" stop="99991231235900">
-    <title lang="en">Retro Football Match - Description In Title</title>
-    <desc lang="en">Retro Football Match - Description In Title</desc>
   </programme>
   <programme channel="additionalSports" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Selected Sports From Across The Globe</title>
@@ -157,8 +108,8 @@
     <title lang="en">Test Channel</title>
     <desc lang="en">Test Channel</desc>
   </programme>
-  <programme channel="flexStreams" start="20240402163000 +0100" stop="204080403171500 +0100">
-    <title lang="en">Selected Match From Around The Globe</title>
-    <desc lang="en">Selected Match From Around The Globe</desc>
+  <programme channel="unitedStand" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live During United Matches And Intermittently</title>
+    <desc lang="en">Live During United Matches And Intermittently</desc>
   </programme>
 </tv>
