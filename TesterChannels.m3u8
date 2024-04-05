@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz"
 
 #EXTINF: **********This section is for the Information section explaining usage**********
 #EXTINF:-1 tvg-id="Info" channelID="Info"  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
@@ -47,7 +47,7 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-id="Oireachtas.TV.ie" channelID="Oireachtas.TV.ie"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:0 tvg-id="AyozatTV.uk" channelID="AyozatTV.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland 🇮🇪",Azoyat (Irish TV: Thursday @10pm Only)
+#EXTINF:0 tvg-id="Ayozat.TV.uk" channelID="Ayozat.TV.uk" tvg-logo="https://tv-guide-listings.co.uk/statics/logosNew/ayozat-tv.png" group-title="Ireland 🇮🇪",Azoyat (Irish TV: Thursday @10pm Only)
 https://cdn.rtmp1.vodhosting.com/hls/AyozatTV.m3u8
 #EXTINF:0 tvg-id="dctv" channelID="dctv" tvg-logo="https://comeheretome.files.wordpress.com/2013/11/1391459_4871043993581_1245836557_n.jpg" group-title="Ireland 🇮🇪",Dublin City TV (Intermittent Feed)
 https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
@@ -56,18 +56,18 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 
 
 #EXTINF: **********This section is for English Language Premium Channels**********
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1 (Reliable)
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #pl
-#EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
-https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 3
 https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 4
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 5
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 6
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 4
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 5
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1888&extension=ts #mainevent
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 6
+https://edge1.laotv.la/live/TSport1/index.m3u8
 
 
 
@@ -90,7 +90,7 @@ https://live.teleradiocom.tj/8/3m.m3u8
 https://livestream.angani.africa/livestream/k24/master.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://images.procreate.art/images/pokertvorg/bfd618bc0a8ec6ab6.jpg" tvg-id="pokertv" group-title="Sports",Poker TV Sport (Premier League & Snooker)
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Pluto Sports (Premier League)
+#EXTINF:-1 tvg-id="Paramount+.Picks.us" channelID="Paramount+.Picks.us" tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/09/paramount-plus.jpg" tvg-id="paramountplus" group-title="Sports",Paramount+ Sports (Premier League)
 https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://uzon.tv/uploads/posts/2021-03/turkmen-sport.jpg" tvg-id="turkmensport" group-title="Sports",Turkmenistan Sport (Premier League & European Games)
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
@@ -144,7 +144,7 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5 (European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
+#EXTINF:-1 tvg-id="PGA.TOUR.us" channelID="PGA.TOUR.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
@@ -156,21 +156,21 @@ https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="Sports",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2022/03/GOLF_PGAT_FLAT.jpg" group-title="Sports",NBC Golf
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" channelID="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2022/03/GOLF_PGAT_FLAT.jpg" group-title="Sports",NBC Golf
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.golfnetwork.plus/img/sp_header_icon_u.png" group-title="Sports",Golf Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
-#EXTINF:-1 tvg-id="foreignPoolFree" channelID="foreignPoolFree" tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
+#EXTINF:-1 tvg-id="BilliardTV.us" channelID="BilliardTV.us" tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="foreignPoolFree" channelID="foreignPoolFree" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard TV 2
+#EXTINF:-1 tvg-id="BilliardTV.us" channelID="BilliardTV.us" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard TV 2
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignPoolFree" channelID="foreignPoolFree" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/07/kozoom.png" group-title="Sports",Kozoom TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8?channel_name=Kozoom&p=sportstribal&content_title=Kozoom&channel_partner=Kozoom&content_genre=Billiard%2CPool%2CSnooker&t=2024-01-25T17%3A42%3A13.000&content_id=bf580ae8_20240125174213_D0CF72b&ip=83.137.6.162&ic=IAB532-483&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36
-#EXTINF:-1 tvg-id="foreignPoolFree" channelID="foreignPoolFree" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
+#EXTINF:-1 tvg-id="FTFSports.us" channelID="FTFSports.us" tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Sports",FTF Sports
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8 
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png" group-title="Sports",SportStak
+#EXTINF:-1 tvg-id="Pluto.TV.Sports.us" channelID="Pluto.TV.Sports.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png" group-title="Sports",SportStak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="FanDuel TV" channelID="FanDuel TV" tvg-logo="https://cdn.mos.cms.futurecdn.net/hhmNYFRUUgAENQUKfi3LjY.jpg" group-title="Sports",Fanduel (Premier League Darts)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_4.m3u8
@@ -178,19 +178,19 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://dartswdf.com/images/opengraph.png" group-title="Sports",World Darts Federation
 https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" channelID="FuboSportsNetwork.us"" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports News
 https://lnc-fubo.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"  tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2019/04/01/dad0b33e-13cb-4470-8c12-4c1fc69a0106/thumbnail/1920x1080/519a2529d208fabc2ffafe9a8dd5c2aa/logo-sports-alt-1920x1080.jpg" group-title="Sports",CBS Sports HQ
+#EXTINF:-1 tvg-id="CBS.Sports.HQ.us" channelID="CBS.Sports.HQ.us"  tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2019/04/01/dad0b33e-13cb-4470-8c12-4c1fc69a0106/thumbnail/1920x1080/519a2529d208fabc2ffafe9a8dd5c2aa/logo-sports-alt-1920x1080.jpg" group-title="Sports",CBS Sports HQ
 https://r.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="fifa" tvg-logo="https://pbs.twimg.com/profile_images/1669918069/Logo_FIFA_TV_transparent_400x400.png" group-title="Sports",FIFA+ TV
 https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="realmadrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree"  tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
+#EXTINF:-1 tvg-id="beIN.SPORTS.XTRA.us" channelID="beIN.SPORTS.XTRA.us"  tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
+#EXTINF:-1 tvg-id="ACLCornholeTV.us" channelID="ACLCornholeTV.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2020/12/60-603575_american-cornhole-league-american-cornhole-league-logo-clipart.png" group-title="Sports",ACL Cornhole
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://dazngroup.com/wp-content/uploads/2023/08/DAZN-INT.FOOTBALL_pluto-s-1.png" tvg-id="dazn" group-title="Sports",Dazn Int Football
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
@@ -202,9 +202,9 @@ https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATBD26000124P.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-id="sportdigital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="Sports",Sport Digital Fussball
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500433A.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" group-title="Sports" tvg-id="worldpokertour" tvg-logo="https://pokerindustrypro.com/site_media/media/uploads/news/wpt-2022-new-logo.jpg",World Poker Tour
+#EXTINF:-1 tvg-id="TheWorldPokerTour.us" channelID="TheWorldPokerTour.us" group-title="Sports" tvg-id="worldpokertour" tvg-logo="https://pokerindustrypro.com/site_media/media/uploads/news/wpt-2022-new-logo.jpg",World Poker Tour
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
+#EXTINF:-1 tvg-id="PokerGO.us" channelID="PokerGO.us" group-title="Sports" tvg-id="pokergo" tvg-logo="https://mma.prnewswire.com/media/2082530/GalaGames_PokerGO_Play.jpg?p=twitter",Poker Go!
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633
 
 
@@ -455,17 +455,17 @@ https://hls.streambtw.com/live/stream_moto.m3u8
 
 
 #EXTINF: **********This section is for entertainment channels**********
-#EXTINF:-1 tvg-id="247Programming" channelID="247Programming" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
+#EXTINF:-1 tvg-id="BloombergOriginals.us" channelID="BloombergOriginals.us" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSG21o7LHczs/v0/955x500.png" group-title="Entertainment",Bloomberg Originals
 https://bloomberg-quicktake-4-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyMixHD.uk" channelID="SkyMixHD.uk" tvg-logo="https://media.info/l/f/1/1399.1697630999.png" group-title="Entertainment",Sky Mix
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
-#EXTINF:-1 tvg-id="Now70s.uk" channelID="Now70s.uk" tvg-logo="https://images.a2im.org/wp-content/uploads/2023/04/26130509/Vevo-logo-Molly-Boekenheide.png" group-title="Entertainment",Vevo Music 70's & 80's
+#EXTINF:-1 tvg-id="Vevo.&apos;70s.us" channelID="Vevo.&apos;70s.us" tvg-logo="https://images.a2im.org/wp-content/uploads/2023/04/26130509/Vevo-logo-Molly-Boekenheide.png" group-title="Entertainment",Vevo Music 70's & 80's
 https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" channelID="Now70s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png" group-title="Entertainment",Now 70's Music
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" channelID="Now80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Entertainment",Now 80's Music
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Music" channelID="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Entertainment",Qello Music Concerts
+#EXTINF:-1 tvg-id="QelloConcerts.us" channelID="QelloConcerts.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Entertainment",Qello Music Concerts
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" channelID="Now70s.uk tvg-logo="https://www.horizonsmusic.co.uk/cdn/shop/files/unnamed_8_580x.png" group-title="Entertainment",Flashback 70's Music
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
@@ -479,13 +479,13 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,U
 https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
 #EXTINF:-1 tvg-id="CaughtinProvidence.us" channelID="CaughtinProvidence.us" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-9395854336.jpg" group-title="Entertainment",Caught In Providence
 https://lnc-caught-in-providence.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="Crime360.us" channelID="Crime360.us" tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png" group-title="Entertainment",Pluto Crime TV
+#EXTINF:-1 tvg-id="Pluto.TV.True.Crime.us" channelID="Pluto.TV.True.Crime.us" tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png" group-title="Entertainment",Pluto Crime TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="TheBobRossChannel.us" channelID="TheBobRossChannel.us" tvg-logo="https://variety.com/wp-content/uploads/2020/04/bob-ross-the-joy-of-painting.png" group-title="Entertainment",Paint With Bob Ross
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseBritishTV.us" channelID="FilmRiseBritishTV.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/PlutoTV_Logo_White-Black_1200x670-1.png" group-title="Entertainment",Pluto British TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
-#EXTINF:-1 tvg-id="ComedyDynamics.us" channelID="ComedyDynamics.us"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entertainment",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.Pluto.TV.us" channelID="Comedy.Central.Pluto.TV.us"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entertainment",Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 #EXTINF:-1 tvg-id="ParanormalFiles.us" channelID="ParanormalFiles.us" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/5d6aae87e54b1ea9e05fe232/60d8dd9bf09a516618ba04f4_Haunt_Header.jpg",Haunt TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8
@@ -517,9 +517,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_atlantis7.flv
 https://demo.streamplanet.tv/hls/seinfeld/src/index.m3u8
 #EXTINF:-1 tvg-id="247Programming" channelID="247Programming" group-title="Entertainment" tvg-logo="https://media.cdn.adultswim.com/uploads/20230927/239271334177-rick-and-morty-season-7-metaThumb_420x236.png",Rick & Morty 24/7 (May Not Work)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-#EXTINF:-1 tvg-id="247Programming" channelID="247Programming" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png",Pluto Sitcoms TV
+#EXTINF:-1 tvg-id="More.TV.Sitcoms.us" channelID="More.TV.Sitcoms.us" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png",Pluto Sitcoms TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="CopsenEspanol.us" channelID="CopsenEspanol.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmODRmYTMtNjZkMS00ZjdkLThlZjgtMjM1NzEzZTgxM2JmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg" group-title="Entertainment",Cops TV
+#EXTINF:-1 tvg-id="COPS.us" channelID="COPS.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmODRmYTMtNjZkMS00ZjdkLThlZjgtMjM1NzEzZTgxM2JmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg" group-title="Entertainment",Cops TV
 https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" channelID="FailArmy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment",Fail Army TV
 https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
@@ -538,9 +538,9 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 #EXTINF: **********This section is for news channels**********
 #EXTINF:-1 tvg-id="TalkTV.uk" channelID="TalkTV.uk" tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="News",Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" channelID="GBNews.uk" tvg-id="gbnews" tvg-logo="https://assets.rbl.ms/32415081/origin.jpg" group-title="News",GB News
+#EXTINF:-1 tvg-id="GBNews.uk" channelID="GBNews.uk" tvg-id="GBNews.uk" tvg-logo="https://assets.rbl.ms/32415081/origin.jpg" group-title="News",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" channelID="SkyNews.uk" tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png" group-title="News",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" channelID="SkyNews.uk" tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png" group-title="News",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEuropeHD.us" channelID="CNNInternationalEuropeHD.us" tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN News Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
