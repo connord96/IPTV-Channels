@@ -77,19 +77,19 @@
     <title lang="en">Live radio Station</title>
     <desc lang="en">Live radio Station</desc>
   </programme>
-  <programme channel="Movie" start="20200101000000" stop="99991231235900">
+  <programme channel="MovieREDUNDANT" start="20200101000000" stop="99991231235900">
     <title lang="en">Movie With Title</title>
     <desc lang="en">Movie With Title - No Information Available</desc>
   </programme>
-  <programme channel="Series" start="20200101000000" stop="99991231235900">
+  <programme channel="SeriesREDUNDANT" start="20200101000000" stop="99991231235900">
     <title lang="en">Series With Title</title>
     <desc lang="en">Series With Title - No Information Available</desc>
   </programme>
-  <programme channel="Inishowen" start="20200101000000" stop="99991231235900">
+  <programme channel="InishowenREDUNDANT" start="20200101000000" stop="99991231235900">
     <title lang="en">Inishowen League Game</title>
     <desc lang="en">Inishowen League Game - Description In Title</desc>
   </programme>
-  <programme channel="Music" start="20200101000000" stop="99991231235900">
+  <programme channel="MusicREDUNDANT" start="20200101000000" stop="99991231235900">
     <title lang="en">Music Video With Title</title>
     <desc lang="en">Music Video - Description In Title</desc>
   </programme>
@@ -145,7 +145,7 @@
     <title lang="en">Dublin City TV</title>
     <desc lang="en">Dublin City TV</desc>
   </programme>
-  <programme channel="retroFootball" start="20200101000000" stop="99991231235900">
+  <programme channel="retroFootballREDUNDANT" start="20200101000000" stop="99991231235900">
     <title lang="en">Retro Football Match - Description In Title</title>
     <desc lang="en">Retro Football Match - Description In Title</desc>
   </programme>
