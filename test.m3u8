@@ -1,7 +1,8 @@
 #EXTM3U
-
-#EXT-X-VERSION:4
-#EXTINF:-1 tvg-id="" channelID="" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1280x720
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1758000,RESOLUTION=1280x720,AUDIO="audio-1"
 https://stream.ayas.ir/hls2/persiana.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=896000,RESOLUTION=640x480,AUDIO="audio-1"
+https://stream.ayas.ir/hls2/persiana.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio2",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="http://radio.talksport.com/stream"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Audio3",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="http://radio.talksport.com/stream2"
