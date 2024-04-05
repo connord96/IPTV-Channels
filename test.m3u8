@@ -5,8 +5,8 @@
 
 
 # AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://edge.audioxi.com/HIGHLAND"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="http://icecast2.rte.ie/2fm"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/connord96/IPTV-Channels/main/testAudio.m3u"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://raw.githubusercontent.com/connord96/IPTV-Channels/main/testAudio.m3u"
 
 # Variants
 #EXT-X-STREAM-INF:BANDWIDTH=2302400,AVERAGE-BANDWIDTH=2101000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
