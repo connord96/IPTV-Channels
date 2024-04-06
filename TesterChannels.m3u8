@@ -342,7 +342,7 @@ http://ky-iptv.com:80/Nashj023/JFAhd336Pa/1391038.ts
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 1
 https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
 https://catowrap.live/mrgamingpremier.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
