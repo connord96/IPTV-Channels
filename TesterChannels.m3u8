@@ -60,8 +60,8 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 #EXTINF: **********This section is for English Language Premium Channels**********
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1 (Reliable)
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
-https://catowrap.live/mrgamingpremier.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
+https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 3
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 #EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 4
@@ -226,8 +226,8 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 9 (English Premier League - Might Not Work)
 https://3oadqw1shf2.a.trbcdn.net/livemaster/jtf2d_live-81uc5nxeyae.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 10 (English Premier League - Might Not Work)
-https://6oclock.xyz:8443/Linda/12345/12689
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 10 (English Premier League - Might Not Work)
+https://catowrap.live/mrgamingpremier.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 11 (English Premier League - Might Not Work)
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 12 (English Premier League - Might Not Work)
