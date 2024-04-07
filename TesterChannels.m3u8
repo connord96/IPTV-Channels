@@ -1008,18 +1008,20 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test1
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 1
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 2
 https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 3
 https://ovo.eelov.com/live/n-2/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 4
 https://ovo.eelov.com/live/n-3/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 5
 https://ovo.eelov.com/live/n-4/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test2 Merger Attempt Sound + Video
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 6
 https://ovo.eelov.com/live/n-5/chunks.m3u8
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 7
+https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 
 
 
