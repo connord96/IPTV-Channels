@@ -65,7 +65,7 @@ https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 3
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:67:EB:60&stream=79474&extension=ts&play_token=2MgLPZ4sYg
 #EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 4
-https://catowrap.live/mrgamingbtsport1.m3u8
+https://bp1.mrgamingstreams.com/bt.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 5
 https://himel-op.top/portal/cdnop.ts?channelId=299
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 6
@@ -106,8 +106,6 @@ https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 https://af.ayassport.ir/hls2/aiosport.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Sports",AIO Sport 2 (Premier League & European Games)
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-#EXTINF:-1 tvg-id="NBCEast.us" channelID="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" tvg-id="aiosports" group-title="Sports",NBC NYC (Premier League Games)
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
 #EXTINF:-1 tvg-id="TelemundoEast.us" channelID="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC (Premier League)
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoEast.us" channelID="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" tvg-id="telemundo" group-title="Sports",Telemundo NBC Backup (Premier League)
@@ -126,20 +124,18 @@ https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
 https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/index.m3u8
 #EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR.jpg" tvg-id="dazn" group-title="Sports",Dazn Sports Canada (Championship & European Games)
 https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM (European Games)
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-name="premiersport" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/83/Premier_Sports_logo.png" tvg-id="belarus5" group-title="Sports",Premier Slovakia (Championship & League 1 Games)
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-name="mmn" tvg-logo="https://static.wikia.nocookie.net/sonicfanon/images/f/fc/MMN.png" tvg-id="mmn" group-title="Sports",MMN Sport (European Games)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="matchrussia" group-title="Sports",Match! Russia (European Games)
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.bundesliga-international.com/wp-content/uploads/2020/11/Match-TV-logo.jpg" tvg-id="matchrussia" group-title="Sports",Match! Russia (Champions League)
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Sports",Sukan RTM (Champions League)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Sports",Tudn Sports (International & European Games)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.aparatchi.com/images/TV/jaam-tv.png" tvg-id="shabakke" group-title="Sports",Shabakke Jaam (Champions League)
-https://ncdn.telewebion.com/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png" tvg-id="lequipe" group-title="Sports",L'Équipe TV (International & European Games)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'Equipe 1 (International & European Games)
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'Equipe 2 (International & European Games)
@@ -148,10 +144,16 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/1200px-Belarus_5_logo.svg.png" tvg-id="belarus5" group-title="Sports",Belarus 5 (European Games)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="freeLivGolf" channelID="freeLivGolf" tvg-logo="https://shop.livgolf.com/cdn/shop/files/LIVGOLF_logo_v2_1.png" group-title="Sports",LIV Golf Official (During Events)
+https://ythls-v2.onrender.com/channel/UCuC-Is0pVH9RudfZJw-LSmw.m3u8
+#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="PGA.TOUR.us" channelID="PGA.TOUR.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",Pluto Golf (PGA Tour) 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/06/usga_logo_sml.png" group-title="Sports",US Golf TV (USGA)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
+#EXTINF:-1 tvg-name="freeForeignGolf" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="freeForeignGolf" group-title="Sports",CCTV5 China (Golf & European Games)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://image.roku.com/developer_channels/prod/dcc5a8374fcd114aff2db3dda4c6ad51f8a2c24ce0d929ed6f5b69156bb0cfad.png" group-title="Sports",Golf Pass
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CCTV-logo.jpg" group-title="Sports",CCTV Golf
@@ -164,8 +166,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 #EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.golfnetwork.plus/img/sp_header_icon_u.png" group-title="Sports",Golf Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 tvg-id="freeForeignGolf" channelID="freeForeignGolf" tvg-logo="https://www.itelka.sk/wp-content/uploads/2023/05/joj-sport.png" group-title="Sports",JOJ Sport (LIV Golf)
-https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us" channelID="BilliardTV.us" tvg-id="billiards" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard & Pool TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us" channelID="BilliardTV.us" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2023/09/240-2.jpg" group-title="Sports",Billiard TV 2
