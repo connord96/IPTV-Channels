@@ -48,6 +48,9 @@
   <channel id="unitedStand">
     <display-name lang="en">unitedStand</display-name>
   </channel>
+  <channel id="freeLivGolf">
+    <display-name lang="en">freeLivGolf</display-name>
+  </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -111,5 +114,9 @@
   <programme channel="unitedStand" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live During United Matches And Intermittently</title>
     <desc lang="en">Live During United Matches And Intermittently</desc>
+  </programme>
+  <programme channel="freeLivGolf" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Thursday->Sunday (During Events)</title>
+    <desc lang="en">Live Thursday->Sunday (During Events)</desc>
   </programme>
 </tv>
