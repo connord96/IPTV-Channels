@@ -353,6 +353,14 @@ https://bp1.mrgamingstreams.com/mrgamingsoccer4.m3u8
 https://bp1.mrgamingstreams.com/mrgamingsoccer5.m3u8
 #EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 6 (MrGam.)
 https://bp1.mrgamingstreams.com/mrgamingsoccer6.m3u8
+#EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (MrGam.2)
+https://mcdn.mrgamingstreams.com/one.m3u8
+#EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (MrGam.2)
+https://mcdn.mrgamingstreams.com/two.m3u8
+#EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (MrGam.2)
+https://mcdn.mrgamingstreams.com/three.m3u8
+#EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (MrGam.2)
+https://mcdn.mrgamingstreams.com/four.m3u8
 #EXTINF:-1 tvg-id="English.-.beIN.SPORTS.1.hk" channelID="English.-.beIN.SPORTS.1.hk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
