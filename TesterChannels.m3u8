@@ -252,6 +252,10 @@ https://7pal.short.gy/skyspt8nz
 http://103.120.172.74:1030/
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 22 (English Premier League - Might Not Work)
 http://tv.mototvlive.net:8880/salman/salman/1550
+#EXTINF:-1 tvg-id="CBSSportsNetworkCanada.ca" channelID="CBSSportsNetworkCanada.ca" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 23 (English Premier League - Might Not Work)
+http://premiumultra.xyz:8080/56954361495/110123iptv/23596
+#EXTINF:-1 tvg-id="CUSANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",UK Sports 24 (English Premier League - Might Not Work)
+http://premiumultra.xyz:8080/56954361495/110123iptv/23881
 
 
 
@@ -1020,6 +1024,11 @@ https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8
 #EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 26 (Probably Won't work - If not use Sportsfire App)
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 27 (Probably Won't work - If not use Sportsfire App)
+http://kool.to/play/3702635209/index.m3u8
+#EXTINF:-1 tvg-id="additionalSports" channelID="additionalSports" group-title="Additional Sports" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Additional Sports 28 (Probably Won't work - If not use Sportsfire App)
+http://kool.to/play/2601631769/index.m3u8
+
 
 
 
@@ -1048,3 +1057,4 @@ https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 #EXTINF: https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/367f88b5c48d5b05e04487220adc35e85d041985/Shareext%40Group
 #EXTINF: https://mpm.googlecdnforstreaming.live:446/mpm/bein1/playlist.m3u8 https://freenote.biz/print/F6sjFPlHar https://anym3u8player.com/ https://www.aionet.ir/page/4 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 #EXTINF: https://1rdk.short.gy/bdsajib/bongostream/bdix-playlist.m3u https://himel-op.top/himelop-premium/playlist.m3u https://s.id/BongoFlix (https://drive.usercontent.google.com/download?id=1cdrLie4ZUi84718M_NDp72RjuGUQ3wsq&export=download)
+#EXTINF: https://gist.github.com/jlgon62/33ec3779efeadb700aa72faf38014854
