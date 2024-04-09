@@ -451,6 +451,16 @@ https://freeiptv25.netlify.app/live/stream_7.m3u8
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-id="Netify" channelID="Netify" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Netify)
 https://freeiptv25.netlify.app/live/stream_9.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (eelov.com)
+https://ovo.eelov.com/live/n-1/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (eelov.com)
+https://ovo.eelov.com/live/n-2/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (eelov.com)
+https://ovo.eelov.com/live/n-3/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (eelov.com)
+https://ovo.eelov.com/live/n-4/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (eelov.com)
+https://ovo.eelov.com/live/n-5/chunks.m3u8
 #EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
 https://catowrap.live/mrgamingbein.m3u8 
 #EXTINF:-1 tvg-id="CBSEast.us" channelID="CBSEast.us" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 2
@@ -1018,16 +1028,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
 
 #EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 1
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 2
-https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 3
-https://ovo.eelov.com/live/n-2/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 4
-https://ovo.eelov.com/live/n-3/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 5
-https://ovo.eelov.com/live/n-4/chunks.m3u8
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 6
-https://ovo.eelov.com/live/n-5/chunks.m3u8
 #EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 7
 https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 
