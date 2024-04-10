@@ -33,18 +33,14 @@ http://radio.talksport.com/stream
 http://radio.talksport.com/stream2
 #EXTINF:-1 tvg-id="BBC.R5L.uk" channelID="BBC.R5L.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress)
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:connection=keep-alive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
-#EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:connection=keep-alive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
+#EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (May Freeze)
+https://oha.to/play/279901741/index.m3u8
+#EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 Backup (May Freeze)
+https://oha.to/play/3298772094/index.m3u8
+#EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (May Freeze)
+https://oha.to/play/3476015032/index.m3u8
+#EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (May Freeze)
+https://oha.to/play/1460571389/index.m3u8
 #EXTINF:0 tvg-id="TG4.ie" channelID="TG4.ie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/768px-TG4_logo.svg.png" group-title="Ireland 🇮🇪",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:0 tvg-id="Oireachtas.TV.ie" channelID="Oireachtas.TV.ie"  tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="Ireland 🇮🇪",Oireachtas TV (Dáil Eireann)
@@ -58,6 +54,16 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 
 
 #EXTINF: **********This section is for English Language Premium Channels**********
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 1
+https://oha.to/play/1567558664/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 2
+#EXTVLCOPT:http-referrer=http://tv247.us/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://live.tv247us.com/tv247/cbs.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 3
+https://oha.to/play/3067812990/index.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1 (Reliable)
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
@@ -272,15 +278,23 @@ http://premiumultra.xyz:8080/56954361495/110123iptv/23881
 
 #EXTINF: **********This section is for scraping websites catowrap, freetech links found on web - requires maintenance**********
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 1
+https://huhu.to/play/3110263312/index.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
 https://catowrap.live/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SS.Premier.League.Nigeria.ng" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 2
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
 https://catowrap.live/mrgamingpremier.m3u8
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 3
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" channelID="SkySp.PL.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 4
+https://oha.to/play/907159551/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" channelID="Sky.Sports.Football.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 5
+https://oha.to/play/1663655201/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" channelID="Sky.Sports.Football.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 6
+https://huhu.to/play/1663655201/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://salamus2023.onlinehdhls.ru/ddh1/premium70/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" channelID="SkySp.Mix.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Sky Sports Link 4
-https://catowrap.live/mrgamingmix.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1
+https://oha.to/play/3341494351/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1
 https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.HD.uk" channelID="TNTSports1.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",TNT Sports Link 1 BACKUP
@@ -299,8 +313,20 @@ https://catowrap.live/mrgamingbtsport4.m3u8
 https://bp1.mrgamingstreams.com/bt4.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkCanada.ca" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",CBS Sports Link 1
 https://catowrap.live/cbssn.m3u8
-#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",US Network Link 1
+#EXTINF:-1 tvg-id="CBSSportsNetworkCanada.ca" channelID="CBSSportsNetworkCanada.ca" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",CBS Sports Link 2
+#EXTVLCOPT:http-referrer=http://tv247.us/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://live.tv247us.com/tv247/cbs.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",USA Network Link 1
 https://bp1.mrgamingstreams.com/usan.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us" channelID="CBSSportsNetworkCanada.ca" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",USA Network Link 2
+#EXTVLCOPT:http-referrer=http://tv247.us/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://live.tv247us.com/tv247/usanw.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Flex Streams Link 1
 https://flex4.xyz/live/zone-11/chunks.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" channelID="English.-.Now.Sports.Premier.League.2.hk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Flex Streams Link 2
@@ -365,6 +391,24 @@ https://mcdn.mrgamingstreams.com/two.m3u8
 https://mcdn.mrgamingstreams.com/three.m3u8
 #EXTINF:-1 tvg-id="MrGaming" channelID="MrGaming" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (MrGam.2)
 https://mcdn.mrgamingstreams.com/four.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (eelov.com)
+https://ovo.eelov.com/live/n-1/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (eelov.com)
+https://ovo.eelov.com/live/n-2/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (eelov.com)
+https://ovo.eelov.com/live/n-3/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (eelov.com)
+https://ovo.eelov.com/live/n-4/chunks.m3u8
+#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (eelov.com)
+https://ovo.eelov.com/live/n-5/chunks.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" channelID="SkySp.F1.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live F1 Link 1 (StreamByTheWay)
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sportsleading.online/live/stream_f1.m3u8
+#EXTINF:-1 tvg-id="DadHD" channelID="DadHD" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live F1 2(StreamByTheWay)
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hls.streambtw.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-id="English.-.beIN.SPORTS.1.hk" channelID="English.-.beIN.SPORTS.1.hk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (Dad HDTV)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
@@ -455,16 +499,6 @@ https://freeiptv25.netlify.app/live/stream_7.m3u8
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-id="Netify" channelID="Netify" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 9 (Netify)
 https://freeiptv25.netlify.app/live/stream_9.m3u8
-#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 1 (eelov.com)
-https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 2 (eelov.com)
-https://ovo.eelov.com/live/n-2/chunks.m3u8
-#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 3 (eelov.com)
-https://ovo.eelov.com/live/n-3/chunks.m3u8
-#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 4 (eelov.com)
-https://ovo.eelov.com/live/n-4/chunks.m3u8
-#EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live Football Link 5 (eelov.com)
-https://ovo.eelov.com/live/n-5/chunks.m3u8
 #EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 1
 https://catowrap.live/mrgamingbein.m3u8 
 #EXTINF:-1 tvg-id="CBSEast.us" channelID="CBSEast.us" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 2
@@ -477,14 +511,8 @@ http://addmnrc.megahdtv.xyz:80/3748833076/7253843485/118046
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 tvg-id="random" channelID="random" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 6
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
-#EXTINF:-1 tvg-id="SkySp.F1.uk" channelID="SkySp.F1.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live F1 Link 1 (StreamByTheWay)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sportsleading.online/live/stream_f1.m3u8
-#EXTINF:-1 tvg-id="DadHD" channelID="DadHD" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Live F1 2(StreamByTheWay)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://hls.streambtw.com/live/stream_moto.m3u8
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" channelID="SkySp.Mix.HD.uk" group-title="Live Events (Might Work) ⚽" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Random Sports Link 7
+https://catowrap.live/mrgamingmix.m3u8
 
 
 
@@ -1035,9 +1063,22 @@ http://kool.to/play/2601631769/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 1
+
+#EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="External Links" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
+#EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="External Links" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="External Links" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Bein Turkey
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
-#EXTINF:-1 tvg-id="test" channelID="test" group-title="Test Section" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",Test 7
+#EXTINF:-1 tvg-id="test" channelID="test" group-title="External Links" tvg-logo="https://www.veeforu.com/wp-content/uploads/2022/12/Youtube-live-png-in-red-color-1024x576.png",IRIB 4K Channel
 https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 
 
@@ -1058,3 +1099,4 @@ https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 #EXTINF: https://mpm.googlecdnforstreaming.live:446/mpm/bein1/playlist.m3u8 https://freenote.biz/print/F6sjFPlHar https://anym3u8player.com/ https://www.aionet.ir/page/4 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 #EXTINF: https://1rdk.short.gy/bdsajib/bongostream/bdix-playlist.m3u https://himel-op.top/himelop-premium/playlist.m3u https://s.id/BongoFlix (https://drive.usercontent.google.com/download?id=1cdrLie4ZUi84718M_NDp72RjuGUQ3wsq&export=download)
 #EXTINF: https://gist.github.com/jlgon62/33ec3779efeadb700aa72faf38014854
+#EXTINF: Oha.TO & Huhu.to
