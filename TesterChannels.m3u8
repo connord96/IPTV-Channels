@@ -67,8 +67,14 @@ https://oha.to/play/1567558664/index.m3u8
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://live.tv247us.com/tv247/cbsn.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 2
+#EXTVLCOPT:http-referrer=https://cuervotv.me/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://ed-c001.edgking.me/plyvivo/j0gov0lik0vufi1i9eni/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 3
-https://oha.to/play/3067812990/index.m3u8
+https://v1.thetvapp.to/hls/GolfChannel.m3u8?token=jnTE-AeetlYTYlYq9o56zQ&expires=1712792253
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1 (Reliable)
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
