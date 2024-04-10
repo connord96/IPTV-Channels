@@ -72,30 +72,24 @@ https://ythls-v2.onrender.com/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8
 
 #EXTINF: **********This section is for English Language Premium Channels**********
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 1
+http://7.troya.one:34000/ch2245/mono.m3u8?token=connordoherty1.hFFcmST6Y3qPk_lXqa61VSEFMUz0GG8kChyQM5CWRyt_nrRzu7vtgOjIblIyM0WU
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 2
 #EXTVLCOPT:http-referrer=http://tv247.us/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://live.tv247us.com/tv247/cbsn.m3u8
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 2
-https://oha.to/play/1567558664/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 3
-#EXTVLCOPT:http-referrer=https://yallashoot.duktek.online/
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:connection=keep-alive
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=edd1e358ec2f0ba65cfeabe4c9fe243a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 3
+http://7.troya.one:34000/ch2447/mono.m3u8?token=connordoherty1.hFFcmST6Y3qPk_lXqa61VQzvb2Q0Gu47AOlv_k-2ryXp3p7ezmez7O-BBIPb1SaU
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 4
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://double5.ftsfshjdf.com:999/hls/skysgol.m3u8?md5=N4gNVa7j4QAdUYe-RV1gRA&expires=1712793187
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 4
-https://v1.thetvapp.to/hls/GolfChannel.m3u8?token=jnTE-AeetlYTYlYq9o56zQ&expires=1712792253
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 5
+https://oha.to/play/1567558664/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" channelID="SkySp.Golf.HD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Masters Live 6
 #EXTVLCOPT:http-referrer=http://tv247.us/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
@@ -105,6 +99,12 @@ KODIPROP:inputstream.adaptive.license_key=00058ce1e2fec87d9e9b3357dddf414d:5ab2e
 https://live.tv247us.com/tv247/e1.m3u8
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 1 (Reliable)
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Football Reliable (Expires: 14/04/24)
+http://7.troya.one:34000/ch2251/mono.m3u8?token=connordoherty1.hFFcmST6Y3qPk_lXqa61VedcNm-_XBC-9Hwb7Uj9_LYw7Q4GcFmAC4g-_UGBCM6K
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Football Reliable (Expires: 14/04/24)
+http://7.troya.one:34000/ch2753/mono.m3u8?token=connordoherty1.hFFcmST6Y3qPk_lXqa61VSaywKzZqVGuvZVDTxiSuOh85XbKHPbDlVhRmzAk4LE3
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" channelID="English.-.Now.Sports.Premier.League.1.hk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Football Reliable (Expires: 14/04/24)
+http://7.troya.one:34000/ch2755/mono.m3u8?token=connordoherty1.hFFcmST6Y3qPk_lXqa61VSaywKzZqVGuvZVDTxiSuOjbOOzuuAtCVSXUCuV-jDyY
 #EXTINF:-1 tvg-id="USANetworkEast.us" channelID="USANetworkEast.us" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 2
 https://6oclock.xyz:8443/Linda/12345/12689
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" channelID="SkySpMainEvHD.uk" group-title="UK Sports (Might Not Work)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png",Live Sports 3
