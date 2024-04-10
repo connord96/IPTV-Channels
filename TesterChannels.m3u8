@@ -33,10 +33,22 @@ http://radio.talksport.com/stream
 http://radio.talksport.com/stream2
 #EXTINF:-1 tvg-id="BBC.R5L.uk" channelID="BBC.R5L.uk" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p01lcgdd.jpg" group-title="Sports",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="External Links" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTE 1 (Work In Progress - Glitchy)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
 #EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTÉ 1 (Might Not Work)
 https://oha.to/play/3298772094/index.m3u8
 #EXTINF:-1 tvg-id="RTÉ.One.ie" channelID="RTÉ One.ie" group-title="Ireland 🇮🇪" tvg-logo="https://img.rasset.ie/0014f69f-354.jpg",RTÉ 1 Backup (Might Not Work)
 https://huhu.to/play/3298772094/index.m3u8
+#EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="External Links" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress - Glitchy)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:connection=keep-alive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTÉ 2 (Might Not Work)
 https://oha.to/play/1460571389/index.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="Ireland 🇮🇪" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTÉ 2 Backup (Might Not Work)
@@ -1096,13 +1108,13 @@ https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://salamus2023.onlinehdhls.ru/ddh2/premium364/playlist.m3u8
+https://salamus2023.onlinehdhls.ru/ddh1/premium364/playlist.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="External Links" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 (Work In Progress)
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:connection=keep-alive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://salamus2023.onlinehdhls.ru/ddh2/premium365/playlist.m3u8
+https://salamus2023.onlinehdhls.ru/ddh1/premium365/playlist.m3u8
 #EXTINF:-1 tvg-id="RTÉ2.ie" channel="RTÉ2.ie" channelID="RTÉ2.ie" group-title="External Links" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",RTE 2 Webhdrus
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT--http-reconnect=true
