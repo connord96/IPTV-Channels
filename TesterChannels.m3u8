@@ -1,12 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 
-#EXTINF: **********This section is for the Information section explaining usage**********
-#EXTINF:-1 tvg-id="Info" channelID="Info"  tvg-logo="https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg" group-title="Information ℹ️",Information
-https://zggg98sgwbg1gh.bitchute.com/QUNJDoOZpK1P/ItReCC8Oc8uK.mp4
-
-
-
-
 
 #EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
 #EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio"  tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
