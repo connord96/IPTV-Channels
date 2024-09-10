@@ -119,4 +119,8 @@
     <title lang="en">Live Thursday->Sunday (During Events)</title>
     <desc lang="en">Live Thursday->Sunday (During Events)</desc>
   </programme>
+    <programme channel="youtubeLive" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Feed From YouTube At Selected Times</title>
+    <desc lang="en">Selected Feeds Live</desc>
+  </programme>
 </tv>
