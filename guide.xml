@@ -39,6 +39,13 @@
   <channel id="dctv">
     <display-name lang="en">dctv</display-name>
   </channel>
+    <channel id="cctv">
+    <display-name lang="en">cctv</display-name>
+  </channel>
+  </channel>
+    <channel id="azoyat">
+    <display-name lang="en">azoyat</display-name>
+  </channel>
   <channel id="additionalSports">
     <display-name lang="en">additionalSports</display-name>
   </channel>
@@ -50,6 +57,15 @@
   </channel>
   <channel id="freeLivGolf">
     <display-name lang="en">freeLivGolf</display-name>
+  </channel>
+  <channel id="vipSports">
+    <display-name lang="en">vipSports</display-name>
+  </channel>
+  <channel id="boxSports">
+    <display-name lang="en">boxSports</display-name>
+  </channel>
+  <channel id="boxSports4k">
+    <display-name lang="en">boxSports4k</display-name>
   </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
@@ -103,6 +119,14 @@
     <title lang="en">Dublin City TV</title>
     <desc lang="en">Dublin City TV</desc>
   </programme>
+  <programme channel="cctv" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Cork Community TV</title>
+    <desc lang="en">Cork Community TV</desc>
+  </programme>
+  <programme channel="azoyat" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Azoyat TV - Irish TV (Thursday 10pm)</title>
+    <desc lang="en">Provides Irish TV feed every Thursday night and some other evenings</desc>
+  </programme>
   <programme channel="additionalSports" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Selected Sports From Across The Globe</title>
     <desc lang="en">Selected Sports From Across The Globe</desc>
@@ -122,5 +146,20 @@
     <programme channel="youtubeLive" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live Feed From YouTube At Selected Times</title>
     <desc lang="en">Selected Feeds Live</desc>
+  </programme>
+  </programme>
+    <programme channel="vipSports" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live VIP Sports Event</title>
+    <desc lang="en">Live Premium Sports Event From Across The Globe - PPV Events Including Football, Ice Hockey, Rugby, Boxing etc.</desc>
+  </programme>
+  </programme>
+    <programme channel="boxSports" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Box Sports Event</title>
+    <desc lang="en">Live Premium Box Sports Event From Across The Globe - PPV Events Including Football, Ice Hockey, Rugby, Boxing etc. Generally Streamed In Russian language</desc>
+  </programme>
+  </programme>
+    <programme channel="boxSports4k" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Box Sports Event 4k</title>
+    <desc lang="en">Live Premium Sports Event In 4k Video From Across The Globe - PPV Events Including Football, Ice Hockey, Rugby, Boxing etc. Generally Streamed In Russian language</desc>
   </programme>
 </tv>
