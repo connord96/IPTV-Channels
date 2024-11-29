@@ -1,28 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Info">
-    <display-name lang="en">Info</display-name>
-  </channel>
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<tv>
   <channel id="LiveRadio">
     <display-name lang="en">LiveRadio</display-name>
   </channel>
-  <channel id="PremierLeague">
-    <display-name lang="en">PremierLeague</display-name>
-  </channel>
-  <channel id="DadHD">
-    <display-name lang="en">DadHD</display-name>
-  </channel>
-  <channel id="Netify">
-    <display-name lang="en">Netify</display-name>
-  </channel>
-  <channel id="MrGaming">
-    <display-name lang="en">MrGaming</display-name>
-  </channel>
   <channel id="247Programming">
     <display-name lang="en">247Programming</display-name>
-  </channel>
-  <channel id="random">
-    <display-name lang="en">random</display-name>
   </channel>
   <channel id="foreignPLFree">
     <display-name lang="en">foreignPLFree</display-name>
@@ -34,19 +16,15 @@
     <display-name lang="en">foreignPoolFree</display-name>
   </channel>
   <channel id="billiardTV">
-<display-name lang="en">billiardTV</display-name>
-</channel>
+    <display-name lang="en">billiardTV</display-name>
+  </channel>
   <channel id="freeForeignGolf">
     <display-name lang="en">freeForeignGolf</display-name>
   </channel>
-  <channel id="dctv">
-    <display-name lang="en">dctv</display-name>
-  </channel>
-    <channel id="cctv">
+  <channel id="cctv">
     <display-name lang="en">cctv</display-name>
   </channel>
-  </channel>
-    <channel id="azoyat">
+  <channel id="azoyat">
     <display-name lang="en">azoyat</display-name>
   </channel>
   <channel id="additionalSports">
