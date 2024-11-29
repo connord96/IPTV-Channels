@@ -1,3 +1,17 @@
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/e/eb/Football-HD_Logo.jpg" tvg-id="footballhdtjk" group-title="Free Foreign Sports",Football HD Tajikistan (Premier League & European Games) 
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://online-television.net/uploads/posts/2022-11/varzishtv.webp" tvg-id="varzish" group-title="Free Foreign Sports",VarZish TV (TJK) (Premier League & European Games)
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/05/tudn-logo.jpg" tvg-id="tudnsport" group-title="Free Foreign Sports",Tudn Sports (International & European Games)
+http://190.185.121.102:58092/play/a00m
+#EXTINF:-1 tvg-id="beIN.SPORTS.XTRA.us" channelID="beIN.SPORTS.XTRA.us"  tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Free Foreign Sports",Bein Sports Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Free Foreign Sports",AIO Sport 1 (Premier League & European Games)
+https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-logo="https://persiantv.us/uploads/tv_image/aio-sport.jpg" tvg-id="aiosports" group-title="Free Foreign Sports",AIO Sport 2 (Premier League & European Games)
+https://live.tmk.ir/channel2/signal/stream_720/index.m3u8
+#EXTINF:-1 tvg-id="foreignPLFree" channelID="foreignPLFree" tvg-id="persianasports" tvg-logo="https://i.imgur.com/wLjSSo2.jpeg" tvg-id="persianasports" group-title="Free Foreign Sports", Multivision Sports Guatemala (Premier League & European Games)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="todayfm" tvg-logo="https://www.todayfm.com/images/logo.svg" group-title="Ireland" radio="true",Today FM
 https://edge.audioxi.com/TDAAC
 #EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" tvg-id="cctv5+" group-title="Sports",CCTV5 China (European Games)
