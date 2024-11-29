@@ -33,6 +33,9 @@
   <channel id="foreignPoolFree">
     <display-name lang="en">foreignPoolFree</display-name>
   </channel>
+  <channel id="billiardTV">
+<display-name lang="en">billiardTV</display-name>
+</channel>
   <channel id="freeForeignGolf">
     <display-name lang="en">freeForeignGolf</display-name>
   </channel>
@@ -67,6 +70,12 @@
   <channel id="boxSports4k">
     <display-name lang="en">boxSports4k</display-name>
   </channel>
+  <channel id="massFeed">
+    <display-name lang="en">massFeed</display-name>
+  </channel>
+  <channel id="youtubeLive">
+    <display-name lang="en">youtubeLive</display-name>
+  </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -100,17 +109,21 @@
     <desc lang="en">Random Sports Stream From Abroad - Might Not Work</desc>
   </programme>
   <programme channel="foreignPLFree" start="20200101000000" stop="99991231235900">
-    <title lang="en">Premier League Games Live On This Channel</title>
-    <desc lang="en">Premier League Games Live On This Channel</desc>
+    <title lang="en">Live Football Shown On This Channel</title>
+    <desc lang="en">Live Football On This Channel Can Include Premier League, Champions League, International Games etc.</desc>
   </programme>
   <programme channel="foreignSportsFree" start="20200101000000" stop="99991231235900">
-    <title lang="en">Selected Sports Live</title>
-    <desc lang="en">Selected Sports Live</desc>
+    <title lang="en">Live Sports Shown On This Channel</title>
+    <desc lang="en">Live Sports From Across The Globe Shown Here</desc>
   </programme>
   <programme channel="foreignPoolFree" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live Pool And Billiards Daily</title>
     <desc lang="en">Selected Sports Live</desc>
   </programme>
+  <programme channel="billiardTV" start="20200101000000" stop="99991231235900">
+<title lang="en">Billiard TV</title>
+<desc lang="en">Live And Repeat Billiard, Pool And Snooker Events</desc>
+</programme>
   <programme channel="freeForeignGolf" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live And repeat Golf Events</title>
     <desc lang="en">Live And repeat Golf Events</desc>
@@ -144,8 +157,8 @@
     <desc lang="en">Live Thursday->Sunday (During Events)</desc>
   </programme>
     <programme channel="youtubeLive" start="20240402163000 +0100" stop="204080403171500 +0100">
-    <title lang="en">Live Feed From YouTube At Selected Times</title>
-    <desc lang="en">Selected Feeds Live</desc>
+    <title lang="en">YouTube Live Link</title>
+    <desc lang="en">Link Becomes Active Whenever Selected YouTube Channel Goes LIVE</desc>
   </programme>
   </programme>
     <programme channel="vipSports" start="20240402163000 +0100" stop="204080403171500 +0100">
@@ -161,5 +174,10 @@
     <programme channel="boxSports4k" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live Box Sports Event 4k</title>
     <desc lang="en">Live Premium Sports Event In 4k Video From Across The Globe - PPV Events Including Football, Ice Hockey, Rugby, Boxing etc. Generally Streamed In Russian language</desc>
+  </programme>
+  </programme>
+    <programme channel="massFeed" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Video From Local Parishes</title>
+    <desc lang="en">Live Video Stream From Local Chapels in Ireland, England And Scotland</desc>
   </programme>
 </tv>
