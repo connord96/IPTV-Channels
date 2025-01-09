@@ -54,6 +54,9 @@
   <channel id="youtubeLive">
     <display-name lang="en">youtubeLive</display-name>
   </channel>
+  <channel id="liveSportsChannels">
+    <display-name lang="en">liveSportsChannels</display-name>
+  </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -153,5 +156,9 @@
   <programme channel="massFeed" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live Video From Local Parishes</title>
     <desc lang="en">Live Video Stream From Local Chapels in Ireland, England And Scotland</desc>
+  </programme>
+  <programme channel="liveSportsChannels" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live Sports From Sky & TNT</title>
+    <desc lang="en">Live Premium Sports From Sky Sports & TNT Showing Live EPL, Champions League etc.</desc>
   </programme>
 </tv>
