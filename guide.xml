@@ -57,6 +57,15 @@
   <channel id="liveSportsChannels">
     <display-name lang="en">liveSportsChannels</display-name>
   </channel>
+  <channel id="bbcDocs">
+    <display-name lang="en">bbcdocs</display-name>
+  </channel>
+  <channel id="bbcSports">
+    <display-name lang="en">bbcSports</display-name>
+  </channel>
+  <channel id="bbcRadio">
+    <display-name lang="en">bbcRadio</display-name>
+  </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -160,5 +169,17 @@
   <programme channel="liveSportsChannels" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Live Sports From Sky & TNT</title>
     <desc lang="en">Live Premium Sports From Sky Sports & TNT Showing Live EPL, Champions League etc.</desc>
+  </programme>
+  <programme channel="bbcDocs" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Documentaries From The BBC</title>
+    <desc lang="en">Documentaries shown by the BBC previosuly - mostly Louis Theroux</desc>
+  </programme>
+  <programme channel="bbcSports" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Live During Sports Events</title>
+    <desc lang="en">Only live during sports events such as the FA Cup, Northern Irish Football League, Olympics etc</desc>
+  </programme>
+  <programme channel="bbcRadio" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Music Sessions From The BBC</title>
+    <desc lang="en">Previously recorded gigs and sessions from the BBC studios</desc>
   </programme>
 </tv>
