@@ -66,6 +66,9 @@
   <channel id="bbcRadio">
     <display-name lang="en">bbcRadio</display-name>
   </channel>
+  <channel id="usaFreeTV">
+    <display-name lang="en">usaFreeTV</display-name>
+  </channel>
   <programme channel="Info" start="20200101000000" stop="99991231235900">
     <title lang="en">Information On This Service</title>
     <desc lang="en">Information On This Service And The Different Sections Available To use. Some Details May Be Outdated!</desc>
@@ -181,5 +184,9 @@
   <programme channel="bbcRadio" start="20240402163000 +0100" stop="204080403171500 +0100">
     <title lang="en">Music Sessions From The BBC</title>
     <desc lang="en">Previously recorded gigs and sessions from the BBC studios</desc>
+  </programme>
+  <programme channel="usaFreeTV" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Free TV From the USA</title>
+    <desc lang="en">Free TV Channel showing sports, documentaries, music etc. from multiple online sources such as Tubi, Pluto, Rakuten etc.</desc>
   </programme>
 </tv>
