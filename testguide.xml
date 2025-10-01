@@ -1,1 +1,27 @@
-
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  
+  <channel id="massFeed1">
+    <display-name lang="en">massFeed1</display-name>
+  </channel>
+  <channel id="boxSports4k1">
+    <display-name lang="en">boxSports4k1</display-name>
+  </channel>
+  <channel id="vipSports1">
+    <display-name lang="en">vipSports1</display-name>
+  </channel>
+  
+  <programme channel="massFeed1" start="20200101000000" stop="99991231235900">
+    <title lang="en">Live Video From Local Parishes</title>
+    <desc lang="en">Live Video Stream From Local Chapels in Inishowen</desc>
+  </programme>
+  <programme channel="boxSports4k1" start="20200101000000" stop="99991231235900">
+    <title lang="en">Live Box Sports Event 4k</title>
+    <desc lang="en">Live Box Sports Event 4k</desc>
+  </programme>
+  <programme channel="vipSports1" start="20200101000000" stop="99991231235900">
+    <title lang="en">Live VIP Sports Event</title>
+    <desc lang="en">Live VIP Sports Event</desc>
+  </programme>
+  
+</tv>
