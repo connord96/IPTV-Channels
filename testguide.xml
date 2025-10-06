@@ -10,6 +10,9 @@
   <channel id="vipSports1">
     <display-name lang="en">vipSports1</display-name>
   </channel>
+  <channel id="cctv">
+    <display-name lang="en">cctv</display-name>
+  </channel>
   
   <programme channel="massFeed1" start="20200101000000" stop="99991231235900">
     <title lang="en">Live Video From Local Parishes</title>
@@ -22,6 +25,10 @@
   <programme channel="vipSports1" start="20200101000000" stop="99991231235900">
     <title lang="en">Live VIP Sports Event</title>
     <desc lang="en">Live VIP Sports Event</desc>
+  </programme>
+  <programme channel="cctv" start="20240402163000 +0100" stop="204080403171500 +0100">
+    <title lang="en">Cork Community TV</title>
+    <desc lang="en">Cork Community TV</desc>
   </programme>
   
 </tv>
