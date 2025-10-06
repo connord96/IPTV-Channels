@@ -26,7 +26,7 @@
     <title lang="en">Live VIP Sports Event</title>
     <desc lang="en">Live VIP Sports Event</desc>
   </programme>
-  <programme channel="cctv" start="20240402163000 +0100" stop="204080403171500 +0100">
+  <programme channel="cctv" start="20240402163000" stop="204080403171500">
     <title lang="en">Cork Community TV</title>
     <desc lang="en">Cork Community TV</desc>
   </programme>
