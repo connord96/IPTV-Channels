@@ -27,8 +27,8 @@
     <desc lang="en">Live VIP Sports Event</desc>
   </programme>
   <programme channel="cctv1" start="202001010000000" stop="99991231235900">
-    <title lang="en">Cork Community TV</title>
-    <desc lang="en">Cork Community TV</desc>
+    <title lang="en">Cork Community TV - Programming from 12pm to 10pm</title>
+    <desc lang="en">Cork Community TV - Programming from 12pm to 10pm</desc>
   </programme>
   
 </tv>
