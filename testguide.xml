@@ -13,6 +13,9 @@
   <channel id="cctv1">
     <display-name lang="en">cctv1</display-name>
   </channel>
+  <channel id="faithtv">
+    <display-name lang="en">cctv1</display-name>
+  </channel>
   
   <programme channel="massFeed1" start="20200101000000" stop="99991231235900">
     <title lang="en">Live Video From Local Parishes</title>
@@ -29,6 +32,10 @@
   <programme channel="cctv1" start="202001010000000" stop="99991231235900">
     <title lang="en">Cork Community TV - Programming from 12pm to 10pm</title>
     <desc lang="en">Cork Community TV - Programming from 12pm to 10pm</desc>
+  </programme>
+  <programme channel="faithtv" start="202001010000000" stop="99991231235900">
+    <title lang="en">Irish West TV - 21.30pm Wednesday</title>
+    <desc lang="en">Irish West TV - 21.30pm Wednesday</desc>
   </programme>
   
 </tv>
